@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New England Patriots,DST,12,NE,NYJ,5,2,3,1,4,0,2,0,19,25.00,2012
+2,Los Angeles Rams,DST,12,LAR,ARI,3,2,2,4,0,0,2,0,17,23.00,2012
+3,Cleveland Browns,DST,12,CLE,PIT,5,1,1,3,5,0,0,0,14,21.00,2012
+4,San Francisco 49ers,DST,12,SF,NO,3,5,7,2,0,0,2,0,21,21.00,2012
+5,Indianapolis Colts,DST,12,IND,BUF,6,2,5,1,0,0,0,1,13,14.00,2012
+6,Chicago Bears,DST,12,CHI,MIN,1,2,7,1,2,0,0,0,10,14.00,2012
+7,New York Giants,DST,12,NYG,GB,4,5,7,1,1,0,0,0,10,13.00,2012
+8,Pittsburgh Steelers,DST,12,PIT,CLE,8,4,5,1,0,0,1,0,20,13.00,2012
+9,Cincinnati Bengals,DST,12,CIN,OAK,7,4,8,1,1,0,0,0,10,12.00,2012
+10,Baltimore Ravens,DST,12,BAL,LAC,7,6,6,0,0,0,0,0,13,10.00,2012
+11,Buffalo Bills,DST,12,BUF,IND,6,4,7,1,1,0,0,0,20,9.00,2012
+12,Seattle Seahawks,DST,12,SEA,MIA,4,1,1,1,0,0,0,1,24,9.00,2012
+13,Tennessee Titans,DST,12,TEN,JAX,6,7,13,1,0,0,0,0,24,9.00,2012
+14,Denver Broncos,DST,12,DEN,KC,3,2,6,1,0,0,0,0,9,8.00,2012
+15,Carolina Panthers,DST,12,CAR,PHI,4,1,1,0,3,0,0,0,22,7.00,2012
+16,Washington Redskins,DST,12,WAS,DAL,2,2,10,2,1,0,0,0,31,7.00,2012
+17,New Orleans Saints,DST,12,NO,SF,2,0,2,1,1,0,0,0,31,7.00,2012
+18,Jacksonville Jaguars,DST,12,JAX,TEN,6,1,2,2,0,0,0,0,19,6.00,2012
+19,Los Angeles Chargers,DST,12,LAC,BAL,9,5,6,0,0,0,0,0,16,6.00,2012
+20,Minnesota Vikings,DST,12,MIN,CHI,3,1,5,1,1,0,0,0,28,6.00,2012
+21,Arizona Cardinals,DST,12,ARI,LAR,4,2,1,1,0,0,0,0,31,5.00,2012
+22,Kansas City Chiefs,DST,12,KC,DEN,6,2,6,1,0,0,0,0,17,5.00,2012
+23,Tampa Bay Buccaneers,DST,12,TB,ATL,6,1,1,1,1,0,0,0,24,5.00,2012
+24,Houston Texans,DST,12,HOU,DET,9,3,7,0,1,0,0,0,31,4.00,2012
+25,Detroit Lions,DST,12,DET,HOU,7,2,6,1,0,0,0,0,34,3.00,2012
+26,Atlanta Falcons,DST,12,ATL,TB,7,2,4,0,0,0,0,0,23,2.00,2012
+27,Miami Dolphins,DST,12,MIA,SEA,5,2,5,0,0,0,0,0,21,2.00,2012
+28,Dallas Cowboys,DST,12,DAL,WAS,5,3,7,1,0,0,0,0,38,1.00,2012
+29,Oakland Raiders,DST,12,OAK,CIN,2,2,5,0,0,0,0,0,34,1.00,2012
+30,Philadelphia Eagles,DST,12,PHI,CAR,6,2,4,0,0,0,0,0,30,1.00,2012
+31,New York Jets,DST,12,NYJ,NE,3,0,1,0,1,1,0,0,49,0.00,2012
+32,Green Bay Packers,DST,12,GB,NYG,3,1,2,0,0,0,0,0,38,-3.00,2012

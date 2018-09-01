@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Tampa Bay Buccaneers,DST,2,TB,CHI,8,1,8,2,2,0,1,0,7,19.00,2017
+2,Baltimore Ravens,DST,2,BAL,CLE,4,3,9,4,1,0,0,0,10,17.00,2017
+3,Detroit Lions,DST,2,DET,NYG,8,5,8,1,0,0,0,1,10,17.00,2017
+4,Denver Broncos,DST,2,DEN,DAL,4,2,7,2,0,0,1,0,17,13.00,2017
+5,Atlanta Falcons,DST,2,ATL,GB,3,3,7,1,1,0,1,0,23,13.00,2017
+6,Kansas City Chiefs,DST,2,KC,PHI,10,6,11,1,1,0,0,0,20,11.00,2017
+7,Buffalo Bills,DST,2,BUF,CAR,12,6,7,0,0,0,0,0,9,10.00,2017
+8,Carolina Panthers,DST,2,CAR,BUF,6,3,6,0,0,0,0,0,3,10.00,2017
+9,Arizona Cardinals,DST,2,ARI,IND,9,4,9,1,0,0,0,0,13,10.00,2017
+10,Houston Texans,DST,2,HOU,CIN,6,3,4,0,1,0,0,0,9,9.00,2017
+11,Tennessee Titans,DST,2,TEN,JAX,4,2,6,2,1,0,0,0,16,9.00,2017
+12,Oakland Raiders,DST,2,OAK,NYJ,8,4,5,0,2,0,0,0,20,9.00,2017
+13,Pittsburgh Steelers,DST,2,PIT,MIN,4,2,8,0,1,0,0,0,9,8.00,2017
+14,Seattle Seahawks,DST,2,SEA,SF,4,2,4,1,0,0,0,0,9,8.00,2017
+15,Cincinnati Bengals,DST,2,CIN,HOU,6,3,5,0,0,0,0,0,13,7.00,2017
+16,Indianapolis Colts,DST,2,IND,ARI,7,4,9,1,0,0,0,0,16,7.00,2017
+17,Washington Redskins,DST,2,WAS,LAR,3,2,5,1,1,0,0,0,20,7.00,2017
+18,San Francisco 49ers,DST,2,SF,SEA,6,3,10,0,0,0,0,0,12,7.00,2017
+19,Cleveland Browns,DST,2,CLE,BAL,10,2,4,1,1,0,0,0,24,6.00,2017
+20,New York Giants,DST,2,NYG,DET,8,3,5,0,1,0,0,0,24,5.00,2017
+21,Philadelphia Eagles,DST,2,PHI,KC,7,4,9,0,0,0,0,0,27,4.00,2017
+22,Chicago Bears,DST,2,CHI,TB,4,2,6,0,1,0,0,0,29,4.00,2017
+23,Los Angeles Chargers,DST,2,LAC,MIA,10,2,3,0,0,0,0,0,19,3.00,2017
+24,Minnesota Vikings,DST,2,MIN,PIT,4,2,5,0,0,0,0,0,26,2.00,2017
+25,New England Patriots,DST,2,NE,NO,3,1,7,0,0,0,0,0,20,2.00,2017
+26,Miami Dolphins,DST,2,MIA,LAC,5,1,5,0,0,0,0,0,17,2.00,2017
+27,Los Angeles Rams,DST,2,LAR,WAS,5,2,5,0,0,0,0,0,27,2.00,2017
+28,Dallas Cowboys,DST,2,DAL,DEN,5,2,4,1,1,0,0,0,42,2.00,2017
+29,Green Bay Packers,DST,2,GB,ATL,4,3,7,0,0,0,0,0,34,2.00,2017
+30,Jacksonville Jaguars,DST,2,JAX,TEN,3,1,2,1,0,0,0,0,37,-1.00,2017
+31,New Orleans Saints,DST,2,NO,NE,4,2,5,0,0,0,0,0,36,-2.00,2017
+32,New York Jets,DST,2,NYJ,OAK,5,0,0,0,0,0,0,0,45,-4.00,2017

@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Seattle Seahawks,DST,3,SEA,LAC,6,4,9,2,3,0,0,2,20,27.00,2010
+2,Pittsburgh Steelers,DST,3,PIT,TB,4,4,6,1,1,0,1,0,13,18.00,2010
+3,Philadelphia Eagles,DST,3,PHI,JAX,12,7,12,1,0,0,0,0,3,16.00,2010
+4,Dallas Cowboys,DST,3,DAL,HOU,8,4,5,2,1,0,0,0,13,14.00,2010
+5,Tennessee Titans,DST,3,TEN,NYG,4,2,7,2,1,1,0,0,10,14.00,2010
+6,Cincinnati Bengals,DST,3,CIN,CAR,1,1,6,1,3,0,0,0,7,13.00,2010
+7,Chicago Bears,DST,3,CHI,GB,3,0,3,1,1,0,0,1,17,13.00,2010
+8,Arizona Cardinals,DST,3,ARI,OAK,7,3,6,1,0,0,0,1,23,11.00,2010
+9,Kansas City Chiefs,DST,3,KC,SF,6,5,10,1,0,0,0,0,10,11.00,2010
+10,Minnesota Vikings,DST,3,MIN,DET,3,1,6,2,1,0,0,0,10,11.00,2010
+11,Indianapolis Colts,DST,3,IND,DEN,3,1,1,1,1,0,0,0,13,9.00,2010
+12,Atlanta Falcons,DST,3,ATL,NO,3,2,4,2,1,0,0,0,24,8.00,2010
+13,Detroit Lions,DST,3,DET,MIN,6,2,5,2,1,0,0,0,24,8.00,2010
+14,Oakland Raiders,DST,3,OAK,ARI,5,2,4,1,2,0,0,0,24,8.00,2010
+15,Los Angeles Rams,DST,3,LAR,WAS,7,1,5,1,1,0,0,0,16,8.00,2010
+16,Los Angeles Chargers,DST,3,LAC,SEA,7,3,4,1,0,1,0,0,27,7.00,2010
+17,Carolina Panthers,DST,3,CAR,CIN,3,1,6,2,0,0,0,0,20,6.00,2010
+18,Green Bay Packers,DST,3,GB,CHI,6,3,6,1,0,0,0,0,20,6.00,2010
+19,New York Jets,DST,3,NYJ,MIA,5,2,5,1,0,0,0,0,23,6.00,2010
+20,Washington Redskins,DST,3,WAS,LAR,5,1,2,1,1,0,0,0,30,6.00,2010
+21,Buffalo Bills,DST,3,BUF,NE,4,1,2,0,1,0,0,1,38,5.00,2010
+22,New England Patriots,DST,3,NE,BUF,3,1,3,2,0,0,0,0,30,4.00,2010
+23,New Orleans Saints,DST,3,NO,ATL,7,2,5,0,1,0,0,0,27,4.00,2010
+24,Baltimore Ravens,DST,3,BAL,CLE,3,2,2,0,0,0,0,0,17,3.00,2010
+25,Tampa Bay Buccaneers,DST,3,TB,PIT,4,0,1,2,0,0,0,0,38,3.00,2010
+26,Jacksonville Jaguars,DST,3,JAX,PHI,2,3,10,0,0,0,0,0,28,2.00,2010
+27,New York Giants,DST,3,NYG,TEN,6,1,1,0,0,0,0,0,29,1.00,2010
+28,San Francisco 49ers,DST,3,SF,KC,4,0,6,1,0,0,0,0,31,1.00,2010
+29,Miami Dolphins,DST,3,MIA,NYJ,2,0,1,0,0,0,0,0,31,1.00,2010
+30,Cleveland Browns,DST,3,CLE,BAL,2,0,2,0,0,0,0,0,24,0.00,2010
+31,Denver Broncos,DST,3,DEN,IND,4,0,3,0,0,0,0,0,27,0.00,2010
+32,Houston Texans,DST,3,HOU,DAL,0,0,6,0,0,0,0,0,27,0.00,2010

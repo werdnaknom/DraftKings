@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Tampa Bay Buccaneers,DST,9,TB,GB,6,6,12,3,0,0,1,1,28,25.00,2009
+2,Pittsburgh Steelers,DST,9,PIT,DEN,7,2,7,3,0,0,1,0,10,21.00,2009
+3,Seattle Seahawks,DST,9,SEA,DET,4,2,4,5,0,0,1,0,20,19.00,2009
+4,Tennessee Titans,DST,9,TEN,SF,3,4,5,3,1,0,1,0,27,18.00,2009
+5,New Orleans Saints,DST,9,NO,CAR,9,2,4,0,3,0,1,0,20,15.00,2009
+6,Atlanta Falcons,DST,9,ATL,WAS,8,5,8,1,0,0,1,0,17,14.00,2009
+7,Denver Broncos,DST,9,DEN,PIT,3,3,6,1,1,0,1,0,28,13.00,2009
+8,Cincinnati Bengals,DST,9,CIN,BAL,5,4,7,2,0,0,0,0,7,12.00,2009
+9,Dallas Cowboys,DST,9,DAL,PHI,4,3,6,2,0,0,0,0,16,8.00,2009
+10,Los Angeles Chargers,DST,9,LAC,NYG,6,5,6,0,1,0,0,0,20,8.00,2009
+11,Arizona Cardinals,DST,9,ARI,CHI,3,4,9,1,0,0,0,0,21,8.00,2009
+12,Houston Texans,DST,9,HOU,IND,4,2,2,2,0,0,0,0,20,7.00,2009
+13,Indianapolis Colts,DST,9,IND,HOU,2,2,6,2,0,0,0,0,17,7.00,2009
+14,Philadelphia Eagles,DST,9,PHI,DAL,6,4,5,1,0,0,0,0,20,7.00,2009
+15,New York Giants,DST,9,NYG,LAC,7,2,5,2,0,0,0,0,21,6.00,2009
+16,Carolina Panthers,DST,9,CAR,NO,3,1,4,1,1,0,0,0,30,5.00,2009
+17,Detroit Lions,DST,9,DET,SEA,5,1,6,1,1,0,0,0,32,5.00,2009
+18,Washington Redskins,DST,9,WAS,ATL,5,3,5,1,0,0,0,0,31,5.00,2009
+19,Baltimore Ravens,DST,9,BAL,CIN,3,1,5,0,1,0,0,0,17,4.00,2009
+20,Miami Dolphins,DST,9,MIA,NE,3,2,7,1,0,0,0,0,27,4.00,2009
+21,Jacksonville Jaguars,DST,9,JAX,KC,4,3,8,0,0,0,0,0,21,3.00,2009
+22,Kansas City Chiefs,DST,9,KC,JAX,5,1,5,0,1,0,0,0,24,3.00,2009
+23,New England Patriots,DST,9,NE,MIA,6,2,8,0,0,0,0,0,17,3.00,2009
+24,Green Bay Packers,DST,9,GB,TB,4,1,4,1,0,0,0,0,38,2.00,2009
+25,San Francisco 49ers,DST,9,SF,TEN,5,1,1,0,0,0,0,0,34,0.00,2009
+26,Chicago Bears,DST,9,CHI,ARI,3,1,6,1,0,0,0,0,41,-1.00,2009

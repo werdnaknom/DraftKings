@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New England Patriots,DST,16,NE,BAL,5,4,7,3,1,0,2,0,7,28.00,2013
+2,Buffalo Bills,DST,16,BUF,MIA,9,7,10,2,0,0,0,0,0,21.00,2013
+3,Philadelphia Eagles,DST,16,PHI,CHI,7,5,5,1,1,1,1,0,11,21.00,2013
+4,Cincinnati Bengals,DST,16,CIN,MIN,3,4,6,3,1,0,1,0,14,19.00,2013
+5,Indianapolis Colts,DST,16,IND,KC,3,5,6,1,2,0,0,0,7,15.00,2013
+6,New York Giants,DST,16,NYG,DET,3,2,6,2,1,0,1,0,20,15.00,2013
+7,Los Angeles Rams,DST,16,LAR,TB,8,7,7,0,2,0,0,0,13,15.00,2013
+8,Carolina Panthers,DST,16,CAR,NO,8,6,8,2,0,0,0,0,13,14.00,2013
+9,Arizona Cardinals,DST,16,ARI,SEA,5,4,9,1,1,0,0,0,10,12.00,2013
+10,Pittsburgh Steelers,DST,16,PIT,GB,4,3,4,1,1,0,1,0,31,12.00,2013
+11,Denver Broncos,DST,16,DEN,HOU,9,3,4,2,0,0,0,0,13,11.00,2013
+12,New York Jets,DST,16,NYJ,CLE,2,3,10,2,0,0,0,0,13,11.00,2013
+13,Seattle Seahawks,DST,16,SEA,ARI,4,2,9,4,0,0,0,0,17,11.00,2013
+14,San Francisco 49ers,DST,16,SF,ATL,7,1,5,2,0,0,1,0,24,11.00,2013
+15,Detroit Lions,DST,16,DET,NYG,5,2,5,1,1,1,0,0,23,9.00,2013
+16,Los Angeles Chargers,DST,16,LAC,OAK,0,1,2,1,1,0,0,0,13,9.00,2013
+17,New Orleans Saints,DST,16,NO,CAR,5,4,6,1,0,0,0,0,17,7.00,2013
+18,Oakland Raiders,DST,16,OAK,LAC,4,1,2,1,2,0,0,0,26,7.00,2013
+19,Tennessee Titans,DST,16,TEN,JAX,6,2,4,1,0,0,0,0,16,7.00,2013
+20,Jacksonville Jaguars,DST,16,JAX,TEN,4,3,6,1,0,0,0,0,20,6.00,2013
+21,Washington Redskins,DST,16,WAS,DAL,3,2,2,1,1,0,0,0,24,6.00,2013
+22,Tampa Bay Buccaneers,DST,16,TB,LAR,9,1,3,0,2,0,0,0,23,5.00,2013
+23,Green Bay Packers,DST,16,GB,PIT,2,1,3,1,1,0,0,0,38,4.00,2013
+24,Miami Dolphins,DST,16,MIA,BUF,4,1,3,1,0,0,0,0,19,4.00,2013
+25,Atlanta Falcons,DST,16,ATL,SF,5,3,4,0,0,0,0,0,34,2.00,2013
+26,Dallas Cowboys,DST,16,DAL,WAS,3,0,3,1,0,0,0,0,23,2.00,2013
+27,Baltimore Ravens,DST,16,BAL,NE,3,2,4,0,0,0,0,0,41,1.00,2013
+28,Kansas City Chiefs,DST,16,KC,IND,3,1,5,0,0,0,0,0,23,1.00,2013
+29,Chicago Bears,DST,16,CHI,PHI,2,2,3,0,1,0,0,0,54,0.00,2013
+30,Cleveland Browns,DST,16,CLE,NYJ,3,0,0,0,0,0,0,0,24,0.00,2013
+31,Minnesota Vikings,DST,16,MIN,CIN,4,2,3,0,1,0,0,0,42,0.00,2013
+32,Houston Texans,DST,16,HOU,DEN,2,1,6,0,0,0,0,0,37,-3.00,2013

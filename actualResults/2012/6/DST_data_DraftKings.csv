@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Denver Broncos,DST,6,DEN,LAC,4,4,4,4,2,0,2,0,24,29.00,2012
+2,New York Giants,DST,6,NYG,SF,8,6,9,3,0,0,0,0,3,19.00,2012
+3,Tampa Bay Buccaneers,DST,6,TB,KC,5,0,2,2,0,0,1,0,10,17.00,2012
+4,Atlanta Falcons,DST,6,ATL,OAK,7,3,4,1,2,0,1,0,20,16.00,2012
+5,Cleveland Browns,DST,6,CLE,CIN,1,2,1,3,1,0,1,0,24,16.00,2012
+6,New York Jets,DST,6,NYJ,IND,5,4,5,2,2,0,0,0,9,16.00,2012
+7,Washington Redskins,DST,6,WAS,MIN,5,4,9,2,1,0,1,0,26,16.00,2012
+8,Buffalo Bills,DST,6,BUF,ARI,6,5,7,2,0,1,0,0,16,14.00,2012
+9,Los Angeles Chargers,DST,6,LAC,DEN,3,0,1,1,2,0,1,0,35,12.00,2012
+10,Kansas City Chiefs,DST,6,KC,TB,1,1,0,1,1,0,1,0,38,12.00,2012
+11,Detroit Lions,DST,6,DET,PHI,10,3,12,2,1,0,0,0,23,9.00,2012
+12,Green Bay Packers,DST,6,GB,HOU,7,3,6,3,0,0,0,0,24,9.00,2012
+13,Baltimore Ravens,DST,6,BAL,DAL,4,1,3,1,0,0,0,1,29,8.00,2012
+14,Oakland Raiders,DST,6,OAK,ATL,5,1,9,3,0,0,0,0,23,8.00,2012
+15,Arizona Cardinals,DST,6,ARI,BUF,6,2,2,1,1,0,0,0,19,7.00,2012
+16,Miami Dolphins,DST,6,MIA,LAR,6,3,6,0,1,0,0,0,14,6.00,2012
+17,New England Patriots,DST,6,NE,SEA,5,2,6,0,2,0,0,0,24,6.00,2012
+18,Houston Texans,DST,6,HOU,GB,5,2,7,0,0,0,0,1,42,6.00,2012
+19,Pittsburgh Steelers,DST,6,PIT,TEN,4,3,3,1,0,0,0,0,26,5.00,2012
+20,Seattle Seahawks,DST,6,SEA,NE,3,1,5,2,0,0,0,0,23,5.00,2012
+21,Tennessee Titans,DST,6,TEN,PIT,5,1,3,1,0,0,0,0,23,5.00,2012
+22,Los Angeles Rams,DST,6,LAR,MIA,4,3,4,0,0,0,0,0,17,4.00,2012
+23,Cincinnati Bengals,DST,6,CIN,CLE,4,2,2,1,0,0,0,0,34,3.00,2012
+24,Minnesota Vikings,DST,6,MIN,WAS,6,1,3,1,0,0,0,0,38,2.00,2012
+25,Philadelphia Eagles,DST,6,PHI,DET,4,0,4,1,0,0,0,0,26,2.00,2012
+26,San Francisco 49ers,DST,6,SF,NYG,6,0,1,0,0,0,0,0,26,2.00,2012
+27,Dallas Cowboys,DST,6,DAL,BAL,2,1,3,0,0,0,0,0,31,0.00,2012
+28,Indianapolis Colts,DST,6,IND,NYJ,2,1,3,0,0,0,0,0,35,-3.00,2012

@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Kansas City Chiefs,DST,3,KC,NYJ,1,0,4,6,2,0,2,0,3,35.00,2016
+2,Minnesota Vikings,DST,3,MIN,CAR,8,8,12,3,0,1,0,1,10,26.00,2016
+3,Buffalo Bills,DST,3,BUF,ARI,5,5,9,4,1,0,1,0,18,22.00,2016
+4,New England Patriots,DST,3,NE,HOU,4,2,3,1,2,0,0,0,0,18.00,2016
+5,Philadelphia Eagles,DST,3,PHI,PIT,4,4,7,1,1,0,0,0,3,17.00,2016
+6,Baltimore Ravens,DST,3,BAL,JAX,7,4,6,3,0,0,0,0,17,13.00,2016
+7,Cleveland Browns,DST,3,CLE,MIA,2,1,6,2,1,0,1,0,30,12.00,2016
+8,Los Angeles Rams,DST,3,LAR,TB,1,2,9,1,1,0,1,0,32,12.00,2016
+9,Los Angeles Chargers,DST,3,LAC,IND,4,2,4,1,1,0,1,0,26,12.00,2016
+10,Oakland Raiders,DST,3,OAK,TEN,3,1,4,2,1,0,0,0,10,11.00,2016
+11,Atlanta Falcons,DST,3,ATL,NO,5,2,4,1,1,0,1,0,32,11.00,2016
+12,Indianapolis Colts,DST,3,IND,LAC,2,2,4,0,3,0,0,0,22,11.00,2016
+13,Tampa Bay Buccaneers,DST,3,TB,LAR,5,1,2,1,1,0,1,0,37,10.00,2016
+14,Jacksonville Jaguars,DST,3,JAX,BAL,3,2,4,2,1,0,0,0,19,9.00,2016
+15,Denver Broncos,DST,3,DEN,CIN,4,4,5,1,1,0,0,0,17,9.00,2016
+16,Arizona Cardinals,DST,3,ARI,BUF,8,4,6,1,0,1,0,0,33,8.00,2016
+17,Washington Redskins,DST,3,WAS,NYG,4,2,3,2,1,0,0,0,27,8.00,2016
+18,Miami Dolphins,DST,3,MIA,CLE,7,4,8,0,1,0,0,0,24,7.00,2016
+19,New York Jets,DST,3,NYJ,KC,6,2,5,0,0,0,0,0,24,6.00,2016
+20,Dallas Cowboys,DST,3,DAL,CHI,4,1,1,0,2,0,0,0,17,6.00,2016
+21,Green Bay Packers,DST,3,GB,DET,9,3,4,1,0,0,0,0,27,5.00,2016
+22,Cincinnati Bengals,DST,3,CIN,DEN,4,2,6,0,1,0,0,0,29,5.00,2016
+23,Tennessee Titans,DST,3,TEN,OAK,1,1,2,1,0,0,0,0,17,4.00,2016
+24,Carolina Panthers,DST,3,CAR,MIN,6,2,3,0,0,0,0,0,22,3.00,2016
+25,New York Giants,DST,3,NYG,WAS,5,2,7,0,1,0,0,0,29,3.00,2016
+26,Seattle Seahawks,DST,3,SEA,SF,0,0,2,1,0,0,0,0,18,3.00,2016
+27,San Francisco 49ers,DST,3,SF,SEA,5,2,6,1,1,0,0,0,37,2.00,2016
+28,Houston Texans,DST,3,HOU,NE,1,1,1,0,0,0,0,0,27,1.00,2016
+29,Detroit Lions,DST,3,DET,GB,3,2,2,0,0,0,0,0,34,1.00,2016
+30,Chicago Bears,DST,3,CHI,DAL,1,0,1,0,1,0,0,0,31,1.00,2016
+31,Pittsburgh Steelers,DST,3,PIT,PHI,4,0,3,0,0,0,0,0,34,-1.00,2016
+32,New Orleans Saints,DST,3,NO,ATL,3,2,4,0,0,0,0,0,45,-2.00,2016

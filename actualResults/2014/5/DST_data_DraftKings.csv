@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Philadelphia Eagles,DST,5,PHI,LAR,3,4,3,0,3,0,1,1,28,23.00,2014
+2,Green Bay Packers,DST,5,GB,MIN,4,6,16,2,1,0,1,0,10,22.00,2014
+3,Carolina Panthers,DST,5,CAR,CHI,4,4,5,2,2,0,0,1,24,18.00,2014
+4,Los Angeles Chargers,DST,5,LAC,NYJ,4,2,5,1,1,0,0,0,0,16.00,2014
+5,Pittsburgh Steelers,DST,5,PIT,JAX,4,1,5,2,0,0,1,0,9,15.00,2014
+6,Buffalo Bills,DST,5,BUF,DET,8,6,4,1,1,0,0,0,14,14.00,2014
+7,Indianapolis Colts,DST,5,IND,BAL,6,4,6,1,2,0,0,0,13,14.00,2014
+8,New England Patriots,DST,5,NE,CIN,2,1,2,0,3,0,1,0,17,14.00,2014
+9,Detroit Lions,DST,5,DET,BUF,8,2,9,1,0,0,1,0,17,11.00,2014
+10,Baltimore Ravens,DST,5,BAL,IND,3,1,5,2,2,0,0,0,20,10.00,2014
+11,Jacksonville Jaguars,DST,5,JAX,PIT,3,4,4,0,1,0,0,0,17,10.00,2014
+12,Houston Texans,DST,5,HOU,DAL,4,1,5,1,2,0,0,0,20,8.00,2014
+13,Tampa Bay Buccaneers,DST,5,TB,NO,5,0,6,3,0,0,1,0,37,8.00,2014
+14,Chicago Bears,DST,5,CHI,CAR,1,2,2,1,2,0,0,0,31,7.00,2014
+15,Cleveland Browns,DST,5,CLE,TEN,5,3,4,0,0,1,0,0,28,6.00,2014
+16,New Orleans Saints,DST,5,NO,TB,3,1,3,1,0,1,0,0,31,5.00,2014
+17,Los Angeles Rams,DST,5,LAR,PHI,4,0,0,1,2,0,0,0,34,5.00,2014
+18,Atlanta Falcons,DST,5,ATL,NYG,2,1,1,0,2,0,0,0,30,4.00,2014
+19,Denver Broncos,DST,5,DEN,ARI,7,3,10,0,0,0,0,0,20,4.00,2014
+20,New York Giants,DST,5,NYG,ATL,5,1,8,1,0,0,0,0,20,4.00,2014
+21,New York Jets,DST,5,NYJ,LAC,7,3,5,1,0,0,0,0,31,4.00,2014
+22,Dallas Cowboys,DST,5,DAL,HOU,1,0,6,1,0,0,0,0,17,3.00,2014
+23,Kansas City Chiefs,DST,5,KC,SF,7,3,5,0,0,0,0,0,22,3.00,2014
+24,San Francisco 49ers,DST,5,SF,KC,2,0,1,1,0,0,0,0,17,3.00,2014
+25,Tennessee Titans,DST,5,TEN,CLE,4,1,4,1,0,0,0,0,29,3.00,2014
+26,Washington Redskins,DST,5,WAS,SEA,3,3,5,0,0,0,0,0,27,3.00,2014
+27,Seattle Seahawks,DST,5,SEA,WAS,3,1,4,0,0,0,0,0,17,2.00,2014
+28,Arizona Cardinals,DST,5,ARI,DEN,5,1,1,2,0,0,0,0,41,1.00,2014
+29,Minnesota Vikings,DST,5,MIN,GB,3,2,3,1,0,0,0,0,42,0.00,2014
+30,Cincinnati Bengals,DST,5,CIN,NE,3,1,1,0,0,0,0,0,43,-3.00,2014

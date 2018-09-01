@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Houston Texans,DST,7,HOU,BAL,6,4,8,2,0,1,1,0,13,20.00,2012
+2,Minnesota Vikings,DST,7,MIN,ARI,6,7,9,1,1,0,1,0,14,18.00,2012
+3,New England Patriots,DST,7,NE,NYJ,4,4,4,1,1,1,0,1,26,16.00,2012
+4,Chicago Bears,DST,7,CHI,DET,4,3,6,1,3,0,0,0,7,15.00,2012
+5,New York Giants,DST,7,NYG,WAS,4,3,5,1,3,0,0,0,23,11.00,2012
+6,San Francisco 49ers,DST,7,SF,SEA,3,2,3,1,0,0,0,0,6,11.00,2012
+7,Detroit Lions,DST,7,DET,CHI,6,5,9,0,0,0,0,0,13,11.00,2012
+8,Arizona Cardinals,DST,7,ARI,MIN,2,3,4,2,0,0,0,0,21,8.00,2012
+9,Jacksonville Jaguars,DST,7,JAX,OAK,3,2,6,1,2,0,0,0,26,8.00,2012
+10,Seattle Seahawks,DST,7,SEA,SF,4,2,3,1,0,0,0,0,13,8.00,2012
+11,Cincinnati Bengals,DST,7,CIN,PIT,5,3,4,1,1,0,0,0,24,7.00,2012
+12,Dallas Cowboys,DST,7,DAL,CAR,4,2,5,1,1,0,0,0,14,7.00,2012
+13,Cleveland Browns,DST,7,CLE,IND,4,3,6,0,1,0,0,0,17,6.00,2012
+14,Green Bay Packers,DST,7,GB,LAR,3,3,7,1,0,0,0,0,20,6.00,2012
+15,Oakland Raiders,DST,7,OAK,JAX,7,3,6,0,1,0,0,0,23,5.00,2012
+16,Washington Redskins,DST,7,WAS,NYG,2,1,6,2,0,0,0,0,27,5.00,2012
+17,Buffalo Bills,DST,7,BUF,TEN,6,2,4,0,0,0,0,1,35,4.00,2012
+18,Indianapolis Colts,DST,7,IND,CLE,2,0,6,0,0,0,0,0,13,4.00,2012
+19,Tennessee Titans,DST,7,TEN,BUF,4,1,5,1,1,0,0,0,34,4.00,2012
+20,Carolina Panthers,DST,7,CAR,DAL,2,0,0,0,1,0,0,0,19,3.00,2012
+21,New York Jets,DST,7,NYJ,NE,4,1,2,0,1,0,0,0,29,3.00,2012
+22,Pittsburgh Steelers,DST,7,PIT,CIN,1,0,2,1,0,0,0,0,17,3.00,2012
+23,Los Angeles Rams,DST,7,LAR,GB,7,3,5,0,0,0,0,0,30,2.00,2012
+24,New Orleans Saints,DST,7,NO,TB,6,2,4,0,0,0,0,0,28,1.00,2012
+25,Baltimore Ravens,DST,7,BAL,HOU,3,2,5,0,0,0,0,0,43,-2.00,2012
+26,Tampa Bay Buccaneers,DST,7,TB,NO,4,0,0,1,0,0,0,0,35,-2.00,2012

@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Denver Broncos,DST,13,DEN,JAX,1,1,6,2,1,0,1,0,10,17.00,2016
+2,Baltimore Ravens,DST,13,BAL,MIA,5,2,9,3,0,0,0,0,6,15.00,2016
+3,Chicago Bears,DST,13,CHI,SF,8,6,6,0,0,1,0,0,6,15.00,2016
+4,New England Patriots,DST,13,NE,LAR,6,4,9,2,0,0,0,0,10,12.00,2016
+5,Tampa Bay Buccaneers,DST,13,TB,LAC,6,2,6,2,0,0,1,0,21,12.00,2016
+6,Kansas City Chiefs,DST,13,KC,ATL,6,2,9,1,0,0,1,0,28,11.00,2016
+7,Detroit Lions,DST,13,DET,NO,2,1,5,3,0,0,0,0,13,11.00,2016
+8,Indianapolis Colts,DST,13,IND,NYJ,2,1,8,3,0,0,0,0,10,11.00,2016
+9,Pittsburgh Steelers,DST,13,PIT,NYG,5,2,3,2,0,1,0,0,14,9.00,2016
+10,Minnesota Vikings,DST,13,MIN,DAL,6,3,8,0,2,0,0,0,17,8.00,2016
+11,Green Bay Packers,DST,13,GB,HOU,6,2,5,0,1,0,0,0,13,8.00,2016
+12,Cincinnati Bengals,DST,13,CIN,PHI,4,1,10,3,0,0,0,0,14,8.00,2016
+13,Oakland Raiders,DST,13,OAK,BUF,4,4,5,1,1,0,0,0,24,8.00,2016
+14,Seattle Seahawks,DST,13,SEA,CAR,2,0,4,1,1,0,0,0,7,8.00,2016
+15,Dallas Cowboys,DST,13,DAL,MIN,6,3,9,0,1,0,0,0,15,6.00,2016
+16,New York Giants,DST,13,NYG,PIT,6,2,3,1,1,0,0,0,24,6.00,2016
+17,Arizona Cardinals,DST,13,ARI,WAS,4,2,8,1,1,0,0,0,23,6.00,2016
+18,Atlanta Falcons,DST,13,ATL,KC,4,1,1,0,1,0,0,0,29,3.00,2016
+19,Jacksonville Jaguars,DST,13,JAX,DEN,4,2,5,0,0,0,0,0,20,3.00,2016
+20,Houston Texans,DST,13,HOU,GB,6,1,4,0,1,0,0,0,21,3.00,2016
+21,Philadelphia Eagles,DST,13,PHI,CIN,4,0,1,0,2,0,0,0,32,3.00,2016
+22,San Francisco 49ers,DST,13,SF,CHI,4,1,2,0,1,0,0,0,26,3.00,2016
+23,Los Angeles Chargers,DST,13,LAC,TB,3,1,5,1,0,0,0,0,28,3.00,2016
+24,New Orleans Saints,DST,13,NO,DET,6,2,5,0,0,0,0,0,28,1.00,2016
+25,Washington Redskins,DST,13,WAS,ARI,7,2,6,0,0,0,0,0,31,1.00,2016
+26,Carolina Panthers,DST,13,CAR,SEA,9,3,5,1,0,0,0,0,40,1.00,2016
+27,Los Angeles Rams,DST,13,LAR,NE,6,0,4,0,0,0,0,0,26,0.00,2016
+28,Miami Dolphins,DST,13,MIA,BAL,0,0,2,1,1,0,0,0,38,0.00,2016
+29,New York Jets,DST,13,NYJ,IND,5,1,7,0,0,0,0,0,41,-3.00,2016
+30,Buffalo Bills,DST,13,BUF,OAK,0,0,2,0,0,0,0,0,38,-4.00,2016

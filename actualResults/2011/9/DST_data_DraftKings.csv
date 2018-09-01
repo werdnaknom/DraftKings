@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,9,ARI,LAR,7,4,6,1,0,0,0,1,13,18.00,2011
+2,Green Bay Packers,DST,9,GB,LAC,3,2,3,3,0,0,2,0,38,16.00,2011
+3,Denver Broncos,DST,9,DEN,OAK,3,2,5,3,0,0,0,1,24,14.00,2011
+4,Atlanta Falcons,DST,9,ATL,IND,5,2,4,1,1,0,0,0,7,13.00,2011
+5,Dallas Cowboys,DST,9,DAL,SEA,4,1,4,3,0,0,0,0,13,13.00,2011
+6,Houston Texans,DST,9,HOU,CLE,6,4,8,1,1,0,0,0,12,12.00,2011
+7,Miami Dolphins,DST,9,MIA,KC,8,5,9,0,0,0,0,0,3,12.00,2011
+8,New York Giants,DST,9,NYG,NE,2,2,3,2,2,0,0,0,20,11.00,2011
+9,San Francisco 49ers,DST,9,SF,WAS,1,1,6,1,2,0,0,0,11,11.00,2011
+10,New York Jets,DST,9,NYJ,BUF,1,0,5,2,1,0,0,0,11,10.00,2011
+11,Philadelphia Eagles,DST,9,PHI,CHI,5,0,0,0,2,0,1,0,30,9.00,2011
+12,Indianapolis Colts,DST,9,IND,ATL,2,1,2,1,0,0,1,0,31,8.00,2011
+13,Los Angeles Rams,DST,9,LAR,ARI,4,3,3,0,0,2,0,0,19,8.00,2011
+14,Baltimore Ravens,DST,9,BAL,PIT,2,1,4,1,1,0,0,0,20,6.00,2011
+15,Chicago Bears,DST,9,CHI,PHI,4,1,2,1,1,0,0,0,24,6.00,2011
+16,Buffalo Bills,DST,9,BUF,NYJ,3,1,2,1,1,0,0,0,27,5.00,2011
+17,Cincinnati Bengals,DST,9,CIN,TEN,3,2,2,0,1,0,0,0,17,5.00,2011
+18,Pittsburgh Steelers,DST,9,PIT,BAL,4,3,6,0,1,0,0,0,23,5.00,2011
+19,Washington Redskins,DST,9,WAS,SF,4,2,7,0,1,0,0,0,19,5.00,2011
+20,New England Patriots,DST,9,NE,NYG,2,0,8,1,1,0,0,0,24,4.00,2011
+21,Los Angeles Chargers,DST,9,LAC,GB,3,4,4,0,0,0,0,0,45,3.00,2011
+22,New Orleans Saints,DST,9,NO,TB,5,1,3,0,0,0,0,0,16,2.00,2011
+23,Seattle Seahawks,DST,9,SEA,DAL,3,0,2,0,1,0,0,0,23,2.00,2011
+24,Tampa Bay Buccaneers,DST,9,TB,NO,1,0,3,1,0,0,0,0,27,2.00,2011
+25,Cleveland Browns,DST,9,CLE,HOU,3,0,3,1,0,0,0,0,30,1.00,2011
+26,Tennessee Titans,DST,9,TEN,CIN,4,1,2,0,0,0,0,0,24,1.00,2011
+27,Kansas City Chiefs,DST,9,KC,MIA,1,0,2,0,0,0,0,0,31,-1.00,2011
+28,Oakland Raiders,DST,9,OAK,DEN,5,2,5,0,0,0,0,0,38,-2.00,2011

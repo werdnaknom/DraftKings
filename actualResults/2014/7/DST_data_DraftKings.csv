@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Jacksonville Jaguars,DST,7,JAX,CLE,7,3,7,1,2,0,0,0,6,16.00,2014
+2,Minnesota Vikings,DST,7,MIN,BUF,8,6,8,1,3,0,0,0,17,15.00,2014
+3,Indianapolis Colts,DST,7,IND,CIN,6,4,9,0,0,0,0,0,0,14.00,2014
+4,Baltimore Ravens,DST,7,BAL,ATL,7,5,9,0,1,1,0,0,7,13.00,2014
+5,Buffalo Bills,DST,7,BUF,MIN,6,5,8,2,0,0,0,0,16,10.00,2014
+6,Miami Dolphins,DST,7,MIA,CHI,4,3,2,1,2,0,0,0,14,10.00,2014
+7,Denver Broncos,DST,7,DEN,SF,9,6,9,1,0,0,0,0,17,9.00,2014
+8,Los Angeles Rams,DST,7,LAR,SEA,5,3,7,0,0,0,0,1,26,9.00,2014
+9,Cleveland Browns,DST,7,CLE,JAX,3,2,5,3,0,0,0,0,24,8.00,2014
+10,Tennessee Titans,DST,7,TEN,WAS,7,3,2,1,1,0,0,0,19,8.00,2014
+11,Atlanta Falcons,DST,7,ATL,BAL,4,1,4,2,1,0,0,0,29,7.00,2014
+12,New Orleans Saints,DST,7,NO,DET,7,3,5,2,0,0,0,0,24,7.00,2014
+13,Pittsburgh Steelers,DST,7,PIT,HOU,2,1,5,1,2,0,0,0,23,7.00,2014
+14,Cincinnati Bengals,DST,7,CIN,IND,4,2,6,0,2,0,0,0,27,6.00,2014
+15,Green Bay Packers,DST,7,GB,CAR,6,3,4,1,0,0,0,0,17,6.00,2014
+16,Washington Redskins,DST,7,WAS,TEN,4,1,3,1,1,0,0,0,17,6.00,2014
+17,Chicago Bears,DST,7,CHI,MIA,6,4,6,0,0,0,0,0,27,6.00,2014
+18,Arizona Cardinals,DST,7,ARI,OAK,1,1,1,0,0,0,0,0,13,5.00,2014
+19,Detroit Lions,DST,7,DET,NO,6,1,6,1,1,0,0,0,23,5.00,2014
+20,Kansas City Chiefs,DST,7,KC,LAC,4,2,3,1,0,0,0,0,20,5.00,2014
+21,New England Patriots,DST,7,NE,NYJ,4,3,7,0,0,0,0,0,25,5.00,2014
+22,Dallas Cowboys,DST,7,DAL,NYG,4,0,3,0,2,0,0,0,21,4.00,2014
+23,Houston Texans,DST,7,HOU,PIT,5,3,4,0,1,0,0,0,30,4.00,2014
+24,New York Giants,DST,7,NYG,DAL,4,2,4,1,0,0,0,0,31,3.00,2014
+25,Oakland Raiders,DST,7,OAK,ARI,8,1,2,1,0,0,0,0,24,3.00,2014
+26,Los Angeles Chargers,DST,7,LAC,KC,6,3,5,0,0,0,0,0,23,3.00,2014
+27,New York Jets,DST,7,NYJ,NE,1,1,7,0,0,0,0,0,27,1.00,2014
+28,Seattle Seahawks,DST,7,SEA,LAR,5,0,3,0,0,0,0,0,28,-1.00,2014
+29,Carolina Panthers,DST,7,CAR,GB,6,2,2,0,0,0,0,0,38,-2.00,2014
+30,San Francisco 49ers,DST,7,SF,DEN,3,2,3,0,0,0,0,0,42,-2.00,2014

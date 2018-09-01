@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Baltimore Ravens,DST,10,BAL,CLE,7,4,4,2,0,0,1,0,0,24.00,2009
+2,Tennessee Titans,DST,10,TEN,BUF,3,2,4,2,0,0,2,0,17,19.00,2009
+3,San Francisco 49ers,DST,10,SF,CHI,1,0,6,5,0,0,0,0,6,17.00,2009
+4,Cincinnati Bengals,DST,10,CIN,PIT,5,4,4,1,0,0,0,1,12,16.00,2009
+5,Green Bay Packers,DST,10,GB,DAL,8,5,5,1,2,0,0,0,7,15.00,2009
+6,Kansas City Chiefs,DST,10,KC,OAK,3,2,4,2,0,0,0,0,10,10.00,2009
+7,New Orleans Saints,DST,10,NO,LAR,7,2,7,1,0,0,0,1,23,10.00,2009
+8,Arizona Cardinals,DST,10,ARI,SEA,6,4,6,2,0,0,0,0,20,9.00,2009
+9,Minnesota Vikings,DST,10,MIN,DET,9,3,14,0,1,0,0,0,10,9.00,2009
+10,Oakland Raiders,DST,10,OAK,KC,7,2,2,1,2,0,0,0,16,9.00,2009
+11,Chicago Bears,DST,10,CHI,SF,4,2,3,1,0,0,0,0,10,8.00,2009
+12,Miami Dolphins,DST,10,MIA,TB,4,4,3,1,1,0,0,0,23,8.00,2009
+13,Washington Redskins,DST,10,WAS,DEN,5,3,7,1,1,0,0,0,17,8.00,2009
+14,Cleveland Browns,DST,10,CLE,BAL,5,2,2,0,0,0,0,0,16,8.00,2009
+15,Jacksonville Jaguars,DST,10,JAX,NYJ,3,0,2,2,1,0,0,0,22,6.00,2009
+16,Tampa Bay Buccaneers,DST,10,TB,MIA,2,0,2,1,1,0,0,0,25,6.00,2009
+17,Carolina Panthers,DST,10,CAR,ATL,1,0,4,2,0,0,0,0,19,5.00,2009
+18,Dallas Cowboys,DST,10,DAL,GB,6,4,5,0,0,0,0,0,17,5.00,2009
+19,Detroit Lions,DST,10,DET,MIN,5,1,2,0,2,0,0,0,27,5.00,2009
+20,Indianapolis Colts,DST,10,IND,NE,4,2,5,1,1,0,0,0,34,5.00,2009
+21,New York Jets,DST,10,NYJ,JAX,2,2,6,0,1,0,0,0,24,4.00,2009
+22,Los Angeles Chargers,DST,10,LAC,PHI,5,2,4,1,0,0,0,0,23,4.00,2009
+23,Los Angeles Rams,DST,10,LAR,NO,2,1,2,2,0,0,0,0,28,4.00,2009
+24,Denver Broncos,DST,10,DEN,WAS,3,3,7,0,0,0,0,0,27,3.00,2009
+25,Pittsburgh Steelers,DST,10,PIT,CIN,6,2,3,0,0,0,0,0,18,3.00,2009
+26,Buffalo Bills,DST,10,BUF,TEN,5,0,1,1,0,0,0,0,41,1.00,2009
+27,New England Patriots,DST,10,NE,IND,3,1,5,2,0,0,0,0,35,1.00,2009
+28,Philadelphia Eagles,DST,10,PHI,LAC,3,2,3,0,0,0,0,0,31,1.00,2009
+29,Atlanta Falcons,DST,10,ATL,CAR,3,0,0,0,0,0,0,0,28,1.00,2009
+30,Seattle Seahawks,DST,10,SEA,ARI,2,0,1,0,0,0,0,0,31,-1.00,2009

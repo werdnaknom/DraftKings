@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Carolina Panthers,DST,17,CAR,ATL,8,6,12,2,1,0,2,0,3,31.00,2014
+2,Seattle Seahawks,DST,17,SEA,LAR,7,4,6,2,0,0,1,0,6,21.00,2014
+3,Dallas Cowboys,DST,17,DAL,WAS,4,3,5,2,2,0,1,0,17,18.00,2014
+4,Denver Broncos,DST,17,DEN,OAK,4,3,3,1,1,0,1,0,14,17.00,2014
+5,Kansas City Chiefs,DST,17,KC,LAC,8,7,7,2,1,0,0,0,7,17.00,2014
+6,Pittsburgh Steelers,DST,17,PIT,CIN,4,3,4,2,1,0,0,1,17,16.00,2014
+7,Green Bay Packers,DST,17,GB,DET,5,2,4,0,1,1,0,1,20,13.00,2014
+8,Jacksonville Jaguars,DST,17,JAX,HOU,7,3,3,1,1,0,1,0,23,13.00,2014
+9,Baltimore Ravens,DST,17,BAL,CLE,5,4,7,1,1,0,0,0,10,12.00,2014
+10,Houston Texans,DST,17,HOU,JAX,8,5,7,0,0,1,0,0,17,11.00,2014
+11,Indianapolis Colts,DST,17,IND,TEN,5,4,7,0,1,0,0,0,10,10.00,2014
+12,Philadelphia Eagles,DST,17,PHI,NYG,3,0,3,1,0,0,0,1,26,10.00,2014
+13,Chicago Bears,DST,17,CHI,MIN,5,3,3,1,0,0,0,0,13,9.00,2014
+14,New York Jets,DST,17,NYJ,MIA,8,7,11,0,1,0,0,0,24,9.00,2014
+15,San Francisco 49ers,DST,17,SF,ARI,5,2,2,3,0,0,0,0,17,9.00,2014
+16,Buffalo Bills,DST,17,BUF,NE,6,4,6,0,0,0,0,0,9,8.00,2014
+17,New Orleans Saints,DST,17,NO,TB,5,3,7,1,0,1,0,0,20,8.00,2014
+18,Los Angeles Rams,DST,17,LAR,SEA,4,3,7,1,1,0,0,0,20,8.00,2014
+19,Tampa Bay Buccaneers,DST,17,TB,NO,4,2,4,3,0,0,0,0,23,8.00,2014
+20,Cincinnati Bengals,DST,17,CIN,PIT,5,0,1,2,1,0,0,0,27,6.00,2014
+21,Minnesota Vikings,DST,17,MIN,CHI,4,2,7,0,0,0,0,0,9,6.00,2014
+22,Detroit Lions,DST,17,DET,GB,3,1,2,0,2,0,0,0,30,6.00,2014
+23,New England Patriots,DST,17,NE,BUF,4,2,2,0,1,0,0,0,17,5.00,2014
+24,New York Giants,DST,17,NYG,PHI,5,4,5,1,0,0,0,0,34,5.00,2014
+25,Oakland Raiders,DST,17,OAK,DEN,2,1,2,0,1,0,1,0,47,5.00,2014
+26,Los Angeles Chargers,DST,17,LAC,KC,7,4,7,0,0,0,0,0,19,5.00,2014
+27,Arizona Cardinals,DST,17,ARI,SF,5,1,1,0,0,0,0,0,20,2.00,2014
+28,Cleveland Browns,DST,17,CLE,BAL,6,1,3,0,0,0,0,0,20,2.00,2014
+29,Atlanta Falcons,DST,17,ATL,CAR,3,1,3,0,0,0,0,0,34,1.00,2014
+30,Tennessee Titans,DST,17,TEN,IND,6,1,2,0,0,0,0,0,27,1.00,2014
+31,Miami Dolphins,DST,17,MIA,NYJ,9,1,1,0,1,0,0,0,37,-1.00,2014
+32,Washington Redskins,DST,17,WAS,DAL,1,0,3,1,0,0,0,0,44,-2.00,2014

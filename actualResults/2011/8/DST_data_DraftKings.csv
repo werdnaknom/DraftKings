@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Detroit Lions,DST,8,DET,DEN,7,7,7,1,2,0,2,0,10,29.00,2011
+2,Buffalo Bills,DST,8,BUF,WAS,8,9,14,2,0,0,0,0,0,25.00,2011
+3,Cincinnati Bengals,DST,8,CIN,SEA,7,4,12,1,1,0,1,1,12,24.00,2011
+4,Los Angeles Rams,DST,8,LAR,NO,10,6,9,2,0,0,1,0,21,19.00,2011
+5,Tennessee Titans,DST,8,TEN,IND,3,2,6,2,0,0,0,1,10,18.00,2011
+6,Arizona Cardinals,DST,8,ARI,BAL,4,3,3,1,1,0,0,1,30,12.00,2011
+7,Kansas City Chiefs,DST,8,KC,LAC,3,3,4,2,2,0,0,0,20,12.00,2011
+8,New Orleans Saints,DST,8,NO,LAR,6,4,8,0,1,0,1,0,31,12.00,2011
+9,San Francisco 49ers,DST,8,SF,CLE,6,4,6,1,1,0,0,0,10,12.00,2011
+10,Los Angeles Chargers,DST,8,LAC,KC,7,3,4,2,2,0,0,0,23,11.00,2011
+11,Philadelphia Eagles,DST,8,PHI,DAL,5,4,4,1,0,0,0,0,7,10.00,2011
+12,Baltimore Ravens,DST,8,BAL,ARI,9,6,8,1,0,0,0,0,27,8.00,2011
+13,New York Giants,DST,8,NYG,MIA,7,5,7,1,0,0,0,0,17,8.00,2011
+14,Minnesota Vikings,DST,8,MIN,CAR,3,3,1,0,2,0,0,0,21,7.00,2011
+15,New England Patriots,DST,8,NE,PIT,10,5,4,1,0,0,0,0,25,7.00,2011
+16,Carolina Panthers,DST,8,CAR,MIN,6,4,6,0,1,0,0,0,24,6.00,2011
+17,Houston Texans,DST,8,HOU,JAX,3,1,5,2,0,0,0,0,14,6.00,2011
+18,Jacksonville Jaguars,DST,8,JAX,HOU,3,2,4,0,2,0,0,0,24,6.00,2011
+19,Pittsburgh Steelers,DST,8,PIT,NE,4,3,4,0,0,1,0,0,17,6.00,2011
+20,Washington Redskins,DST,8,WAS,BUF,4,2,4,1,1,0,0,0,23,6.00,2011
+21,Seattle Seahawks,DST,8,SEA,CIN,5,1,5,2,0,0,0,0,34,4.00,2011
+22,Dallas Cowboys,DST,8,DAL,PHI,7,4,4,0,0,0,0,0,34,3.00,2011
+23,Cleveland Browns,DST,8,CLE,SF,7,1,1,0,0,0,0,0,20,2.00,2011
+24,Miami Dolphins,DST,8,MIA,NYG,5,1,7,0,0,0,0,0,20,2.00,2011
+25,Denver Broncos,DST,8,DEN,DET,5,2,6,0,0,0,0,0,45,1.00,2011
+26,Indianapolis Colts,DST,8,IND,TEN,4,1,4,0,0,0,0,0,27,1.00,2011

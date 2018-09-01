@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Chicago Bears,DST,5,CHI,JAX,5,3,4,2,1,0,2,0,3,28.00,2012
+2,Los Angeles Rams,DST,5,LAR,ARI,6,9,12,0,1,0,0,0,3,18.00,2012
+3,Carolina Panthers,DST,5,CAR,SEA,6,2,2,2,1,1,1,0,16,17.00,2012
+4,Baltimore Ravens,DST,5,BAL,KC,9,0,2,2,2,0,0,0,6,15.00,2012
+5,Seattle Seahawks,DST,5,SEA,CAR,3,4,5,0,2,0,0,0,12,15.00,2012
+6,Miami Dolphins,DST,5,MIA,CIN,1,3,7,2,1,0,0,0,13,13.00,2012
+7,Kansas City Chiefs,DST,5,KC,BAL,4,4,6,1,1,0,0,0,9,12.00,2012
+8,San Francisco 49ers,DST,5,SF,BUF,3,1,3,1,1,0,0,0,3,12.00,2012
+9,Atlanta Falcons,DST,5,ATL,WAS,4,3,8,2,0,0,0,0,17,11.00,2012
+10,Washington Redskins,DST,5,WAS,ATL,3,1,3,1,1,0,1,0,24,11.00,2012
+11,Minnesota Vikings,DST,5,MIN,TEN,5,2,3,1,1,0,0,0,7,10.00,2012
+12,New Orleans Saints,DST,5,NO,LAC,6,5,6,1,1,0,0,0,24,9.00,2012
+13,Houston Texans,DST,5,HOU,NYJ,2,3,5,2,0,0,0,0,17,8.00,2012
+14,New England Patriots,DST,5,NE,DEN,2,2,5,0,3,0,0,0,21,8.00,2012
+15,New York Jets,DST,5,NYJ,HOU,3,0,2,1,0,0,0,1,23,8.00,2012
+16,Pittsburgh Steelers,DST,5,PIT,PHI,6,3,8,0,2,0,0,0,14,8.00,2012
+17,Cincinnati Bengals,DST,5,CIN,MIA,6,2,6,0,2,0,0,0,17,7.00,2012
+18,Indianapolis Colts,DST,5,IND,GB,7,5,6,1,0,0,0,0,27,7.00,2012
+19,New York Giants,DST,5,NYG,CLE,2,0,2,2,1,0,0,0,27,6.00,2012
+20,Denver Broncos,DST,5,DEN,NE,9,4,5,0,1,0,0,0,31,5.00,2012
+21,Green Bay Packers,DST,5,GB,IND,4,4,10,1,0,0,0,0,30,5.00,2012
+22,Arizona Cardinals,DST,5,ARI,LAR,4,1,6,1,0,0,0,0,17,4.00,2012
+23,Los Angeles Chargers,DST,5,LAC,NO,5,3,7,1,0,0,0,0,31,4.00,2012
+24,Tennessee Titans,DST,5,TEN,MIN,4,1,2,2,0,0,0,0,30,4.00,2012
+25,Jacksonville Jaguars,DST,5,JAX,CHI,3,1,4,1,0,0,0,0,41,2.00,2012
+26,Philadelphia Eagles,DST,5,PHI,PIT,1,0,3,0,0,0,0,0,16,1.00,2012
+27,Cleveland Browns,DST,5,CLE,NYG,0,0,1,1,1,0,0,0,41,0.00,2012
+28,Buffalo Bills,DST,5,BUF,SF,0,0,3,0,1,0,0,0,45,-2.00,2012

@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Chargers,DST,9,LAC,TEN,4,0,1,2,1,0,2,0,35,14.00,2016
+2,Miami Dolphins,DST,9,MIA,NYJ,3,3,6,2,0,0,0,1,23,13.00,2016
+3,Baltimore Ravens,DST,9,BAL,PIT,3,2,4,1,0,0,0,1,14,13.00,2016
+4,Kansas City Chiefs,DST,9,KC,JAX,5,2,6,1,3,0,0,0,14,11.00,2016
+5,Indianapolis Colts,DST,9,IND,GB,3,3,4,1,0,0,0,1,26,11.00,2016
+6,Carolina Panthers,DST,9,CAR,LAR,5,4,7,1,0,0,0,0,10,10.00,2016
+7,Los Angeles Rams,DST,9,LAR,CAR,9,5,6,0,0,0,0,0,13,9.00,2016
+8,New Orleans Saints,DST,9,NO,SF,0,1,6,1,3,0,0,0,23,9.00,2016
+9,Dallas Cowboys,DST,9,DAL,CLE,7,4,7,0,0,0,0,0,10,8.00,2016
+10,New York Giants,DST,9,NYG,PHI,4,2,7,2,0,0,0,0,23,8.00,2016
+11,Oakland Raiders,DST,9,OAK,DEN,2,2,5,1,1,0,0,0,20,7.00,2016
+12,Seattle Seahawks,DST,9,SEA,BUF,8,5,12,1,0,0,0,0,25,7.00,2016
+13,Atlanta Falcons,DST,9,ATL,TB,4,3,8,0,2,0,0,0,28,6.00,2016
+14,Pittsburgh Steelers,DST,9,PIT,BAL,9,3,7,1,0,0,0,0,21,5.00,2016
+15,Green Bay Packers,DST,9,GB,IND,4,2,8,2,0,0,0,0,31,5.00,2016
+16,Detroit Lions,DST,9,DET,MIN,4,2,5,0,0,0,0,0,16,5.00,2016
+17,Buffalo Bills,DST,9,BUF,SEA,6,4,7,0,0,0,0,0,31,5.00,2016
+18,Philadelphia Eagles,DST,9,PHI,NYG,7,1,2,2,0,0,0,0,28,4.00,2016
+19,Jacksonville Jaguars,DST,9,JAX,KC,3,2,8,0,0,0,0,0,19,3.00,2016
+20,Minnesota Vikings,DST,9,MIN,DET,5,1,4,1,0,0,0,0,22,3.00,2016
+21,New York Jets,DST,9,NYJ,MIA,5,1,6,0,0,0,0,0,27,1.00,2016
+22,Denver Broncos,DST,9,DEN,OAK,4,2,2,0,0,0,0,0,30,1.00,2016
+23,Tampa Bay Buccaneers,DST,9,TB,ATL,6,2,8,0,1,0,0,0,43,0.00,2016
+24,Tennessee Titans,DST,9,TEN,LAC,4,1,5,0,0,0,0,0,43,0.00,2016
+25,San Francisco 49ers,DST,9,SF,NO,1,1,0,0,0,0,0,0,41,-3.00,2016
+26,Cleveland Browns,DST,9,CLE,DAL,3,0,1,0,0,0,0,0,35,-4.00,2016

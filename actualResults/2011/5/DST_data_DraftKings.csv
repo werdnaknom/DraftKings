@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,San Francisco 49ers,DST,5,SF,TB,4,3,4,2,1,0,1,0,3,22.00,2011
+2,Seattle Seahawks,DST,5,SEA,NYG,6,3,2,3,2,1,1,0,25,21.00,2011
+3,Buffalo Bills,DST,5,BUF,PHI,3,1,6,4,1,0,1,0,24,17.00,2011
+4,Minnesota Vikings,DST,5,MIN,ARI,4,4,6,3,1,0,0,0,10,16.00,2011
+5,Cincinnati Bengals,DST,5,CIN,JAX,6,3,4,0,2,0,1,0,20,14.00,2011
+6,Denver Broncos,DST,5,DEN,LAC,5,5,3,1,1,0,1,0,29,14.00,2011
+7,New York Giants,DST,5,NYG,SEA,7,6,9,1,2,0,0,0,36,11.00,2011
+8,Oakland Raiders,DST,5,OAK,HOU,4,3,8,2,0,0,0,0,20,8.00,2011
+9,Detroit Lions,DST,5,DET,CHI,6,3,6,0,0,0,0,0,13,7.00,2011
+10,Atlanta Falcons,DST,5,ATL,GB,6,4,8,0,1,0,0,0,25,6.00,2011
+11,Green Bay Packers,DST,5,GB,ATL,3,1,7,2,0,0,0,0,14,6.00,2011
+12,Pittsburgh Steelers,DST,5,PIT,TEN,5,3,7,1,0,0,0,0,17,6.00,2011
+13,Houston Texans,DST,5,HOU,OAK,7,3,11,1,0,0,0,0,25,5.00,2011
+14,New York Jets,DST,5,NYJ,NE,5,4,5,1,0,0,0,0,30,5.00,2011
+15,New Orleans Saints,DST,5,NO,CAR,1,1,2,1,0,0,0,0,27,5.00,2011
+16,Jacksonville Jaguars,DST,5,JAX,CIN,5,2,6,1,0,0,0,0,30,4.00,2011
+17,Carolina Panthers,DST,5,CAR,NO,4,2,2,1,0,0,0,0,30,3.00,2011
+18,Chicago Bears,DST,5,CHI,DET,3,1,3,1,0,0,0,0,24,3.00,2011
+19,Philadelphia Eagles,DST,5,PHI,BUF,7,1,5,1,0,0,0,0,31,3.00,2011
+20,Los Angeles Chargers,DST,5,LAC,DEN,2,0,1,1,0,0,0,0,24,3.00,2011
+21,Arizona Cardinals,DST,5,ARI,MIN,4,1,2,0,1,0,0,0,34,2.00,2011
+22,New England Patriots,DST,5,NE,NYJ,1,2,5,0,0,0,0,0,21,2.00,2011
+23,Indianapolis Colts,DST,5,IND,KC,2,2,6,0,0,0,0,0,28,1.00,2011
+24,Tennessee Titans,DST,5,TEN,PIT,2,1,1,1,0,0,0,0,38,1.00,2011
+25,Kansas City Chiefs,DST,5,KC,IND,1,0,1,0,0,0,0,0,24,0.00,2011
+26,Tampa Bay Buccaneers,DST,5,TB,SF,6,0,2,0,1,0,0,0,48,-2.00,2011

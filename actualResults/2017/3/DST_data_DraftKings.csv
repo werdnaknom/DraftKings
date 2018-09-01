@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New Orleans Saints,DST,3,NO,CAR,4,4,5,3,0,0,0,0,13,14.00,2017
+2,New York Jets,DST,3,NYJ,MIA,8,3,7,2,0,0,0,0,6,14.00,2017
+3,Cincinnati Bengals,DST,3,CIN,GB,6,6,11,1,0,0,1,0,27,14.00,2017
+4,Washington Redskins,DST,3,WAS,OAK,6,4,6,2,1,0,0,0,10,14.00,2017
+5,Detroit Lions,DST,3,DET,ATL,3,2,5,3,0,0,1,0,30,13.00,2017
+6,Jacksonville Jaguars,DST,3,JAX,BAL,5,2,5,2,1,0,0,0,7,12.00,2017
+7,Kansas City Chiefs,DST,3,KC,LAC,8,2,6,3,0,0,0,0,10,12.00,2017
+8,Chicago Bears,DST,3,CHI,PIT,2,3,6,0,2,0,0,0,17,10.00,2017
+9,Minnesota Vikings,DST,3,MIN,TB,3,2,3,3,0,0,0,0,17,9.00,2017
+10,Houston Texans,DST,3,HOU,NE,8,5,9,0,1,0,1,0,36,9.00,2017
+11,Buffalo Bills,DST,3,BUF,DEN,4,3,6,2,0,0,0,0,16,8.00,2017
+12,Dallas Cowboys,DST,3,DAL,ARI,10,6,11,0,0,0,0,0,17,7.00,2017
+13,Pittsburgh Steelers,DST,3,PIT,CHI,6,2,3,1,1,0,0,0,23,6.00,2017
+14,Indianapolis Colts,DST,3,IND,CLE,3,1,9,3,0,0,0,0,28,6.00,2017
+15,New England Patriots,DST,3,NE,HOU,3,2,7,2,0,0,0,0,33,6.00,2017
+16,Green Bay Packers,DST,3,GB,CIN,10,3,5,0,1,0,0,0,24,6.00,2017
+17,New York Giants,DST,3,NYG,PHI,6,3,4,0,1,0,0,0,27,5.00,2017
+18,Miami Dolphins,DST,3,MIA,NYJ,4,2,5,0,1,0,0,0,20,5.00,2017
+19,Los Angeles Chargers,DST,3,LAC,KC,8,5,5,0,0,0,0,0,24,5.00,2017
+20,Oakland Raiders,DST,3,OAK,WAS,5,1,6,0,2,0,0,0,27,5.00,2017
+21,Los Angeles Rams,DST,3,LAR,SF,6,4,7,1,1,0,0,0,39,4.00,2017
+22,Philadelphia Eagles,DST,3,PHI,NYG,4,0,4,2,0,0,0,0,24,4.00,2017
+23,Denver Broncos,DST,3,DEN,BUF,8,4,8,0,0,0,0,0,26,4.00,2017
+24,Cleveland Browns,DST,3,CLE,IND,7,3,7,0,1,0,0,0,31,4.00,2017
+25,Atlanta Falcons,DST,3,ATL,DET,6,2,6,0,0,0,0,0,26,3.00,2017
+26,Tennessee Titans,DST,3,TEN,SEA,3,1,11,0,0,0,0,0,27,1.00,2017
+27,San Francisco 49ers,DST,3,SF,LAR,4,0,3,0,2,0,0,0,41,0.00,2017
+28,Carolina Panthers,DST,3,CAR,NO,4,1,4,0,0,0,0,0,34,0.00,2017
+29,Arizona Cardinals,DST,3,ARI,DAL,6,1,5,0,0,0,0,0,28,0.00,2017
+30,Tampa Bay Buccaneers,DST,3,TB,MIN,2,0,5,0,0,0,0,0,34,-1.00,2017
+31,Seattle Seahawks,DST,3,SEA,TEN,6,0,0,0,0,0,0,0,33,-1.00,2017
+32,Baltimore Ravens,DST,3,BAL,JAX,2,0,3,0,0,0,0,0,44,-4.00,2017

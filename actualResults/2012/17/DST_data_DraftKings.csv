@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Tennessee Titans,DST,17,TEN,JAX,3,7,13,3,0,0,2,2,20,38.00,2012
+2,New England Patriots,DST,17,NE,MIA,8,7,8,1,1,0,0,0,0,21.00,2012
+3,Buffalo Bills,DST,17,BUF,NYJ,5,1,3,1,1,0,1,0,9,17.00,2012
+4,Pittsburgh Steelers,DST,17,PIT,CLE,4,4,5,1,3,0,0,0,10,16.00,2012
+5,Indianapolis Colts,DST,17,IND,HOU,6,4,5,2,0,0,0,1,16,15.00,2012
+6,Cincinnati Bengals,DST,17,CIN,BAL,6,4,5,1,0,0,1,0,17,13.00,2012
+7,Denver Broncos,DST,17,DEN,KC,9,4,6,0,0,0,0,0,3,11.00,2012
+8,San Francisco 49ers,DST,17,SF,ARI,6,2,4,1,1,0,0,0,13,10.00,2012
+9,Jacksonville Jaguars,DST,17,JAX,TEN,7,2,4,0,0,0,0,1,38,10.00,2012
+10,Chicago Bears,DST,17,CHI,DET,3,1,2,1,3,0,0,0,24,9.00,2012
+11,Washington Redskins,DST,17,WAS,DAL,3,2,5,3,0,0,0,0,18,9.00,2012
+12,Los Angeles Chargers,DST,17,LAC,OAK,5,0,1,1,0,0,0,1,21,8.00,2012
+13,New York Giants,DST,17,NYG,PHI,4,1,7,1,0,0,0,0,7,7.00,2012
+14,Los Angeles Rams,DST,17,LAR,SEA,7,6,7,0,0,0,0,0,20,7.00,2012
+15,Minnesota Vikings,DST,17,MIN,GB,5,5,7,0,1,0,0,0,34,6.00,2012
+16,Seattle Seahawks,DST,17,SEA,LAR,0,0,5,1,0,0,0,0,13,6.00,2012
+17,New Orleans Saints,DST,17,NO,CAR,3,1,6,1,0,0,1,0,44,5.00,2012
+18,Tampa Bay Buccaneers,DST,17,TB,ATL,2,2,6,0,0,0,0,0,17,5.00,2012
+19,Oakland Raiders,DST,17,OAK,LAC,5,2,3,0,0,0,0,0,24,4.00,2012
+20,Baltimore Ravens,DST,17,BAL,CIN,4,2,2,0,0,0,0,0,23,3.00,2012
+21,Carolina Panthers,DST,17,CAR,NO,4,2,3,1,0,0,0,0,38,3.00,2012
+22,Atlanta Falcons,DST,17,ATL,TB,4,0,2,1,0,0,0,0,22,2.00,2012
+23,Cleveland Browns,DST,17,CLE,PIT,4,2,3,0,0,0,0,0,24,2.00,2012
+24,Detroit Lions,DST,17,DET,CHI,5,2,5,0,0,0,0,0,26,2.00,2012
+25,New York Jets,DST,17,NYJ,BUF,1,0,4,0,1,0,0,0,28,2.00,2012
+26,Arizona Cardinals,DST,17,ARI,SF,3,1,4,0,0,0,0,0,27,1.00,2012
+27,Dallas Cowboys,DST,17,DAL,WAS,3,1,2,0,0,0,0,0,28,0.00,2012
+28,Houston Texans,DST,17,HOU,IND,6,1,5,0,0,0,0,0,28,0.00,2012
+29,Miami Dolphins,DST,17,MIA,NE,5,1,2,0,0,0,0,0,28,0.00,2012
+30,Kansas City Chiefs,DST,17,KC,DEN,3,0,0,0,1,0,0,0,38,-2.00,2012
+31,Green Bay Packers,DST,17,GB,MIN,6,1,2,0,0,0,0,0,37,-3.00,2012
+32,Philadelphia Eagles,DST,17,PHI,NYG,3,1,2,0,0,0,0,0,42,-3.00,2012

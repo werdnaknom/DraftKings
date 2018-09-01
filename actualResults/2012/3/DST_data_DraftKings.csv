@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,3,ARI,PHI,5,5,13,0,3,0,1,0,6,24.00,2012
+2,Chicago Bears,DST,3,CHI,LAR,8,6,10,2,0,0,1,0,6,23.00,2012
+3,Tennessee Titans,DST,3,TEN,DET,4,1,3,0,1,0,1,2,41,17.00,2012
+4,Atlanta Falcons,DST,3,ATL,LAC,1,1,3,2,2,0,0,0,3,16.00,2012
+5,New York Giants,DST,3,NYG,CAR,1,2,3,3,2,0,0,0,7,16.00,2012
+6,Minnesota Vikings,DST,3,MIN,SF,2,3,3,1,2,0,0,0,13,15.00,2012
+7,Seattle Seahawks,DST,3,SEA,GB,10,8,12,0,0,0,0,0,12,12.00,2012
+8,New York Jets,DST,3,NYJ,MIA,1,0,2,1,1,0,1,0,20,11.00,2012
+9,Tampa Bay Buccaneers,DST,3,TB,DAL,11,4,4,1,2,0,0,0,16,11.00,2012
+10,Dallas Cowboys,DST,3,DAL,TB,3,2,5,1,1,0,0,0,10,10.00,2012
+11,Buffalo Bills,DST,3,BUF,CLE,8,4,5,2,0,0,0,0,14,9.00,2012
+12,New Orleans Saints,DST,3,NO,KC,6,3,4,1,2,0,0,0,27,9.00,2012
+13,Kansas City Chiefs,DST,3,KC,NO,5,4,8,1,0,1,0,0,24,8.00,2012
+14,Washington Redskins,DST,3,WAS,CIN,5,2,6,1,1,0,1,0,38,8.00,2012
+15,Cincinnati Bengals,DST,3,CIN,WAS,8,5,13,0,1,0,0,0,31,7.00,2012
+16,Miami Dolphins,DST,3,MIA,NYJ,3,2,8,2,0,0,0,0,23,7.00,2012
+17,Denver Broncos,DST,3,DEN,HOU,2,1,5,1,1,1,0,0,31,6.00,2012
+18,Houston Texans,DST,3,HOU,DEN,6,3,6,0,1,0,0,0,25,5.00,2012
+19,Los Angeles Rams,DST,3,LAR,CHI,5,2,6,1,0,0,0,0,23,5.00,2012
+20,Oakland Raiders,DST,3,OAK,PIT,2,1,2,0,2,0,0,0,31,4.00,2012
+21,Los Angeles Chargers,DST,3,LAC,ATL,3,2,2,1,0,0,0,0,27,4.00,2012
+22,San Francisco 49ers,DST,3,SF,MIN,3,0,2,0,2,0,0,0,24,4.00,2012
+23,Cleveland Browns,DST,3,CLE,BUF,2,1,1,0,1,0,0,0,24,3.00,2012
+24,Jacksonville Jaguars,DST,3,JAX,IND,1,0,6,1,0,0,0,0,17,3.00,2012
+25,Philadelphia Eagles,DST,3,PHI,ARI,9,3,6,0,0,0,0,0,27,3.00,2012
+26,Green Bay Packers,DST,3,GB,SEA,2,1,3,0,0,0,0,0,14,2.00,2012
+27,Pittsburgh Steelers,DST,3,PIT,OAK,5,1,1,1,0,0,0,0,34,2.00,2012
+28,Baltimore Ravens,DST,3,BAL,NE,7,2,6,0,0,0,0,0,30,1.00,2012
+29,Indianapolis Colts,DST,3,IND,JAX,4,1,3,0,0,0,0,0,22,1.00,2012
+30,New England Patriots,DST,3,NE,BAL,1,0,0,1,0,0,0,0,31,1.00,2012
+31,Detroit Lions,DST,3,DET,TEN,5,0,1,0,2,0,0,0,44,0.00,2012
+32,Carolina Panthers,DST,3,CAR,NYG,6,2,2,0,0,0,0,0,36,-2.00,2012

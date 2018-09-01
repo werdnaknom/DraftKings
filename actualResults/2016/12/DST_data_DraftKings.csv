@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New York Giants,DST,12,NYG,CLE,11,7,11,0,3,0,1,0,13,23.00,2016
+2,Tampa Bay Buccaneers,DST,12,TB,SEA,8,6,11,2,1,0,0,0,5,19.00,2016
+3,Kansas City Chiefs,DST,12,KC,DEN,12,5,7,0,1,1,0,1,27,15.00,2016
+4,Los Angeles Chargers,DST,12,LAC,HOU,4,1,9,3,1,0,0,0,13,13.00,2016
+5,Pittsburgh Steelers,DST,12,PIT,IND,5,3,12,2,0,0,0,0,7,11.00,2016
+6,Baltimore Ravens,DST,12,BAL,CIN,5,3,4,0,2,0,0,0,14,11.00,2016
+7,Oakland Raiders,DST,12,OAK,CAR,2,2,8,1,1,0,1,0,32,11.00,2016
+8,Green Bay Packers,DST,12,GB,PHI,5,4,8,1,0,0,0,0,13,10.00,2016
+9,New England Patriots,DST,12,NE,NYJ,1,1,2,0,2,0,0,0,17,8.00,2016
+10,Cincinnati Bengals,DST,12,CIN,BAL,7,2,3,1,0,1,0,0,19,7.00,2016
+11,New Orleans Saints,DST,12,NO,LAR,6,3,8,1,1,0,0,0,21,7.00,2016
+12,Seattle Seahawks,DST,12,SEA,TB,7,0,3,1,1,1,0,0,14,7.00,2016
+13,Detroit Lions,DST,12,DET,MIN,2,0,3,1,0,0,0,0,13,6.00,2016
+14,Miami Dolphins,DST,12,MIA,SF,6,2,9,1,1,0,0,0,24,6.00,2016
+15,Atlanta Falcons,DST,12,ATL,ARI,6,2,10,1,0,0,0,0,19,5.00,2016
+16,Carolina Panthers,DST,12,CAR,OAK,6,2,5,1,1,0,0,0,35,5.00,2016
+17,Denver Broncos,DST,12,DEN,KC,8,6,8,0,0,0,0,0,30,5.00,2016
+18,Tennessee Titans,DST,12,TEN,CHI,1,0,4,2,0,0,0,0,21,4.00,2016
+19,Jacksonville Jaguars,DST,12,JAX,BUF,10,5,6,0,0,0,0,0,28,4.00,2016
+20,Minnesota Vikings,DST,12,MIN,DET,3,2,8,0,0,0,0,0,16,3.00,2016
+21,Cleveland Browns,DST,12,CLE,NYG,4,1,4,0,1,0,0,0,27,3.00,2016
+22,Houston Texans,DST,12,HOU,LAC,7,1,5,1,0,0,0,0,21,3.00,2016
+23,Buffalo Bills,DST,12,BUF,JAX,6,2,4,0,0,0,0,0,21,2.00,2016
+24,Arizona Cardinals,DST,12,ARI,ATL,9,3,6,1,0,0,0,0,38,1.00,2016
+25,San Francisco 49ers,DST,12,SF,MIA,8,2,3,0,0,0,0,0,31,1.00,2016
+26,Washington Redskins,DST,12,WAS,DAL,3,1,1,0,0,0,0,0,31,0.00,2016
+27,Dallas Cowboys,DST,12,DAL,WAS,6,0,4,0,0,0,0,0,26,0.00,2016
+28,Chicago Bears,DST,12,CHI,TEN,4,0,0,0,0,0,0,0,27,0.00,2016
+29,Los Angeles Rams,DST,12,LAR,NO,8,2,8,0,1,0,0,0,49,0.00,2016
+30,New York Jets,DST,12,NYJ,NE,2,0,4,0,0,0,0,0,22,0.00,2016
+31,Philadelphia Eagles,DST,12,PHI,GB,3,0,2,0,0,0,0,0,27,0.00,2016
+32,Indianapolis Colts,DST,12,IND,PIT,0,0,1,0,0,0,0,0,28,-1.00,2016

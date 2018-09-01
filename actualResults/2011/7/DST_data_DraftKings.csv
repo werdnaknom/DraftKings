@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Kansas City Chiefs,DST,7,KC,OAK,2,1,6,6,0,0,2,0,0,35.00,2011
+2,Seattle Seahawks,DST,7,SEA,CLE,7,5,8,1,0,0,0,0,6,18.00,2011
+3,New Orleans Saints,DST,7,NO,IND,1,1,4,1,2,0,1,0,7,17.00,2011
+4,Houston Texans,DST,7,HOU,TEN,4,2,3,2,0,0,1,0,7,16.00,2011
+5,Cleveland Browns,DST,7,CLE,SEA,2,3,5,1,1,0,0,0,3,14.00,2011
+6,Los Angeles Chargers,DST,7,LAC,NYJ,3,2,3,1,1,0,1,0,27,12.00,2011
+7,Jacksonville Jaguars,DST,7,JAX,BAL,8,3,3,1,1,0,0,0,7,11.00,2011
+8,Baltimore Ravens,DST,7,BAL,JAX,7,4,5,0,1,0,0,0,12,10.00,2011
+9,Carolina Panthers,DST,7,CAR,WAS,3,3,3,1,2,0,0,0,20,10.00,2011
+10,Chicago Bears,DST,7,CHI,TB,7,1,4,4,0,0,0,0,18,10.00,2011
+11,Miami Dolphins,DST,7,MIA,DEN,8,7,9,0,1,0,0,0,18,10.00,2011
+12,Dallas Cowboys,DST,7,DAL,LAR,7,1,6,1,1,0,0,0,7,9.00,2011
+13,Tampa Bay Buccaneers,DST,7,TB,CHI,6,2,4,2,0,1,0,0,24,8.00,2011
+14,Denver Broncos,DST,7,DEN,MIA,7,4,6,0,1,0,0,0,15,7.00,2011
+15,Detroit Lions,DST,7,DET,ATL,5,3,6,2,0,0,0,0,23,7.00,2011
+16,Pittsburgh Steelers,DST,7,PIT,ARI,3,2,3,1,0,1,0,0,20,7.00,2011
+17,Atlanta Falcons,DST,7,ATL,DET,4,3,5,0,1,0,0,0,16,6.00,2011
+18,Green Bay Packers,DST,7,GB,MIN,4,2,3,2,0,0,0,0,27,6.00,2011
+19,New York Jets,DST,7,NYJ,LAC,2,1,4,2,0,0,0,0,21,6.00,2011
+20,Minnesota Vikings,DST,7,MIN,GB,7,4,5,0,1,0,0,0,33,5.00,2011
+21,Oakland Raiders,DST,7,OAK,KC,8,0,2,2,0,0,0,0,28,5.00,2011
+22,Los Angeles Rams,DST,7,LAR,DAL,5,2,3,0,1,0,0,0,34,3.00,2011
+23,Washington Redskins,DST,7,WAS,CAR,4,4,5,0,0,0,0,0,33,3.00,2011
+24,Arizona Cardinals,DST,7,ARI,PIT,6,2,6,0,0,0,0,0,32,1.00,2011
+25,Indianapolis Colts,DST,7,IND,NO,6,2,2,0,0,0,0,0,62,-2.00,2011
+26,Tennessee Titans,DST,7,TEN,HOU,3,0,2,0,0,0,0,0,41,-4.00,2011

@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,San Francisco 49ers,DST,4,SF,NYJ,3,3,2,1,3,0,1,0,0,29.00,2012
+2,Chicago Bears,DST,4,CHI,DAL,6,1,2,5,0,0,2,0,18,24.00,2012
+3,Houston Texans,DST,4,HOU,TEN,4,4,5,2,1,0,2,0,14,23.00,2012
+4,Minnesota Vikings,DST,4,MIN,DET,8,5,9,0,1,0,0,2,13,23.00,2012
+5,Los Angeles Chargers,DST,4,LAC,KC,4,2,6,3,3,0,1,0,20,21.00,2012
+6,Cincinnati Bengals,DST,4,CIN,JAX,8,6,7,1,1,0,0,0,10,14.00,2012
+7,New England Patriots,DST,4,NE,BUF,4,3,4,4,2,0,0,0,28,14.00,2012
+8,Arizona Cardinals,DST,4,ARI,MIA,7,4,9,2,2,0,0,0,21,12.00,2012
+9,Baltimore Ravens,DST,4,BAL,CLE,4,1,8,1,1,0,1,0,16,12.00,2012
+10,Miami Dolphins,DST,4,MIA,ARI,9,8,10,2,0,0,0,0,24,12.00,2012
+11,Los Angeles Rams,DST,4,LAR,SEA,5,2,4,3,0,0,0,0,13,12.00,2012
+12,Denver Broncos,DST,4,DEN,OAK,4,3,8,0,0,0,0,0,6,10.00,2012
+13,Carolina Panthers,DST,4,CAR,ATL,7,7,12,1,0,0,0,0,30,8.00,2012
+14,Cleveland Browns,DST,4,CLE,BAL,6,4,6,1,0,0,0,0,23,7.00,2012
+15,Seattle Seahawks,DST,4,SEA,LAR,9,2,3,1,0,0,0,0,19,5.00,2012
+16,Atlanta Falcons,DST,4,ATL,CAR,5,3,3,0,1,0,0,0,28,4.00,2012
+17,Dallas Cowboys,DST,4,DAL,CHI,2,2,3,0,1,0,0,0,34,4.00,2012
+18,Jacksonville Jaguars,DST,4,JAX,CIN,3,0,1,1,1,0,0,0,27,4.00,2012
+19,Kansas City Chiefs,DST,4,KC,LAC,6,3,3,1,0,0,0,0,37,4.00,2012
+20,Detroit Lions,DST,4,DET,MIN,7,2,7,0,0,0,0,0,20,3.00,2012
+21,New Orleans Saints,DST,4,NO,GB,0,0,1,1,1,0,0,0,28,3.00,2012
+22,New York Giants,DST,4,NYG,PHI,8,2,3,0,0,0,0,0,19,3.00,2012
+23,Philadelphia Eagles,DST,4,PHI,NYG,1,0,3,1,0,0,0,0,17,3.00,2012
+24,Washington Redskins,DST,4,WAS,TB,2,1,1,1,0,0,0,0,22,3.00,2012
+25,Green Bay Packers,DST,4,GB,NO,4,2,2,0,0,0,0,0,27,2.00,2012
+26,Buffalo Bills,DST,4,BUF,NE,3,1,3,0,2,0,0,0,52,1.00,2012
+27,New York Jets,DST,4,NYJ,SF,5,2,3,0,0,0,0,0,34,1.00,2012
+28,Tampa Bay Buccaneers,DST,4,TB,WAS,6,1,2,0,0,0,0,0,24,1.00,2012
+29,Tennessee Titans,DST,4,TEN,HOU,5,0,3,0,0,0,0,0,38,0.00,2012
+30,Oakland Raiders,DST,4,OAK,DEN,3,0,1,0,1,0,0,0,37,-2.00,2012

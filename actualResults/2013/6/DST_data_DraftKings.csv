@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Rams,DST,6,LAR,HOU,6,5,7,2,2,0,2,0,13,29.00,2013
+2,Kansas City Chiefs,DST,6,KC,OAK,9,9,14,3,0,0,1,0,7,25.00,2013
+3,Dallas Cowboys,DST,6,DAL,WAS,4,3,5,1,1,0,0,1,16,14.00,2013
+4,Pittsburgh Steelers,DST,6,PIT,NYJ,5,3,6,2,0,0,0,0,6,14.00,2013
+5,Chicago Bears,DST,6,CHI,NYG,4,1,1,3,0,0,1,0,21,13.00,2013
+6,Tennessee Titans,DST,6,TEN,SEA,4,2,4,0,2,0,1,0,20,13.00,2013
+7,San Francisco 49ers,DST,6,SF,ARI,1,1,5,2,2,1,0,0,20,12.00,2013
+8,Carolina Panthers,DST,6,CAR,MIN,5,3,6,2,0,0,0,0,10,11.00,2013
+9,Seattle Seahawks,DST,6,SEA,TEN,5,3,6,2,0,0,0,0,13,11.00,2013
+10,Denver Broncos,DST,6,DEN,JAX,8,2,4,2,0,0,0,0,19,10.00,2013
+11,Baltimore Ravens,DST,6,BAL,GB,6,3,3,1,1,0,0,0,19,8.00,2013
+12,Green Bay Packers,DST,6,GB,BAL,10,5,3,0,1,0,0,0,17,8.00,2013
+13,Jacksonville Jaguars,DST,6,JAX,DEN,3,0,1,1,2,0,1,0,35,8.00,2013
+14,Cincinnati Bengals,DST,6,CIN,BUF,8,5,11,0,1,0,0,0,24,7.00,2013
+15,Detroit Lions,DST,6,DET,CLE,1,2,6,2,0,0,0,0,17,7.00,2013
+16,Los Angeles Chargers,DST,6,LAC,IND,1,1,4,1,0,0,0,0,9,7.00,2013
+17,New Orleans Saints,DST,6,NO,NE,7,5,7,1,0,0,0,0,30,6.00,2013
+18,Oakland Raiders,DST,6,OAK,KC,4,3,9,0,1,0,0,0,24,6.00,2013
+19,Arizona Cardinals,DST,6,ARI,SF,5,2,4,1,1,0,0,0,32,5.00,2013
+20,Buffalo Bills,DST,6,BUF,CIN,8,3,5,1,0,0,0,0,27,5.00,2013
+21,New England Patriots,DST,6,NE,NO,3,1,3,1,1,0,0,0,27,5.00,2013
+22,New York Jets,DST,6,NYJ,PIT,6,4,8,0,0,0,0,0,19,5.00,2013
+23,Philadelphia Eagles,DST,6,PHI,TB,3,2,3,1,0,0,0,0,20,5.00,2013
+24,Indianapolis Colts,DST,6,IND,LAC,6,2,4,0,0,0,0,0,19,3.00,2013
+25,Cleveland Browns,DST,6,CLE,DET,2,1,2,1,0,0,0,0,31,2.00,2013
+26,Tampa Bay Buccaneers,DST,6,TB,PHI,4,1,6,0,1,0,0,0,31,2.00,2013
+27,Washington Redskins,DST,6,WAS,DAL,3,1,4,1,0,0,0,0,31,2.00,2013
+28,Houston Texans,DST,6,HOU,LAR,2,0,3,0,0,0,0,0,38,0.00,2013
+29,New York Giants,DST,6,NYG,CHI,2,0,2,0,0,0,0,0,27,0.00,2013
+30,Minnesota Vikings,DST,6,MIN,CAR,5,1,2,0,0,0,0,0,35,-3.00,2013

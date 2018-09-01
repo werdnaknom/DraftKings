@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Houston Texans,DST,8,HOU,TEN,7,7,16,1,2,0,0,0,6,20.00,2015
+2,New England Patriots,DST,8,NE,MIA,6,5,10,2,0,1,0,0,7,15.00,2015
+3,Kansas City Chiefs,DST,8,KC,DET,5,6,8,2,0,0,0,0,10,14.00,2015
+4,Cincinnati Bengals,DST,8,CIN,PIT,4,3,6,3,0,0,0,0,10,13.00,2015
+5,Los Angeles Rams,DST,8,LAR,SF,9,3,9,0,0,1,0,0,6,12.00,2015
+6,Tampa Bay Buccaneers,DST,8,TB,ATL,3,1,10,1,3,0,0,0,20,10.00,2015
+7,Cleveland Browns,DST,8,CLE,ARI,3,1,7,1,4,0,0,0,34,10.00,2015
+8,Carolina Panthers,DST,8,CAR,IND,5,2,5,3,1,0,0,0,26,10.00,2015
+9,Pittsburgh Steelers,DST,8,PIT,CIN,6,3,6,2,0,0,0,0,16,10.00,2015
+10,Seattle Seahawks,DST,8,SEA,DAL,4,1,4,0,2,0,0,0,12,9.00,2015
+11,Denver Broncos,DST,8,DEN,GB,3,3,7,0,0,1,0,0,10,9.00,2015
+12,Minnesota Vikings,DST,8,MIN,CHI,3,1,6,0,0,0,0,1,20,8.00,2015
+13,Arizona Cardinals,DST,8,ARI,CLE,6,1,9,1,2,0,0,0,20,8.00,2015
+14,Dallas Cowboys,DST,8,DAL,SEA,5,0,6,1,0,0,0,0,13,8.00,2015
+15,Indianapolis Colts,DST,8,IND,CAR,3,2,5,1,2,0,0,0,29,7.00,2015
+16,New York Giants,DST,8,NYG,NO,4,0,3,2,0,0,1,0,52,6.00,2015
+17,Oakland Raiders,DST,8,OAK,NYJ,9,3,7,1,0,0,0,0,20,6.00,2015
+18,Tennessee Titans,DST,8,TEN,HOU,2,3,7,0,0,0,0,0,20,4.00,2015
+19,San Francisco 49ers,DST,8,SF,LAR,2,0,4,0,1,0,0,0,27,4.00,2015
+20,Chicago Bears,DST,8,CHI,MIN,3,1,2,1,0,0,0,0,23,3.00,2015
+21,Atlanta Falcons,DST,8,ATL,TB,4,2,7,0,0,0,0,0,23,2.00,2015
+22,Los Angeles Chargers,DST,8,LAC,BAL,3,3,5,0,0,0,0,0,29,2.00,2015
+23,Green Bay Packers,DST,8,GB,DEN,6,0,3,1,0,0,0,0,29,2.00,2015
+24,Miami Dolphins,DST,8,MIA,NE,2,2,7,0,0,0,0,0,36,1.00,2015
+25,Baltimore Ravens,DST,8,BAL,LAC,4,1,7,0,0,0,0,0,26,1.00,2015
+26,New Orleans Saints,DST,8,NO,NYG,4,3,2,0,1,0,0,0,49,1.00,2015
+27,Detroit Lions,DST,8,DET,KC,6,3,4,0,0,0,0,0,45,-1.00,2015
+28,New York Jets,DST,8,NYJ,OAK,1,0,5,0,0,0,0,0,34,-1.00,2015

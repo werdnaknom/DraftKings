@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Houston Texans,DST,17,HOU,JAX,6,8,12,2,2,0,1,0,6,29.00,2015
+2,Pittsburgh Steelers,DST,17,PIT,CLE,5,7,11,2,2,0,0,0,12,19.00,2015
+3,Minnesota Vikings,DST,17,MIN,GB,8,5,11,1,1,0,1,0,13,19.00,2015
+4,Kansas City Chiefs,DST,17,KC,OAK,6,6,8,1,0,1,0,0,17,16.00,2015
+5,Seattle Seahawks,DST,17,SEA,ARI,1,2,9,3,0,0,0,0,6,15.00,2015
+6,Los Angeles Chargers,DST,17,LAC,DEN,4,2,6,2,4,0,0,0,27,14.00,2015
+7,Detroit Lions,DST,17,DET,CHI,4,5,8,3,0,0,0,0,20,12.00,2015
+8,Indianapolis Colts,DST,17,IND,TEN,4,4,5,1,0,0,1,0,24,12.00,2015
+9,Carolina Panthers,DST,17,CAR,TB,5,2,7,2,1,0,0,0,10,12.00,2015
+10,Oakland Raiders,DST,17,OAK,KC,6,1,2,2,0,0,1,0,23,11.00,2015
+11,Washington Redskins,DST,17,WAS,DAL,4,4,6,2,1,0,0,0,23,10.00,2015
+12,Philadelphia Eagles,DST,17,PHI,NYG,3,2,4,0,1,0,1,0,30,9.00,2015
+13,Buffalo Bills,DST,17,BUF,NYJ,3,1,5,3,0,0,0,0,17,8.00,2015
+14,Green Bay Packers,DST,17,GB,MIN,5,3,3,1,1,0,0,0,20,8.00,2015
+15,New Orleans Saints,DST,17,NO,ATL,4,1,3,1,1,0,0,0,17,8.00,2015
+16,Cincinnati Bengals,DST,17,CIN,BAL,4,1,8,2,0,0,0,0,16,6.00,2015
+17,Miami Dolphins,DST,17,MIA,NE,3,2,8,0,0,0,0,0,10,6.00,2015
+18,Denver Broncos,DST,17,DEN,LAC,7,3,7,1,0,0,0,0,20,6.00,2015
+19,Cleveland Browns,DST,17,CLE,PIT,1,0,2,2,1,0,0,0,28,5.00,2015
+20,New York Jets,DST,17,NYJ,BUF,6,2,2,0,1,0,0,0,22,4.00,2015
+21,Chicago Bears,DST,17,CHI,DET,3,4,10,0,0,0,0,0,24,4.00,2015
+22,Jacksonville Jaguars,DST,17,JAX,HOU,1,2,8,1,0,0,0,0,30,4.00,2015
+23,New York Giants,DST,17,NYG,PHI,4,1,2,1,1,0,0,0,35,4.00,2015
+24,Tampa Bay Buccaneers,DST,17,TB,CAR,4,4,3,0,2,0,0,0,38,4.00,2015
+25,Los Angeles Rams,DST,17,LAR,SF,7,1,7,1,0,0,0,0,19,4.00,2015
+26,Atlanta Falcons,DST,17,ATL,NO,3,0,2,0,1,0,0,0,20,3.00,2015
+27,Baltimore Ravens,DST,17,BAL,CIN,3,3,8,0,0,0,0,0,24,3.00,2015
+28,Tennessee Titans,DST,17,TEN,IND,3,1,5,1,0,0,0,0,30,3.00,2015
+29,San Francisco 49ers,DST,17,SF,LAR,8,0,3,0,0,0,0,0,16,3.00,2015
+30,Dallas Cowboys,DST,17,DAL,WAS,3,1,4,0,0,1,0,0,34,2.00,2015
+31,New England Patriots,DST,17,NE,MIA,6,1,3,0,0,0,0,0,20,2.00,2015
+32,Arizona Cardinals,DST,17,ARI,SEA,3,1,5,0,0,0,0,0,36,-3.00,2015

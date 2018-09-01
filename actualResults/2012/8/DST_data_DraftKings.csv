@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New York Giants,DST,8,NYG,DAL,4,4,8,4,2,0,1,0,24,22.00,2012
+2,Miami Dolphins,DST,8,MIA,NYJ,4,4,7,1,1,0,0,1,9,22.00,2012
+3,Carolina Panthers,DST,8,CAR,CHI,6,6,4,1,2,0,0,0,23,13.00,2012
+4,San Francisco 49ers,DST,8,SF,ARI,9,4,6,1,0,0,0,0,3,13.00,2012
+5,Green Bay Packers,DST,8,GB,JAX,4,2,3,0,1,0,0,1,15,13.00,2012
+6,Chicago Bears,DST,8,CHI,CAR,7,2,2,2,0,0,1,0,22,12.00,2012
+7,Oakland Raiders,DST,8,OAK,KC,5,3,11,2,2,0,0,0,16,12.00,2012
+8,Cleveland Browns,DST,8,CLE,LAC,4,1,3,0,1,0,0,0,6,10.00,2012
+9,New England Patriots,DST,8,NE,LAR,5,2,3,2,0,0,0,0,7,10.00,2012
+10,Tampa Bay Buccaneers,DST,8,TB,MIN,7,3,4,1,2,0,0,0,17,10.00,2012
+11,Pittsburgh Steelers,DST,8,PIT,WAS,5,1,5,0,0,0,0,0,12,7.00,2012
+12,Tennessee Titans,DST,8,TEN,IND,7,2,7,1,0,0,0,0,19,7.00,2012
+13,Indianapolis Colts,DST,8,IND,TEN,4,2,2,0,0,0,0,0,13,6.00,2012
+14,Los Angeles Chargers,DST,8,LAC,CLE,4,2,6,0,0,0,0,0,7,6.00,2012
+15,Dallas Cowboys,DST,8,DAL,NYG,4,1,4,1,1,0,0,0,29,5.00,2012
+16,Arizona Cardinals,DST,8,ARI,SF,8,4,4,0,0,0,0,0,24,4.00,2012
+17,Atlanta Falcons,DST,8,ATL,PHI,8,3,5,0,0,0,0,0,17,4.00,2012
+18,Denver Broncos,DST,8,DEN,NO,4,1,1,1,0,0,0,0,14,4.00,2012
+19,Detroit Lions,DST,8,DET,SEA,7,0,3,1,1,0,0,0,24,4.00,2012
+20,Jacksonville Jaguars,DST,8,JAX,GB,2,2,3,0,1,0,0,0,24,4.00,2012
+21,New York Jets,DST,8,NYJ,MIA,5,2,3,0,1,0,0,0,30,3.00,2012
+22,Seattle Seahawks,DST,8,SEA,DET,3,2,7,1,0,0,0,0,28,3.00,2012
+23,Philadelphia Eagles,DST,8,PHI,ATL,9,2,2,0,0,0,0,0,30,3.00,2012
+24,Kansas City Chiefs,DST,8,KC,OAK,6,0,3,1,0,0,0,0,26,2.00,2012
+25,New Orleans Saints,DST,8,NO,DEN,2,0,1,0,1,0,0,0,34,1.00,2012
+26,Washington Redskins,DST,8,WAS,PIT,3,1,1,0,0,0,0,0,27,1.00,2012
+27,Minnesota Vikings,DST,8,MIN,TB,2,1,3,0,0,0,0,0,36,-3.00,2012
+28,Los Angeles Rams,DST,8,LAR,NE,4,0,0,0,0,0,0,0,45,-4.00,2012

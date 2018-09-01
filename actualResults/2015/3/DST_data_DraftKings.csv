@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,3,ARI,SF,7,2,5,4,0,1,2,0,7,28.00,2015
+2,Seattle Seahawks,DST,3,SEA,CHI,4,2,6,0,0,0,0,1,0,18.00,2015
+3,Denver Broncos,DST,3,DEN,DET,6,4,10,2,2,0,0,0,12,18.00,2015
+4,Philadelphia Eagles,DST,3,PHI,NYJ,3,1,6,3,1,0,0,1,17,16.00,2015
+5,Minnesota Vikings,DST,3,MIN,LAC,4,4,13,1,1,0,1,0,14,15.00,2015
+6,Buffalo Bills,DST,3,BUF,MIA,4,2,11,3,0,0,1,0,14,15.00,2015
+7,Oakland Raiders,DST,3,OAK,CLE,7,5,12,1,2,0,0,0,20,12.00,2015
+8,Indianapolis Colts,DST,3,IND,TEN,7,3,6,2,0,0,1,0,33,12.00,2015
+9,Baltimore Ravens,DST,3,BAL,CIN,2,2,5,1,1,0,1,0,28,11.00,2015
+10,Pittsburgh Steelers,DST,3,PIT,LAR,4,2,3,1,0,0,0,0,6,11.00,2015
+11,Los Angeles Rams,DST,3,LAR,PIT,7,5,5,1,0,0,0,0,12,11.00,2015
+12,New York Giants,DST,3,NYG,WAS,2,1,6,2,1,1,0,0,21,11.00,2015
+13,Cleveland Browns,DST,3,CLE,OAK,1,0,0,0,5,0,0,0,27,10.00,2015
+14,Green Bay Packers,DST,3,GB,KC,8,7,9,1,0,0,0,0,28,8.00,2015
+15,New Orleans Saints,DST,3,NO,CAR,3,1,3,0,0,0,0,1,27,7.00,2015
+16,Houston Texans,DST,3,HOU,TB,3,0,6,1,0,0,0,0,9,6.00,2015
+17,Tennessee Titans,DST,3,TEN,IND,4,3,4,2,0,0,0,0,35,6.00,2015
+18,Washington Redskins,DST,3,WAS,NYG,1,0,2,0,0,0,0,1,32,5.00,2015
+19,Carolina Panthers,DST,3,CAR,NO,2,1,1,1,1,0,0,0,22,5.00,2015
+20,New England Patriots,DST,3,NE,JAX,1,2,2,1,0,0,0,0,17,5.00,2015
+21,Detroit Lions,DST,3,DET,DEN,2,1,8,1,1,0,0,0,24,5.00,2015
+22,Tampa Bay Buccaneers,DST,3,TB,HOU,7,1,4,1,0,0,0,0,19,4.00,2015
+23,Chicago Bears,DST,3,CHI,SEA,3,4,10,0,0,0,0,0,26,4.00,2015
+24,Cincinnati Bengals,DST,3,CIN,BAL,5,0,3,1,0,0,0,0,24,3.00,2015
+25,Atlanta Falcons,DST,3,ATL,DAL,5,2,3,1,0,0,0,0,28,3.00,2015
+26,New York Jets,DST,3,NYJ,PHI,5,1,6,0,1,0,0,0,24,3.00,2015
+27,Los Angeles Chargers,DST,3,LAC,MIN,4,0,3,1,0,0,0,0,31,2.00,2015
+28,San Francisco 49ers,DST,3,SF,ARI,3,1,3,1,0,0,0,0,47,2.00,2015
+29,Jacksonville Jaguars,DST,3,JAX,NE,3,2,4,0,1,0,0,0,51,0.00,2015
+30,Kansas City Chiefs,DST,3,KC,GB,6,1,4,0,1,0,0,0,38,-1.00,2015
+31,Dallas Cowboys,DST,3,DAL,ATL,3,1,3,0,0,0,0,0,39,-3.00,2015
+32,Miami Dolphins,DST,3,MIA,BUF,7,0,3,0,0,0,0,0,41,-4.00,2015

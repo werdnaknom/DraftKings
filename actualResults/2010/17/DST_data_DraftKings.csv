@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New York Jets,DST,17,NYJ,BUF,4,3,10,4,2,0,1,0,7,28.00,2010
+2,Dallas Cowboys,DST,17,DAL,PHI,6,6,5,3,1,0,1,0,13,24.00,2010
+3,Oakland Raiders,DST,17,OAK,KC,10,7,15,2,0,0,1,0,10,21.00,2010
+4,San Francisco 49ers,DST,17,SF,ARI,9,6,9,2,0,0,1,0,7,20.00,2010
+5,New England Patriots,DST,17,NE,MIA,7,5,8,1,1,0,0,1,7,19.00,2010
+6,Atlanta Falcons,DST,17,ATL,CAR,8,3,4,1,1,0,0,1,10,17.00,2010
+7,Green Bay Packers,DST,17,GB,CHI,5,6,8,2,0,0,0,0,3,17.00,2010
+8,Baltimore Ravens,DST,17,BAL,CIN,3,0,2,2,3,0,0,0,7,14.00,2010
+9,Pittsburgh Steelers,DST,17,PIT,CLE,7,4,5,3,0,0,0,0,9,14.00,2010
+10,Tampa Bay Buccaneers,DST,17,TB,NO,4,3,3,1,2,0,0,0,13,13.00,2010
+11,Cincinnati Bengals,DST,17,CIN,BAL,8,4,7,1,1,0,0,0,13,12.00,2010
+12,Denver Broncos,DST,17,DEN,LAC,6,5,7,1,0,0,0,1,33,12.00,2010
+13,Minnesota Vikings,DST,17,MIN,DET,3,1,3,1,1,0,1,0,20,12.00,2010
+14,Seattle Seahawks,DST,17,SEA,LAR,4,3,6,1,0,0,0,0,6,12.00,2010
+15,New York Giants,DST,17,NYG,WAS,4,2,5,1,3,0,0,0,14,11.00,2010
+16,Chicago Bears,DST,17,CHI,GB,1,2,3,1,1,0,0,0,10,10.00,2010
+17,Detroit Lions,DST,17,DET,MIN,4,3,4,1,0,0,0,0,13,9.00,2010
+18,Buffalo Bills,DST,17,BUF,NYJ,3,1,4,1,0,0,1,0,38,8.00,2010
+19,Philadelphia Eagles,DST,17,PHI,DAL,4,2,4,0,1,0,0,0,14,8.00,2010
+20,Houston Texans,DST,17,HOU,JAX,6,2,11,1,1,0,0,0,17,7.00,2010
+21,New Orleans Saints,DST,17,NO,TB,7,3,2,0,2,0,0,0,23,7.00,2010
+22,Kansas City Chiefs,DST,17,KC,OAK,3,4,9,0,1,0,0,0,31,6.00,2010
+23,Los Angeles Chargers,DST,17,LAC,DEN,7,3,3,2,0,0,0,0,28,6.00,2010
+24,Indianapolis Colts,DST,17,IND,TEN,5,1,4,0,1,0,0,0,20,4.00,2010
+25,Los Angeles Rams,DST,17,LAR,SEA,4,0,4,0,1,0,0,0,16,3.00,2010
+26,Tennessee Titans,DST,17,TEN,IND,3,1,3,0,1,0,0,0,23,3.00,2010
+27,Washington Redskins,DST,17,WAS,NYG,4,0,3,1,0,0,0,0,17,3.00,2010
+28,Carolina Panthers,DST,17,CAR,ATL,2,1,1,0,1,0,0,0,31,2.00,2010
+29,Arizona Cardinals,DST,17,ARI,SF,6,2,3,0,0,0,0,0,38,1.00,2010
+30,Jacksonville Jaguars,DST,17,JAX,HOU,5,0,0,0,0,0,0,0,34,-1.00,2010
+31,Cleveland Browns,DST,17,CLE,PIT,1,2,8,0,0,0,0,0,41,-2.00,2010
+32,Miami Dolphins,DST,17,MIA,NE,1,0,4,0,1,0,0,0,38,-2.00,2010

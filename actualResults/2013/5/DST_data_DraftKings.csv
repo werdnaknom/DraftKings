@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,5,ARI,CAR,8,7,11,3,1,1,0,0,6,24.00,2013
+2,San Francisco 49ers,DST,5,SF,HOU,5,1,4,3,1,0,1,0,3,22.00,2013
+3,Oakland Raiders,DST,5,OAK,LAC,4,2,2,3,2,0,1,0,17,21.00,2013
+4,Cleveland Browns,DST,5,CLE,BUF,4,4,12,1,0,0,1,1,24,18.00,2013
+5,Kansas City Chiefs,DST,5,KC,TEN,3,3,2,2,1,0,1,0,17,16.00,2013
+6,Cincinnati Bengals,DST,5,CIN,NE,5,4,8,1,1,0,0,0,6,15.00,2013
+7,Los Angeles Rams,DST,5,LAR,JAX,5,2,3,2,1,0,1,0,20,15.00,2013
+8,Indianapolis Colts,DST,5,IND,SEA,3,2,3,1,1,0,0,1,28,14.00,2013
+9,Miami Dolphins,DST,5,MIA,BAL,6,2,6,1,1,0,1,0,26,12.00,2013
+10,New England Patriots,DST,5,NE,CIN,4,4,6,1,1,0,0,0,13,12.00,2013
+11,Carolina Panthers,DST,5,CAR,ARI,3,2,6,3,0,0,0,0,22,9.00,2013
+12,Green Bay Packers,DST,5,GB,DET,7,5,5,0,0,0,0,0,9,9.00,2013
+13,Philadelphia Eagles,DST,5,PHI,NYG,4,1,3,3,1,0,0,0,21,9.00,2013
+14,Seattle Seahawks,DST,5,SEA,IND,1,2,5,0,2,1,0,0,34,9.00,2013
+15,Baltimore Ravens,DST,5,BAL,MIA,9,6,6,0,0,0,0,0,23,7.00,2013
+16,Tennessee Titans,DST,5,TEN,KC,3,2,6,1,1,0,0,0,26,7.00,2013
+17,New Orleans Saints,DST,5,NO,CHI,4,3,6,0,1,0,0,0,18,6.00,2013
+18,New York Jets,DST,5,NYJ,ATL,8,2,4,0,1,0,0,0,28,5.00,2013
+19,Buffalo Bills,DST,5,BUF,CLE,5,5,7,0,0,0,0,0,37,4.00,2013
+20,Denver Broncos,DST,5,DEN,DAL,6,4,6,1,1,0,0,0,48,4.00,2013
+21,Los Angeles Chargers,DST,5,LAC,OAK,5,4,3,0,0,0,0,0,27,4.00,2013
+22,Atlanta Falcons,DST,5,ATL,NYJ,4,4,3,0,0,0,0,0,30,3.00,2013
+23,Chicago Bears,DST,5,CHI,NO,8,1,5,0,0,0,0,0,26,1.00,2013
+24,Detroit Lions,DST,5,DET,GB,6,1,1,0,0,0,0,0,22,1.00,2013
+25,Jacksonville Jaguars,DST,5,JAX,LAR,3,2,2,0,0,0,0,0,34,1.00,2013
+26,Dallas Cowboys,DST,5,DAL,DEN,4,0,0,1,1,0,0,0,51,0.00,2013
+27,Houston Texans,DST,5,HOU,SF,6,1,5,0,0,0,0,0,34,0.00,2013
+28,New York Giants,DST,5,NYG,PHI,9,1,9,0,0,0,0,0,36,-3.00,2013

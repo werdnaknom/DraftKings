@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,17,ARI,LAR,12,7,10,2,1,0,1,0,6,26.00,2016
+2,Minnesota Vikings,DST,17,MIN,CHI,3,2,5,2,3,0,1,0,10,22.00,2016
+3,New York Giants,DST,17,NYG,WAS,6,4,5,2,1,0,1,0,10,20.00,2016
+4,New York Jets,DST,17,NYJ,BUF,11,3,5,1,2,0,1,0,10,19.00,2016
+5,Tampa Bay Buccaneers,DST,17,TB,CAR,6,3,5,3,0,0,1,0,16,16.00,2016
+6,Denver Broncos,DST,17,DEN,OAK,3,2,5,1,2,0,0,0,6,15.00,2016
+7,Tennessee Titans,DST,17,TEN,HOU,8,4,6,0,1,0,1,0,17,13.00,2016
+8,Carolina Panthers,DST,17,CAR,TB,4,3,5,1,1,0,0,0,17,13.00,2016
+9,Philadelphia Eagles,DST,17,PHI,DAL,6,3,6,2,0,0,0,0,13,13.00,2016
+10,Pittsburgh Steelers,DST,17,PIT,CLE,9,4,7,1,3,0,0,0,24,12.00,2016
+11,Cincinnati Bengals,DST,17,CIN,BAL,6,3,6,2,0,0,0,0,10,11.00,2016
+12,Kansas City Chiefs,DST,17,KC,LAC,2,0,2,2,0,0,0,1,27,10.00,2016
+13,Seattle Seahawks,DST,17,SEA,SF,8,5,8,0,2,0,0,0,23,9.00,2016
+14,Jacksonville Jaguars,DST,17,JAX,IND,6,4,10,1,1,0,0,0,24,8.00,2016
+15,Houston Texans,DST,17,HOU,TEN,10,4,5,1,0,0,0,0,24,7.00,2016
+16,Indianapolis Colts,DST,17,IND,JAX,4,2,7,0,2,0,0,0,20,7.00,2016
+17,Cleveland Browns,DST,17,CLE,PIT,9,4,7,1,0,0,0,0,27,6.00,2016
+18,New England Patriots,DST,17,NE,MIA,1,0,5,1,1,0,0,0,14,5.00,2016
+19,Washington Redskins,DST,17,WAS,NYG,1,1,2,0,0,0,0,0,19,5.00,2016
+20,Los Angeles Chargers,DST,17,LAC,KC,8,1,2,1,0,0,1,0,37,5.00,2016
+21,San Francisco 49ers,DST,17,SF,SEA,2,2,5,0,0,1,0,0,25,4.00,2016
+22,Green Bay Packers,DST,17,GB,DET,4,2,4,1,0,0,0,0,24,4.00,2016
+23,Atlanta Falcons,DST,17,ATL,NO,6,2,4,1,0,0,0,0,32,3.00,2016
+24,Los Angeles Rams,DST,17,LAR,ARI,4,1,10,2,0,0,0,0,44,3.00,2016
+25,Dallas Cowboys,DST,17,DAL,PHI,10,2,10,0,0,0,0,0,27,2.00,2016
+26,Oakland Raiders,DST,17,OAK,DEN,9,0,3,1,0,0,0,0,24,2.00,2016
+27,Baltimore Ravens,DST,17,BAL,CIN,3,1,2,0,0,0,0,0,27,1.00,2016
+28,Chicago Bears,DST,17,CHI,MIN,4,0,1,1,0,0,0,0,38,1.00,2016
+29,Buffalo Bills,DST,17,BUF,NYJ,6,1,4,0,0,0,0,0,30,1.00,2016
+30,Detroit Lions,DST,17,DET,GB,2,1,4,0,0,0,0,0,31,0.00,2016
+31,New Orleans Saints,DST,17,NO,ATL,2,1,5,0,0,0,0,0,38,-3.00,2016
+32,Miami Dolphins,DST,17,MIA,NE,4,0,1,0,0,0,0,0,35,-4.00,2016

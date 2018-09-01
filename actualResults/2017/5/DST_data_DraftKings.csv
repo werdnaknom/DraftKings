@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Jacksonville Jaguars,DST,5,JAX,PIT,7,2,7,5,0,0,2,0,9,28.00,2017
+2,Miami Dolphins,DST,5,MIA,TEN,4,6,11,0,2,0,1,0,10,20.00,2017
+3,Seattle Seahawks,DST,5,SEA,LAR,6,2,4,2,2,0,0,0,10,14.00,2017
+4,Baltimore Ravens,DST,5,BAL,OAK,5,3,5,0,1,0,1,0,17,12.00,2017
+5,Green Bay Packers,DST,5,GB,DAL,4,1,4,1,2,0,1,0,31,12.00,2017
+6,Los Angeles Chargers,DST,5,LAC,NYG,8,5,7,1,1,0,0,0,22,10.00,2017
+7,Kansas City Chiefs,DST,5,KC,HOU,4,3,7,0,1,0,0,1,34,10.00,2017
+8,Cincinnati Bengals,DST,5,CIN,BUF,9,6,8,1,0,0,0,0,16,9.00,2017
+9,Tennessee Titans,DST,5,TEN,MIA,4,1,3,1,1,0,0,0,16,9.00,2017
+10,Tampa Bay Buccaneers,DST,5,TB,NE,5,3,6,1,1,0,0,0,19,8.00,2017
+11,New York Jets,DST,5,NYJ,CLE,3,1,6,2,1,0,0,0,14,8.00,2017
+12,Buffalo Bills,DST,5,BUF,CIN,2,1,4,2,1,0,0,0,20,8.00,2017
+13,Carolina Panthers,DST,5,CAR,DET,10,6,7,0,1,0,0,0,24,8.00,2017
+14,Los Angeles Rams,DST,5,LAR,SEA,6,3,11,2,0,0,0,0,16,8.00,2017
+15,Philadelphia Eagles,DST,5,PHI,ARI,6,2,7,0,0,0,0,0,7,8.00,2017
+16,Chicago Bears,DST,5,CHI,MIN,8,4,10,0,0,1,0,0,20,7.00,2017
+17,Cleveland Browns,DST,5,CLE,NYJ,6,3,7,1,0,0,0,0,17,6.00,2017
+18,San Francisco 49ers,DST,5,SF,IND,10,4,12,1,0,0,0,0,26,6.00,2017
+19,Minnesota Vikings,DST,5,MIN,CHI,6,1,3,1,1,0,0,0,17,6.00,2017
+20,Pittsburgh Steelers,DST,5,PIT,JAX,4,2,5,1,0,0,0,0,30,5.00,2017
+21,Dallas Cowboys,DST,5,DAL,GB,5,4,6,0,1,0,0,0,35,5.00,2017
+22,New York Giants,DST,5,NYG,LAC,3,0,6,1,0,1,0,0,27,4.00,2017
+23,New England Patriots,DST,5,NE,TB,3,2,6,0,0,0,0,0,14,3.00,2017
+24,Detroit Lions,DST,5,DET,CAR,14,3,3,0,0,0,0,0,27,3.00,2017
+25,Indianapolis Colts,DST,5,IND,SF,5,2,5,0,0,0,0,0,23,2.00,2017
+26,Arizona Cardinals,DST,5,ARI,PHI,6,1,3,1,0,0,0,0,34,2.00,2017
+27,Oakland Raiders,DST,5,OAK,BAL,6,0,2,0,0,0,0,0,30,0.00,2017
+28,Houston Texans,DST,5,HOU,KC,8,1,3,0,0,0,0,0,42,-3.00,2017

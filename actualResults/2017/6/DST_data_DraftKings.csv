@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New Orleans Saints,DST,6,NO,DET,10,5,8,3,2,0,3,0,38,32.00,2017
+2,Houston Texans,DST,6,HOU,CLE,7,4,7,3,0,1,1,0,17,22.00,2017
+3,Los Angeles Rams,DST,6,LAR,JAX,10,5,8,1,0,0,0,2,17,22.00,2017
+4,New York Giants,DST,6,NYG,DEN,5,4,4,2,1,0,1,0,10,22.00,2017
+5,Baltimore Ravens,DST,6,BAL,CHI,11,4,8,0,2,0,0,2,27,20.00,2017
+6,Detroit Lions,DST,6,DET,NO,2,0,3,2,1,0,1,1,52,17.00,2017
+7,Chicago Bears,DST,6,CHI,BAL,5,3,3,2,1,0,1,0,24,15.00,2017
+8,Minnesota Vikings,DST,6,MIN,GB,6,4,13,3,0,0,0,0,10,14.00,2017
+9,Cleveland Browns,DST,6,CLE,HOU,5,1,7,1,0,0,1,0,33,9.00,2017
+10,New England Patriots,DST,6,NE,NYJ,8,4,10,2,0,0,0,0,17,9.00,2017
+11,Pittsburgh Steelers,DST,6,PIT,KC,5,3,9,0,0,1,0,0,13,9.00,2017
+12,Philadelphia Eagles,DST,6,PHI,CAR,8,2,9,3,0,0,0,0,23,8.00,2017
+13,Tampa Bay Buccaneers,DST,6,TB,ARI,7,2,4,1,1,0,1,0,38,8.00,2017
+14,Arizona Cardinals,DST,6,ARI,TB,4,2,6,2,0,0,0,0,33,6.00,2017
+15,Los Angeles Chargers,DST,6,LAC,OAK,4,1,1,2,0,0,0,0,16,6.00,2017
+16,Denver Broncos,DST,6,DEN,NYG,6,3,3,0,0,0,0,0,23,6.00,2017
+17,San Francisco 49ers,DST,6,SF,WAS,9,1,6,1,1,0,0,0,26,5.00,2017
+18,Washington Redskins,DST,6,WAS,SF,6,3,10,1,0,0,0,0,24,5.00,2017
+19,Miami Dolphins,DST,6,MIA,ATL,5,2,5,1,0,0,0,0,17,5.00,2017
+20,Jacksonville Jaguars,DST,6,JAX,LAR,7,3,5,0,1,0,0,0,27,5.00,2017
+21,Indianapolis Colts,DST,6,IND,TEN,4,1,6,1,0,0,1,0,36,5.00,2017
+22,Carolina Panthers,DST,6,CAR,PHI,8,3,8,0,1,0,0,0,28,4.00,2017
+23,Green Bay Packers,DST,6,GB,MIN,8,0,4,1,1,0,0,0,23,4.00,2017
+24,New York Jets,DST,6,NYJ,NE,1,0,4,1,1,0,0,0,24,4.00,2017
+25,Kansas City Chiefs,DST,6,KC,PIT,4,1,2,1,0,0,0,0,19,4.00,2017
+26,Oakland Raiders,DST,6,OAK,LAC,1,1,4,0,1,0,0,0,17,4.00,2017
+27,Tennessee Titans,DST,6,TEN,IND,2,1,5,0,1,0,0,0,22,4.00,2017
+28,Atlanta Falcons,DST,6,ATL,MIA,4,0,2,1,0,0,0,0,20,3.00,2017

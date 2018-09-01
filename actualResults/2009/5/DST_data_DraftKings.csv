@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Seattle Seahawks,DST,5,SEA,JAX,6,5,13,0,2,0,1,0,0,25.00,2009
+2,Minnesota Vikings,DST,5,MIN,LAR,1,2,4,1,3,0,1,0,10,20.00,2009
+3,New York Giants,DST,5,NYG,OAK,5,6,5,0,3,0,0,0,7,16.00,2009
+4,Cleveland Browns,DST,5,CLE,BUF,4,2,8,1,2,0,0,0,3,15.00,2009
+5,Baltimore Ravens,DST,5,BAL,CIN,4,1,3,1,1,0,1,0,17,14.00,2009
+6,Atlanta Falcons,DST,5,ATL,SF,3,3,6,1,2,0,0,0,10,13.00,2009
+7,Philadelphia Eagles,DST,5,PHI,TB,11,3,7,3,0,1,0,0,14,12.00,2009
+8,Buffalo Bills,DST,5,BUF,CLE,7,1,2,1,0,0,0,0,6,10.00,2009
+9,Carolina Panthers,DST,5,CAR,WAS,4,5,6,0,1,1,0,0,17,10.00,2009
+10,Cincinnati Bengals,DST,5,CIN,BAL,7,2,3,2,0,0,0,0,14,10.00,2009
+11,Detroit Lions,DST,5,DET,PIT,5,3,5,1,0,0,1,0,28,10.00,2009
+12,Pittsburgh Steelers,DST,5,PIT,DET,10,7,7,1,0,0,0,0,20,10.00,2009
+13,Arizona Cardinals,DST,5,ARI,HOU,3,0,3,1,0,0,1,0,21,10.00,2009
+14,Indianapolis Colts,DST,5,IND,TEN,1,1,3,1,1,0,0,0,9,9.00,2009
+15,Washington Redskins,DST,5,WAS,CAR,3,3,5,1,1,0,0,0,20,8.00,2009
+16,New England Patriots,DST,5,NE,DEN,5,2,3,1,1,0,0,0,20,7.00,2009
+17,Dallas Cowboys,DST,5,DAL,KC,8,4,11,0,0,0,0,0,20,7.00,2009
+18,Kansas City Chiefs,DST,5,KC,DAL,3,1,2,0,2,0,0,0,26,5.00,2009
+19,Denver Broncos,DST,5,DEN,NE,0,1,2,0,1,0,0,0,17,4.00,2009
+20,Houston Texans,DST,5,HOU,ARI,2,1,4,0,1,0,0,0,28,3.00,2009
+21,Los Angeles Rams,DST,5,LAR,MIN,6,2,4,1,0,0,0,0,38,3.00,2009
+22,Tennessee Titans,DST,5,TEN,IND,4,0,4,1,1,0,0,0,31,3.00,2009
+23,Tampa Bay Buccaneers,DST,5,TB,PHI,4,3,3,0,0,0,0,0,33,2.00,2009
+24,Miami Dolphins,DST,5,MIA,NYJ,5,1,3,0,0,0,0,0,27,1.00,2009
+25,San Francisco 49ers,DST,5,SF,ATL,4,0,2,1,1,0,0,0,45,0.00,2009
+26,New York Jets,DST,5,NYJ,MIA,4,0,1,0,0,0,0,0,31,-1.00,2009
+27,Oakland Raiders,DST,5,OAK,NYG,3,0,1,0,1,0,0,0,44,-2.00,2009
+28,Jacksonville Jaguars,DST,5,JAX,SEA,3,1,4,0,0,0,0,0,41,-3.00,2009

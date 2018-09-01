@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Carolina Panthers,DST,13,CAR,TB,2,2,4,5,0,0,0,0,6,19.00,2009
+2,Denver Broncos,DST,13,DEN,KC,7,2,7,2,1,0,1,0,13,18.00,2009
+3,Philadelphia Eagles,DST,13,PHI,ATL,4,2,10,2,1,0,1,0,7,18.00,2009
+4,Cincinnati Bengals,DST,13,CIN,DET,5,3,8,2,0,0,1,0,13,17.00,2009
+5,New Orleans Saints,DST,13,NO,WAS,3,0,3,1,3,0,1,0,30,13.00,2009
+6,Green Bay Packers,DST,13,GB,BAL,8,3,8,3,1,0,0,0,14,12.00,2009
+7,Chicago Bears,DST,13,CHI,LAR,4,3,7,1,1,0,0,0,9,11.00,2009
+8,New York Jets,DST,13,NYJ,BUF,3,3,8,1,1,0,0,0,13,11.00,2009
+9,New York Giants,DST,13,NYG,DAL,8,2,7,0,1,0,0,1,24,10.00,2009
+10,Detroit Lions,DST,13,DET,CIN,5,2,3,2,1,0,0,0,23,9.00,2009
+11,Jacksonville Jaguars,DST,13,JAX,HOU,3,2,6,3,0,0,0,0,18,9.00,2009
+12,Arizona Cardinals,DST,13,ARI,MIN,7,3,4,2,0,0,0,0,17,8.00,2009
+13,Houston Texans,DST,13,HOU,JAX,7,4,11,0,1,1,0,0,23,8.00,2009
+14,San Francisco 49ers,DST,13,SF,SEA,8,5,8,0,1,0,0,0,20,8.00,2009
+15,Baltimore Ravens,DST,13,BAL,GB,5,1,2,2,1,0,0,0,27,7.00,2009
+16,Buffalo Bills,DST,13,BUF,NYJ,7,5,6,0,0,0,0,0,19,6.00,2009
+17,Indianapolis Colts,DST,13,IND,TEN,2,1,4,1,1,0,0,0,17,6.00,2009
+18,Seattle Seahawks,DST,13,SEA,SF,3,1,5,0,2,0,0,0,17,6.00,2009
+19,Tampa Bay Buccaneers,DST,13,TB,CAR,4,1,2,1,1,0,0,0,16,6.00,2009
+20,Kansas City Chiefs,DST,13,KC,DEN,3,3,4,1,2,0,0,0,44,5.00,2009
+21,Los Angeles Rams,DST,13,LAR,CHI,5,2,4,0,1,0,0,0,17,5.00,2009
+22,Dallas Cowboys,DST,13,DAL,NYG,4,1,6,1,1,0,0,0,31,4.00,2009
+23,Miami Dolphins,DST,13,MIA,NE,3,0,3,2,0,0,0,0,21,4.00,2009
+24,Los Angeles Chargers,DST,13,LAC,CLE,3,2,5,0,1,0,0,0,23,4.00,2009
+25,New England Patriots,DST,13,NE,MIA,2,1,3,1,0,0,0,0,22,3.00,2009
+26,Oakland Raiders,DST,13,OAK,PIT,4,1,2,1,0,0,0,0,24,3.00,2009
+27,Pittsburgh Steelers,DST,13,PIT,OAK,4,3,7,0,0,0,0,0,27,3.00,2009
+28,Washington Redskins,DST,13,WAS,NO,6,1,5,1,0,0,0,0,33,3.00,2009
+29,Atlanta Falcons,DST,13,ATL,PHI,4,2,5,0,0,0,0,0,34,1.00,2009
+30,Minnesota Vikings,DST,13,MIN,ARI,5,0,5,0,1,0,0,0,30,1.00,2009
+31,Cleveland Browns,DST,13,CLE,LAC,2,1,3,0,0,0,0,0,30,0.00,2009
+32,Tennessee Titans,DST,13,TEN,IND,4,0,2,0,0,0,0,0,27,0.00,2009

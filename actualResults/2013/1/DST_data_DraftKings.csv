@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Dallas Cowboys,DST,1,DAL,NYG,3,3,5,3,3,0,2,0,31,26.00,2013
+2,Kansas City Chiefs,DST,1,KC,JAX,8,6,10,2,0,0,1,0,2,26.00,2013
+3,Miami Dolphins,DST,1,MIA,CLE,3,6,16,3,0,0,0,0,10,16.00,2013
+4,Buffalo Bills,DST,1,BUF,NE,4,2,7,1,2,0,1,0,23,14.00,2013
+5,Tennessee Titans,DST,1,TEN,PIT,8,5,6,1,1,0,0,0,9,13.00,2013
+6,Washington Redskins,DST,1,WAS,PHI,6,3,7,0,2,0,1,0,33,12.00,2013
+7,Detroit Lions,DST,1,DET,MIN,7,3,6,3,1,0,0,0,24,11.00,2013
+8,Philadelphia Eagles,DST,1,PHI,WAS,6,3,9,2,1,1,0,0,27,11.00,2013
+9,Arizona Cardinals,DST,1,ARI,LAR,3,0,5,1,1,0,1,0,27,10.00,2013
+10,New York Jets,DST,1,NYJ,TB,3,3,5,1,1,1,0,0,17,10.00,2013
+11,Tampa Bay Buccaneers,DST,1,TB,NYJ,7,5,8,1,1,0,0,0,18,10.00,2013
+12,Denver Broncos,DST,1,DEN,BAL,10,4,8,2,0,0,0,0,27,10.00,2013
+13,Houston Texans,DST,1,HOU,LAC,3,2,5,1,0,0,1,0,28,9.00,2013
+14,Seattle Seahawks,DST,1,SEA,CAR,1,1,1,0,2,0,0,0,7,9.00,2013
+15,Los Angeles Rams,DST,1,LAR,ARI,6,4,5,1,1,0,0,0,24,9.00,2013
+16,Carolina Panthers,DST,1,CAR,SEA,2,2,1,0,1,0,0,0,12,8.00,2013
+17,New Orleans Saints,DST,1,NO,ATL,4,3,6,1,1,0,0,0,17,8.00,2013
+18,Chicago Bears,DST,1,CHI,CIN,2,1,1,2,1,0,0,0,21,7.00,2013
+19,Cleveland Browns,DST,1,CLE,MIA,8,4,7,1,0,0,0,0,23,6.00,2013
+20,Indianapolis Colts,DST,1,IND,OAK,2,1,3,2,0,0,0,0,17,6.00,2013
+21,New England Patriots,DST,1,NE,BUF,3,0,4,0,2,0,0,0,21,5.00,2013
+22,San Francisco 49ers,DST,1,SF,GB,2,2,5,1,1,0,0,0,28,5.00,2013
+23,Jacksonville Jaguars,DST,1,JAX,KC,2,1,4,0,0,1,0,0,28,5.00,2013
+24,Atlanta Falcons,DST,1,ATL,NO,7,2,3,1,0,0,0,0,23,4.00,2013
+25,Minnesota Vikings,DST,1,MIN,DET,3,1,4,1,1,0,0,0,34,4.00,2013
+26,New York Giants,DST,1,NYG,DAL,2,2,6,1,0,0,0,0,36,4.00,2013
+27,Oakland Raiders,DST,1,OAK,IND,5,4,8,0,0,0,0,0,21,4.00,2013
+28,Pittsburgh Steelers,DST,1,PIT,TEN,4,1,3,0,0,1,0,0,16,4.00,2013
+29,Los Angeles Chargers,DST,1,LAC,HOU,1,2,6,1,0,0,0,0,31,4.00,2013
+30,Cincinnati Bengals,DST,1,CIN,CHI,3,0,4,1,0,0,0,0,24,2.00,2013
+31,Baltimore Ravens,DST,1,BAL,DEN,4,3,7,0,1,0,0,0,49,1.00,2013
+32,Green Bay Packers,DST,1,GB,SF,8,2,3,0,0,0,0,0,34,1.00,2013

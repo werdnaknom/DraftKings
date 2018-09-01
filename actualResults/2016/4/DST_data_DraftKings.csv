@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Rams,DST,4,LAR,ARI,4,3,8,3,2,0,0,0,13,17.00,2016
+2,Buffalo Bills,DST,4,BUF,NE,5,3,6,0,1,0,0,0,0,15.00,2016
+3,Denver Broncos,DST,4,DEN,TB,5,5,18,2,1,0,0,0,7,15.00,2016
+4,Cincinnati Bengals,DST,4,CIN,MIA,3,5,9,1,1,0,0,0,7,13.00,2016
+5,Seattle Seahawks,DST,4,SEA,NYJ,4,4,9,3,0,0,0,0,17,11.00,2016
+6,Atlanta Falcons,DST,4,ATL,CAR,5,1,8,2,0,0,1,0,33,11.00,2016
+7,Houston Texans,DST,4,HOU,TEN,2,1,4,1,0,0,0,1,20,10.00,2016
+8,Detroit Lions,DST,4,DET,CHI,5,2,6,0,0,0,0,1,17,9.00,2016
+9,Pittsburgh Steelers,DST,4,PIT,KC,7,4,6,1,1,0,0,0,14,9.00,2016
+10,Jacksonville Jaguars,DST,4,JAX,IND,9,6,14,1,0,0,0,0,27,8.00,2016
+11,Washington Redskins,DST,4,WAS,CLE,7,1,8,1,2,0,0,0,20,8.00,2016
+12,New Orleans Saints,DST,4,NO,LAC,6,3,13,1,2,0,0,0,34,8.00,2016
+13,Minnesota Vikings,DST,4,MIN,NYG,1,0,3,1,1,0,0,0,10,8.00,2016
+14,Carolina Panthers,DST,4,CAR,ATL,8,3,7,1,0,0,1,0,48,7.00,2016
+15,Chicago Bears,DST,4,CHI,DET,4,2,3,2,0,0,0,0,14,7.00,2016
+16,Tennessee Titans,DST,4,TEN,HOU,3,1,7,2,0,0,0,0,27,5.00,2016
+17,Arizona Cardinals,DST,4,ARI,LAR,6,2,3,0,1,0,0,0,17,5.00,2016
+18,Cleveland Browns,DST,4,CLE,WAS,3,3,5,1,0,0,0,0,31,4.00,2016
+19,Oakland Raiders,DST,4,OAK,BAL,2,2,7,0,1,0,0,0,27,4.00,2016
+20,Tampa Bay Buccaneers,DST,4,TB,DEN,4,4,8,0,0,0,0,0,27,4.00,2016
+21,Dallas Cowboys,DST,4,DAL,SF,6,1,2,1,0,0,0,0,17,4.00,2016
+22,New England Patriots,DST,4,NE,BUF,3,2,3,0,0,0,0,0,16,3.00,2016
+23,Indianapolis Colts,DST,4,IND,JAX,5,3,7,0,0,0,0,0,30,2.00,2016
+24,New York Jets,DST,4,NYJ,SEA,8,2,6,0,0,0,0,0,27,2.00,2016
+25,Los Angeles Chargers,DST,4,LAC,NO,4,2,3,2,0,0,0,0,35,2.00,2016
+26,San Francisco 49ers,DST,4,SF,DAL,2,2,6,0,0,0,0,0,24,2.00,2016
+27,Miami Dolphins,DST,4,MIA,CIN,7,1,3,0,0,0,0,0,22,1.00,2016
+28,Baltimore Ravens,DST,4,BAL,OAK,2,0,0,0,1,0,0,0,28,1.00,2016
+29,New York Giants,DST,4,NYG,MIN,3,0,2,0,0,0,0,0,24,0.00,2016
+30,Kansas City Chiefs,DST,4,KC,PIT,3,2,3,0,0,0,0,0,43,-2.00,2016

@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Philadelphia Eagles,DST,7,PHI,MIN,6,6,13,1,3,0,0,1,10,24.00,2016
+2,New York Giants,DST,7,NYG,LAR,3,3,6,4,0,0,1,0,10,21.00,2016
+3,Baltimore Ravens,DST,7,BAL,NYJ,7,5,8,0,2,0,1,0,24,17.00,2016
+4,Seattle Seahawks,DST,7,SEA,ARI,5,4,10,0,0,0,0,0,6,15.00,2016
+5,Atlanta Falcons,DST,7,ATL,LAC,7,4,6,1,1,0,1,0,33,13.00,2016
+6,Green Bay Packers,DST,7,GB,CHI,3,1,5,2,0,0,0,0,10,12.00,2016
+7,New York Jets,DST,7,NYJ,BAL,5,2,5,2,1,0,0,0,16,12.00,2016
+8,Chicago Bears,DST,7,CHI,GB,1,2,8,0,1,0,1,0,26,12.00,2016
+9,Kansas City Chiefs,DST,7,KC,NO,2,1,4,1,1,0,1,0,21,11.00,2016
+10,Indianapolis Colts,DST,7,IND,TEN,4,3,6,0,1,0,1,0,26,11.00,2016
+11,Tampa Bay Buccaneers,DST,7,TB,SF,7,4,7,1,2,0,0,0,17,11.00,2016
+12,Denver Broncos,DST,7,DEN,HOU,1,1,5,0,2,0,0,0,9,9.00,2016
+13,Minnesota Vikings,DST,7,MIN,PHI,2,0,2,2,2,0,0,0,21,8.00,2016
+14,Oakland Raiders,DST,7,OAK,JAX,2,1,8,2,1,0,0,0,16,8.00,2016
+15,Arizona Cardinals,DST,7,ARI,SEA,6,1,5,0,0,0,0,0,6,8.00,2016
+16,Cincinnati Bengals,DST,7,CIN,CLE,5,2,11,2,0,0,0,0,17,7.00,2016
+17,Detroit Lions,DST,7,DET,WAS,2,2,9,0,2,0,0,0,17,7.00,2016
+18,Los Angeles Rams,DST,7,LAR,NYG,3,0,6,0,1,0,0,0,17,6.00,2016
+19,Los Angeles Chargers,DST,7,LAC,ATL,5,3,9,1,0,0,0,0,30,5.00,2016
+20,Cleveland Browns,DST,7,CLE,CIN,3,3,5,0,1,0,0,0,31,4.00,2016
+21,Washington Redskins,DST,7,WAS,DET,4,3,4,0,0,0,0,0,20,4.00,2016
+22,Miami Dolphins,DST,7,MIA,BUF,5,4,9,0,0,0,0,0,25,4.00,2016
+23,Pittsburgh Steelers,DST,7,PIT,NE,2,0,4,0,2,0,0,0,27,4.00,2016
+24,San Francisco 49ers,DST,7,SF,TB,5,2,9,1,0,0,0,0,34,3.00,2016
+25,New England Patriots,DST,7,NE,PIT,1,0,2,1,0,0,0,0,16,3.00,2016
+26,Tennessee Titans,DST,7,TEN,IND,2,2,5,0,0,0,0,0,34,1.00,2016
+27,New Orleans Saints,DST,7,NO,KC,3,0,3,0,0,0,0,0,27,0.00,2016
+28,Buffalo Bills,DST,7,BUF,MIA,4,1,3,0,0,0,0,0,28,0.00,2016
+29,Houston Texans,DST,7,HOU,DEN,0,0,3,0,0,0,0,0,27,0.00,2016
+30,Jacksonville Jaguars,DST,7,JAX,OAK,5,0,1,0,0,0,0,0,33,-1.00,2016

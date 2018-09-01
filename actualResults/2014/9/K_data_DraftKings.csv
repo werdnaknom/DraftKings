@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,FGMade,FGAtt,FGPct,FGLong,XPMade,XPAtt,Points,Year
+1,Adam Vinatieri,K,9,IND,NYG,4,4,100,48,4,4,0.00,2014
+2,Caleb Sturgis,K,9,MIA,LAC,3,4,75,26,4,4,0.00,2014
+3,Stephen Gostkowski,K,9,NE,DEN,3,3,100,49,4,4,0.00,2014
+4,Steven Hauschka,K,9,SEA,OAK,3,4,75,40,3,3,0.00,2014
+5,Billy Cundiff,K,9,CLE,TB,3,3,100,49,1,1,0.00,2014
+6,Kai Forbath,K,9,WAS,MIN,2,2,100,36,2,2,0.00,2014
+7,Dan Bailey,K,9,DAL,ARI,1,2,50,52,2,2,0.00,2014
+8,Cody Parkey,K,9,PHI,HOU,1,1,100,45,4,4,0.00,2014
+9,Mike Nugent,K,9,CIN,JAX,1,1,100,31,4,4,0.00,2014
+10,Greg Zuerlein,K,9,LAR,SF,2,2,100,39,1,1,0.00,2014
+11,Cairo Santos,K,9,KC,NYJ,1,1,100,19,3,3,0.00,2014
+12,Sebastian Janikowski,K,9,OAK,SEA,1,2,50,48,3,3,0.00,2014
+13,Josh Brown,K,9,NYG,IND,1,1,100,38,3,3,0.00,2014
+14,Patrick Murray,K,9,TB,CLE,1,3,33,40,2,2,0.00,2014
+15,Josh Scobee,K,9,JAX,CIN,1,1,100,25,2,2,0.00,2014
+16,Justin Tucker,K,9,BAL,PIT,1,1,100,46,2,2,0.00,2014
+17,Shaun Suisham,K,9,PIT,BAL,0,0,0,0,5,5,0.00,2014
+18,Shayne Graham,K,9,NO,CAR,0,0,0,0,4,4,0.00,2014
+19,Graham Gano,K,9,CAR,NO,1,1,100,31,1,1,0.00,2014
+20,Chandler Catanzaro,K,9,ARI,DAL,0,0,0,0,4,4,0.00,2014
+21,Nick Folk,K,9,NYJ,KC,1,1,100,39,1,1,0.00,2014
+22,Phil Dawson,K,9,SF,LAR,1,2,50,34,1,1,0.00,2014
+23,Randy Bullock,K,9,HOU,PHI,0,1,0,0,3,3,0.00,2014
+24,Blair Walsh,K,9,MIN,WAS,0,0,0,0,3,3,0.00,2014
+25,Brandon McManus,K,9,DEN,NE,0,1,0,0,3,3,0.00,2014
+26,Nick Novak,K,9,LAC,MIA,0,0,0,0,0,0,0.00,2014

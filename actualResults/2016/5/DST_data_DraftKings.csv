@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Buffalo Bills,DST,5,BUF,LAR,5,4,5,2,1,0,1,0,19,17.00,2016
+2,Minnesota Vikings,DST,5,MIN,HOU,4,4,15,1,0,0,0,1,13,16.00,2016
+3,Arizona Cardinals,DST,5,ARI,SF,5,7,10,2,1,1,0,0,21,15.00,2016
+4,Washington Redskins,DST,5,WAS,BAL,8,3,9,0,0,0,0,1,10,13.00,2016
+5,Tennessee Titans,DST,5,TEN,MIA,9,6,8,2,0,0,0,0,17,11.00,2016
+6,New England Patriots,DST,5,NE,CLE,6,2,5,1,0,1,0,0,13,10.00,2016
+7,Atlanta Falcons,DST,5,ATL,DEN,4,6,9,1,0,0,0,0,16,9.00,2016
+8,Oakland Raiders,DST,5,OAK,LAC,4,2,4,2,2,0,0,0,31,9.00,2016
+9,Tampa Bay Buccaneers,DST,5,TB,CAR,0,0,0,2,2,0,0,0,14,9.00,2016
+10,Detroit Lions,DST,5,DET,PHI,3,3,3,1,1,0,0,0,23,7.00,2016
+11,Pittsburgh Steelers,DST,5,PIT,NYJ,5,3,12,0,0,0,0,0,13,7.00,2016
+12,Green Bay Packers,DST,5,GB,NYG,5,4,6,0,1,0,0,0,16,7.00,2016
+13,Miami Dolphins,DST,5,MIA,TEN,2,0,1,0,0,0,0,1,30,7.00,2016
+14,Philadelphia Eagles,DST,5,PHI,DET,11,4,7,0,1,0,0,0,24,6.00,2016
+15,Baltimore Ravens,DST,5,BAL,WAS,3,1,6,1,1,0,0,0,16,6.00,2016
+16,Dallas Cowboys,DST,5,DAL,CIN,5,4,9,0,0,0,0,0,14,5.00,2016
+17,Chicago Bears,DST,5,CHI,IND,6,5,7,0,0,0,0,0,29,4.00,2016
+18,Denver Broncos,DST,5,DEN,ATL,2,2,8,0,1,0,0,0,23,4.00,2016
+19,Los Angeles Chargers,DST,5,LAC,OAK,7,3,4,1,0,0,0,0,34,4.00,2016
+20,New York Giants,DST,5,NYG,GB,3,0,3,2,0,0,0,0,23,4.00,2016
+21,Los Angeles Rams,DST,5,LAR,BUF,6,2,6,0,0,0,0,0,30,4.00,2016
+22,Carolina Panthers,DST,5,CAR,TB,3,2,4,0,0,0,0,0,17,3.00,2016
+23,Indianapolis Colts,DST,5,IND,CHI,1,0,5,0,1,0,0,0,23,2.00,2016
+24,New York Jets,DST,5,NYJ,PIT,0,1,1,0,1,0,0,0,31,2.00,2016
+25,Cincinnati Bengals,DST,5,CIN,DAL,2,1,3,0,1,0,0,0,28,2.00,2016
+26,Houston Texans,DST,5,HOU,MIN,7,2,8,0,0,0,0,0,31,1.00,2016
+27,San Francisco 49ers,DST,5,SF,ARI,3,1,5,0,0,0,0,0,33,0.00,2016
+28,Cleveland Browns,DST,5,CLE,NE,2,1,3,0,0,0,0,0,33,0.00,2016

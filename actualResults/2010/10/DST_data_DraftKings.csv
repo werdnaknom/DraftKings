@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Indianapolis Colts,DST,10,IND,CIN,8,3,4,3,2,0,1,0,17,20.00,2010
+2,Dallas Cowboys,DST,10,DAL,NYG,2,0,1,2,1,0,1,0,20,13.00,2010
+3,New England Patriots,DST,10,NE,PIT,5,5,7,1,0,0,1,0,26,13.00,2010
+4,Philadelphia Eagles,DST,10,PHI,WAS,5,2,6,3,0,0,1,0,28,13.00,2010
+5,Chicago Bears,DST,10,CHI,MIN,5,0,1,3,1,0,0,0,13,12.00,2010
+6,Denver Broncos,DST,10,DEN,KC,3,4,6,0,1,0,1,0,29,11.00,2010
+7,Seattle Seahawks,DST,10,SEA,ARI,5,5,5,1,1,0,0,0,18,10.00,2010
+8,Miami Dolphins,DST,10,MIA,TEN,1,2,1,1,2,0,0,0,17,9.00,2010
+9,New York Jets,DST,10,NYJ,CLE,4,3,3,0,2,0,0,0,20,8.00,2010
+10,Buffalo Bills,DST,10,BUF,DET,7,1,1,1,0,0,0,0,12,7.00,2010
+11,Atlanta Falcons,DST,10,ATL,BAL,5,2,4,1,1,0,0,0,21,6.00,2010
+12,Minnesota Vikings,DST,10,MIN,CHI,6,1,4,2,0,0,0,0,27,5.00,2010
+13,Los Angeles Rams,DST,10,LAR,SF,7,5,5,0,0,0,0,0,23,5.00,2010
+14,Tampa Bay Buccaneers,DST,10,TB,CAR,6,2,3,0,1,0,0,0,16,5.00,2010
+15,New York Giants,DST,10,NYG,DAL,4,1,2,1,0,0,0,0,33,5.00,2010
+16,Carolina Panthers,DST,10,CAR,TB,5,1,1,0,2,0,0,0,31,4.00,2010
+17,Cleveland Browns,DST,10,CLE,NYJ,6,2,6,1,0,0,0,0,26,4.00,2010
+18,Detroit Lions,DST,10,DET,BUF,4,1,5,0,1,0,0,0,14,4.00,2010
+19,San Francisco 49ers,DST,10,SF,LAR,6,3,6,0,0,0,0,0,20,4.00,2010
+20,Cincinnati Bengals,DST,10,CIN,IND,3,2,4,0,0,0,0,0,23,3.00,2010
+21,Baltimore Ravens,DST,10,BAL,ATL,3,2,4,0,0,0,0,0,26,2.00,2010
+22,Jacksonville Jaguars,DST,10,JAX,HOU,1,0,1,0,1,0,0,0,24,2.00,2010
+23,Tennessee Titans,DST,10,TEN,MIA,4,1,2,1,0,0,0,0,29,2.00,2010
+24,Houston Texans,DST,10,HOU,JAX,5,2,10,0,0,0,0,0,31,1.00,2010
+25,Arizona Cardinals,DST,10,ARI,SEA,4,2,1,1,0,0,0,0,36,0.00,2010
+26,Pittsburgh Steelers,DST,10,PIT,NE,1,0,3,0,0,0,0,0,39,-1.00,2010
+27,Washington Redskins,DST,10,WAS,PHI,2,1,3,0,0,0,0,0,59,-3.00,2010
+28,Kansas City Chiefs,DST,10,KC,DEN,1,0,0,0,0,0,0,0,49,-4.00,2010

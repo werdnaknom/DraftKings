@@ -1,0 +1,1041 @@
+,Player,Position,Team,Opponent,ESPN_FantasyPoints,PlayerID
+0,Le'Veon Bell,RB,PIT,Det,22.5,00-0030496
+1,LeSean McCoy,RB,BUF,Oak,21.9,00-0027029
+2,Ezekiel Elliott,RB,DAL,Wsh,19.4,00-0033045
+3,Antonio Brown,WR,PIT,Det,19.1,00-0027793
+4,Mark Ingram,RB,NO,Chi,18.6,00-0027966
+5,Tom Brady,QB,NE,LAC,18.5,00-0019596
+6,Carson Wentz,QB,PHI,SF,18,00-0032950
+7,A.J. Green,WR,CIN,Ind,18,00-0027942
+8,Kareem Hunt,RB,KC,Den,17.8,00-0033923
+9,Dak Prescott,QB,DAL,Wsh,17.8,00-0033077
+10,Russell Wilson,QB,SEA,Hou,17.8,00-0029263
+11,Drew Brees,QB,NO,Chi,17.7,00-0020531
+12,Tyrod Taylor,QB,BUF,Oak,17.7,00-0028118
+13,Melvin Gordon,RB,LAC,NE,17.6,00-0032144
+14,Philip Rivers,QB,LAC,NE,17.5,00-0022942
+15,Andy Dalton,QB,CIN,Ind,17.4,00-0027973
+16,Kirk Cousins,QB,WSH,Dal,17.3,00-0029604
+17,Cam Newton,QB,CAR,TB,17.1,00-0027939
+18,Keenan Allen,WR,LAC,NE,17,00-0030279
+19,Matthew Stafford,QB,DET,Pit,16.7,00-0026498
+20,Matt Ryan,QB,ATL,NYJ,16.6,00-0026143
+21,Julio Jones,WR,ATL,NYJ,16.4,00-0027944
+22,Jameis Winston,QB,TB,Car,16.3,00-0031503
+23,Devonta Freeman,RB,ATL,NYJ,16.2,00-0031285
+24,Alex Smith,QB,KC,Den,15.8,00-0023436
+25,Christian McCaffrey,RB,CAR,TB,15.5,00-0033280
+26,Deshaun Watson,QB,HOU,Sea,15.4,00-0033537
+27,Mike Evans,WR,TB,Car,15.4,00-0031408
+28,Zach Ertz,TE,PHI,SF,15.4,00-0030061
+29,Ben Roethlisberger,QB,PIT,Det,15.1,00-0022924
+30,Michael Thomas,WR,NO,Chi,15,00-0032765
+31,DeAndre Hopkins,WR,HOU,Sea,15,00-0030564
+32,Dez Bryant,WR,DAL,Wsh,14.8,00-0027902
+33,Demaryius Thomas,WR,DEN,KC,14.8,00-0027874
+34,Doug Baldwin,WR,SEA,Hou,14.7,00-0028434
+35,Josh McCown,QB,NYJ,Atl,14.7,00-0021206
+36,Rob Gronkowski,TE,NE,LAC,14.6,00-0027656
+37,Alvin Kamara,RB,NO,Chi,14.5,00-0033906
+38,Trevor Siemian,QB,DEN,KC,14.5,00-0032156
+39,Jay Ajayi,RB,MIA,Bal,14.3,00-0031590
+40,Derek Carr,QB,OAK,Buf,14.1,00-0031280
+41,Vikings,DST,VIKINGS,Cle,14.1,
+42,Mitchell Trubisky,QB,CHI,NO,13.6,00-0033869
+43,Jordan Howard,RB,CHI,NO,13.6,00-0032780
+44,Joe Mixon,RB,CIN,Ind,13.4,00-0033897
+45,Pierre Garcon,WR,SF,Phi,13.3,00-0026345
+46,Travis Kelce,TE,KC,Den,13.2,00-0030506
+47,Hunter Henry,TE,LAC,NE,13.2,00-0033090
+48,Case Keenum,QB,MIN,Cle,13.2,00-0028986
+49,Stefon Diggs,WR,MIN,Cle,13.2,00-0031588
+50,Tyreek Hill,WR,KC,Den,13.2,00-0033040
+51,Jarvis Landry,WR,MIA,Bal,12.9,00-0031382
+52,Lamar Miller,RB,HOU,Sea,12.8,00-0029615
+53,Chris Hogan,WR,NE,LAC,12.8,00-0028237
+54,Alshon Jeffery,WR,PHI,SF,12.7,00-0029137
+55,Kelvin Benjamin,WR,CAR,TB,12.6,00-0031359
+56,Michael Crabtree,WR,OAK,Buf,12.4,00-0026986
+57,Jacoby Brissett,QB,IND,Cin,12.4,00-0033119
+58,Joe Flacco,QB,BAL,Mia,12.3,00-0026158
+59,Jerick McKinnon,RB,MIN,Cle,12.2,00-0031376
+60,T.Y. Hilton,WR,IND,Cin,12.2,00-0029608
+61,Devin Funchess,WR,CAR,TB,12.2,00-0032055
+62,Javorius Allen,RB,BAL,Mia,12.1,00-0031577
+63,Doug Martin,RB,TB,Car,12.1,00-0029613
+64,Brandin Cooks,WR,NE,LAC,12,00-0031236
+65,C.J. Beathard,QB,SF,Phi,11.9,00-0033936
+66,Adam Thielen,WR,MIN,Cle,11.9,00-0030035
+67,Carlos Hyde,RB,SF,Phi,11.9,00-0031045
+68,Chris Thompson,RB,WSH,Dal,11.8,00-0030404
+69,C.J. Anderson,RB,DEN,KC,11.7,00-0029854
+70,DeSean Jackson,WR,TB,Car,11.6,00-0026189
+71,Jordan Reed,TE,WSH,Dal,11.5,00-0030472
+72,Tevin Coleman,RB,ATL,NYJ,11.5,00-0032058
+73,Jonathan Stewart,RB,CAR,TB,11.5,00-0026153
+74,Amari Cooper,WR,OAK,Buf,11.4,00-0031544
+75,Matt Moore,QB,MIA,Bal,11.4,00-0025708
+76,Wendell Smallwood,RB,PHI,SF,11.4,00-0032782
+77,DeAndre Washington,RB,OAK,Buf,11.3,00-0032940
+78,Jimmy Graham,TE,SEA,Hou,11.2,00-0027696
+79,Marvin Jones Jr.,WR,DET,Pit,11.2,00-0029293
+80,DeShone Kizer,QB,CLE,Min,11.1,00-0033899
+81,Ameer Abdullah,RB,DET,Pit,10.9,00-0032104
+82,Bengals,DST,BENGALS,Ind,10.9,
+83,Bilal Powell,RB,NYJ,Atl,10.8,00-0028064
+84,Rob Kelley,RB,WSH,Dal,10.8,00-0032371
+85,Theo Riddick,RB,DET,Pit,10.7,00-0030107
+86,DeVante Parker,WR,MIA,Bal,10.7,00-0031547
+87,Austin Seferian-Jenkins,TE,NYJ,Atl,10.6,00-0031418
+88,Latavius Murray,RB,MIN,Cle,10.5,00-0030513
+89,LeGarrette Blount,RB,PHI,SF,10.5,00-0027325
+90,James White,RB,NE,LAC,10.4,00-0031062
+91,Mohamed Sanu,WR,ATL,NYJ,10.4,00-0029632
+92,Frank Gore,RB,IND,Cin,10.3,00-0023500
+93,Eagles,DST,EAGLES,SF,10.3,
+94,Jake Elliott,K,PHI,SF,10.3,00-0033787
+95,Jalen Richard,RB,OAK,Buf,10.3,00-0033025
+96,Kenny Golladay,WR,DET,Pit,10.3,00-0033932
+97,Duke Johnson Jr.,RB,CLE,Min,10.2,00-0032257
+98,Jeremy Maclin,WR,BAL,Mia,10.2,00-0026995
+99,Will Fuller V,WR,HOU,Sea,10.2,00-0033127
+100,Nelson Agholor,WR,PHI,SF,10.2,00-0031549
+101,Jermaine Kearse,WR,NYJ,Atl,10.1,00-0029159
+102,Stephen Gostkowski,K,NE,LAC,10,00-0024333
+103,Matt Forte,RB,NYJ,Atl,9.9,00-0026184
+104,Tarik Cohen,RB,CHI,NO,9.8,00-0033556
+105,Jamison Crowder,WR,WSH,Dal,9.8,00-0031941
+106,Robby Anderson,WR,NYJ,Atl,9.8,00-0032688
+107,Bennie Fowler III,WR,DEN,KC,9.8,00-0030670
+108,Alex Collins,RB,BAL,Mia,9.7,00-0032426
+109,Jason Witten,TE,DAL,Wsh,9.6,00-0022127
+110,Cameron Brate,TE,TB,Car,9.6,00-0031273
+111,Jordan Matthews,WR,BUF,Oak,9.4,00-0031299
+112,Tyler Lockett,WR,SEA,Hou,9.3,00-0032211
+113,Jared Cook,TE,OAK,Buf,9.2,00-0027061
+114,Zach Miller,TE,CHI,NO,9.2,00-0027125
+115,Cole Beasley,WR,DAL,Wsh,9.2,00-0029000
+116,Marquise Goodwin,WR,SF,Phi,9,00-0030068
+117,Justin Tucker,K,BAL,Mia,9,00-0029597
+118,Josh Doctson,WR,WSH,Dal,9,00-0032760
+119,Harrison Butker,K,KC,Den,9,00-0033303
+120,Dion Lewis,RB,NE,LAC,8.9,00-0028087
+121,Nick Rose,K,WSH,Dal,8.8,
+122,Mike Wallace,WR,BAL,Mia,8.8,00-0026901
+123,Kai Forbath,K,MIN,Cle,8.8,00-0028787
+124,Martavis Bryant,WR,PIT,Det,8.7,00-0031373
+125,Isaiah Crowell,RB,CLE,Min,8.7,00-0030656
+126,Kyle Rudolph,TE,MIN,Cle,8.6,00-0027981
+127,Giovani Bernard,RB,CIN,Ind,8.6,00-0030456
+128,Stephen Hauschka,K,BUF,Oak,8.6,00-0025944
+129,Graham Gano,K,CAR,TB,8.6,00-0026858
+130,Taylor Gabriel,WR,ATL,NYJ,8.6,00-0031228
+131,Chris Boswell,K,PIT,Det,8.6,00-0031136
+132,Danny Amendola,WR,NE,LAC,8.6,00-0026035
+133,Ricardo Louis,WR,CLE,Min,8.5,00-0033079
+134,Wil Lutz,K,NO,Chi,8.5,00-0032569
+135,Matt Prater,K,DET,Pit,8.5,00-0023853
+136,Matt Bryant,K,ATL,NYJ,8.4,00-0020578
+137,Kendall Wright,WR,CHI,NO,8.3,00-0029708
+138,Ed Dickson,TE,CAR,TB,8.3,00-0027675
+139,Donte Moncrief,WR,IND,Cin,8.3,00-0031339
+140,Terrance Williams,WR,DAL,Wsh,8.3,00-0030542
+141,Tyler Kroft,TE,CIN,Ind,8.3,00-0032214
+142,Tyrell Williams,WR,LAC,NE,8.3,00-0032160
+143,Paul Richardson,WR,SEA,Hou,8.3,00-0031257
+144,Randy Bullock,K,CIN,Ind,8.2,00-0029421
+145,Brandon LaFell,WR,CIN,Ind,8.1,00-0027681
+146,Willie Snead,WR,NO,Chi,8.1,00-0030663
+147,Kenny Stills,WR,MIA,Bal,8,00-0030085
+148,Austin Hooper,TE,ATL,NYJ,8,00-0032392
+149,Vernon Davis,TE,WSH,Dal,8,00-0024221
+150,Patrick Murray,K,TB,Car,7.9,00-0030626
+151,Ted Ginn Jr.,WR,NO,Chi,7.9,00-0025396
+152,JuJu Smith-Schuster,WR,PIT,Det,7.9,00-0033857
+153,Chandler Catanzaro,K,NYJ,Atl,7.7,00-0030896
+154,Ravens,DST,RAVENS,Mia,7.7,
+155,Blair Walsh,K,SEA,Hou,7.7,00-0029576
+156,Jack Doyle,TE,IND,Cin,7.6,00-0030181
+157,Austin Ekeler,RB,LAC,NE,7.6,00-0033699
+158,Chiefs,DST,CHIEFS,Den,7.5,
+159,Marlon Mack,RB,IND,Cin,7.5,00-0033951
+160,Albert Wilson,WR,KC,Den,7.5,00-0030669
+161,Saints,DST,SAINTS,Chi,7.4,
+162,TJ Jones,WR,DET,Pit,7.4,00-0031189
+163,Seahawks,DST,SEAHAWKS,Hou,7.2,
+164,Robbie Gould,K,SF,Phi,7.2,00-0023252
+165,Steelers,DST,STEELERS,Det,7.1,
+166,Cody Parkey,K,MIA,Bal,7.1,00-0030850
+167,Brandon McManus,K,DEN,KC,7.1,00-0029822
+168,Falcons,DST,FALCONS,NYJ,7,
+169,George Kittle,TE,SF,Phi,7,00-0033288
+170,Giorgio Tavecchio,K,OAK,Buf,6.9,00-0028907
+171,Nick Novak,K,LAC,NE,6.9,00-0023096
+172,Ryan Griffin,TE,HOU,Sea,6.9,00-0030108
+173,Julius Thomas,TE,MIA,Bal,6.8,00-0028067
+174,Ryan Grant,WR,WSH,Dal,6.8,00-0031068
+175,Ka'imi Fairbairn,K,HOU,Sea,6.8,00-0032726
+176,Jeremy Kerley,WR,NYJ,Atl,6.8,00-0028091
+177,Zay Jones,WR,BUF,Oak,6.8,00-0033891
+178,Mike Gillislee,RB,NE,LAC,6.7,00-0030433
+179,Benjamin Watson,TE,BAL,Mia,6.7,00-0022943
+180,Matt Breida,RB,SF,Phi,6.7,00-0033308
+181,A.J. Derby,TE,DEN,KC,6.7,00-0031609
+182,Dolphins,DST,DOLPHINS,Bal,6.6,
+183,Nick O'Leary,TE,BUF,Oak,6.6,00-0032117
+184,Panthers,DST,PANTHERS,TB,6.6,
+185,Adam Vinatieri,K,IND,Cin,6.5,00-0016919
+186,Mike Nugent,K,NYG,** BYE **,--,
+187,Adam Humphries,WR,TB,Car,6.5,00-0032009
+188,Thomas Rawls,RB,SEA,Hou,6.5,00-0031897
+189,Jesse James,TE,PIT,Det,6.5,00-0032135
+190,Coby Fleener,TE,NO,Chi,6.4,00-0029697
+191,Trent Taylor,WR,SF,Phi,6.4,00-0033292
+192,Eric Ebron,TE,DET,Pit,6.4,00-0031387
+193,Eddie Lacy,RB,SEA,Hou,6.2,00-0030485
+194,Tre McBride III,WR,CHI,NO,6.1,00-0032123
+195,Jordan Taylor,WR,DEN,KC,6.1,00-0031697
+196,Texans,DST,TEXANS,Sea,6,
+197,Buccaneers,DST,BUCCANEERS,Car,6,
+198,Patriots,DST,PATRIOTS,LAC,5.9,
+199,Mike Tolbert,RB,BUF,Oak,5.8,00-0026069
+200,Seth Roberts,WR,OAK,Buf,5.8,00-0031166
+201,Connor Barth,K,CHI,NO,5.8,00-0026138
+202,Kenny Britt,WR,CLE,Min,5.7,00-0027006
+203,Breshad Perriman,WR,BAL,Mia,5.7,00-0032054
+204,Tanner Gentry,WR,CHI,NO,5.7,00-0033633
+205,Charles Sims,RB,TB,Car,5.6,00-0031390
+206,O.J. Howard,TE,TB,Car,5.6,00-0033879
+207,Bills,DST,BILLS,Oak,5.6,
+208,Jamaal Charles,RB,DEN,KC,5.4,00-0026213
+209,C.J. Prosise,RB,SEA,Hou,5.4,00-0032393
+210,Bruce Ellington,WR,HOU,Sea,5.4,00-0031326
+211,Broncos,DST,BRONCOS,KC,5.4,
+212,Darren Fells,TE,DET,Pit,5.4,00-0029738
+213,Stephen Anderson,TE,HOU,Sea,5.4,00-0032725
+214,Torrey Smith,WR,PHI,SF,5.3,00-0027996
+215,Browns,DST,BROWNS,Min,5.1,
+216,Lions,DST,LIONS,Pit,5.1,
+217,Cowboys,DST,COWBOYS,Wsh,5.1,
+218,Zane Gonzalez,K,CLE,Min,5.1,00-0033862
+219,Seth DeValve,TE,CLE,Min,5,00-0033080
+220,David Njoku,TE,CLE,Min,5,00-0033885
+221,Rashard Higgins,WR,CLE,Min,4.9,00-0032977
+222,Bears,DST,BEARS,NO,4.9,
+223,Antonio Gates,TE,LAC,NE,4.8,00-0021547
+224,Mike Williams,WR,LAC,NE,4.7,00-0033536
+225,Brandon Coleman,WR,NO,Chi,4.7,00-0030801
+226,D'Onta Foreman,RB,HOU,Sea,4.7,00-0033925
+227,Charcandrick West,RB,KC,Den,4.7,00-0030668
+228,Raiders,DST,RAIDERS,Buf,4.6,
+229,Jeremy Hill,RB,CIN,Ind,4.6,00-0031301
+230,Dion Sims,TE,CHI,NO,4.6,00-0030422
+231,Rex Burkhead,RB,NE,LAC,4.5,00-0030288
+232,Redskins,DST,REDSKINS,Dal,4.4,
+233,Jared Abbrederis,WR,DET,Pit,4.4,00-0031021
+234,Russell Shepard,WR,CAR,TB,4.4,00-0030147
+235,Kyle Juszczyk,RB,SF,Phi,4.4,00-0029892
+236,Travis Benjamin,WR,LAC,NE,4.4,00-0029269
+237,Michael Campanaro,WR,BAL,Mia,4.3,00-0031025
+238,Virgil Green,TE,DEN,KC,4.3,00-0028142
+239,Colts,DST,COLTS,Cin,4.3,
+240,Kasen Williams,WR,CLE,Min,4.3,00-0032250
+241,Andre Holmes,WR,BUF,Oak,4.2,00-0028263
+242,Devontae Booker,RB,DEN,KC,4.2,00-0032972
+243,Terrelle Pryor Sr.,WR,WSH,Dal,4.1,00-0028825
+244,John Ross,WR,CIN,Ind,4.1,00-0033460
+245,49ers,DST,49ERS,Phi,4.1,
+246,Kamar Aiken,WR,IND,Cin,4,00-0028497
+247,Demarcus Robinson,WR,KC,Den,4,00-0032775
+248,Aldrick Robinson,WR,SF,Phi,4,00-0028116
+249,Laquon Treadwell,WR,MIN,Cle,3.8,00-0032951
+250,Cordarrelle Patterson,WR,OAK,Buf,3.8,00-0030578
+251,Chargers,DST,CHARGERS,NE,3.7,
+252,Jets,DST,JETS,Atl,3.6,
+253,Brice Butler,WR,DAL,Wsh,3.5,00-0030516
+254,Damien Williams,RB,MIA,Bal,3.5,00-0030874
+255,Logan Thomas,TE,BUF,Oak,3.4,00-0031260
+256,Cody Latimer,WR,DEN,KC,3.3,00-0031344
+257,Corey Clement,RB,PHI,SF,3.3,00-0033725
+258,Elijah McGuire,RB,NYJ,Atl,3.2,00-0033295
+259,Nick Boyle,TE,BAL,Mia,3.2,00-0031598
+260,Chester Rogers,WR,IND,Cin,3.2,00-0032355
+261,Isaiah McKenzie,WR,DEN,KC,3.2,00-0033466
+262,Vance McDonald,TE,PIT,Det,2.9,00-0030470
+263,Dwayne Washington,RB,DET,Pit,2.8,00-0032450
+264,Joshua Bellamy,WR,CHI,NO,2.8,00-0029319
+265,Cody Core,WR,CIN,Ind,2.7,00-0032795
+266,Amara Darboh,WR,SEA,Hou,2.7,00-0033937
+267,Michael Hoomanawanui,TE,NO,Chi,2.7,00-0027732
+268,Bryce Treggs,WR,CLE,Min,2.6,00-0032724
+269,Curtis Samuel,WR,CAR,TB,2.6,00-0033282
+270,Demetrius Harris,TE,KC,Den,2.5,00-0030155
+271,Alfred Morris,RB,DAL,Wsh,2.5,00-0029141
+272,Michael Floyd,WR,MIN,Cle,2.4,00-0029638
+273,Justin Hunter,WR,PIT,Det,2.3,00-0030521
+274,Luke Willson,TE,SEA,Hou,2.3,00-0030089
+275,Trey Burton,TE,PHI,SF,2.3,00-0030710
+276,Jacquizz Rodgers,RB,TB,Car,2.3,00-0028083
+277,Mack Hollins,WR,PHI,SF,2.3,00-0033555
+278,Alex Erickson,WR,CIN,Ind,2.2,00-0032543
+279,James Conner,RB,PIT,Det,2.2,00-0033553
+280,ArDarius Stewart,WR,NYJ,Atl,2.2,00-0033916
+281,Justin Hardy,WR,ATL,NYJ,2.2,00-0031570
+282,De'Anthony Thomas,WR,KC,Den,2.2,00-0031060
+283,Kenyan Drake,RB,MIA,Bal,2.2,00-0033118
+284,Maxx Williams,TE,BAL,Mia,2,00-0031558
+285,J.D. McKissic,RB,SEA,Hou,1.9,00-0032602
+286,Deonte Thompson,WR,BUF,Oak,1.9,
+287,Eli Rogers,WR,PIT,Det,1.7,00-0031782
+288,Chris Thompson,WR,HOU,Sea,1.7,00-0033855
+289,Samaje Perine,RB,WSH,Dal,1.7,00-0033526
+290,James Hanna,TE,DAL,Wsh,1.7,00-0029634
+291,Patrick DiMarco,RB,BUF,Oak,1.6,00-0028581
+292,Benny Cunningham,RB,CHI,NO,1.3,00-0029795
+293,Josh Hill,TE,NO,Chi,1.3,00-0030216
+294,Josh Ferguson,RB,IND,Cin,1.3,
+295,Brent Celek,TE,PHI,SF,1.2,00-0025549
+296,Tommylee Lewis,WR,NO,Chi,1.2,00-0032881
+297,Fozzy Whittaker,RB,CAR,TB,1.2,00-0029731
+298,Jeff Heuerman,TE,DEN,KC,1.2,00-0032227
+299,Niles Paul,TE,WSH,Dal,1.2,00-0028093
+300,Lee Smith,TE,OAK,Buf,1.2,00-0028097
+301,Darrius Heyward-Bey,WR,PIT,Det,1.1,00-0026983
+302,Chris Godwin,WR,TB,Car,1.1,00-0033921
+303,C.J. Uzomah,TE,CIN,Ind,1.1,00-0032134
+304,Levine Toilolo,TE,ATL,NYJ,1.1,00-0030443
+305,Cole Hikutini,TE,SF,Phi,1.1,00-0033315
+306,Marcus Johnson,WR,PHI,SF,1.1,00-0032980
+307,Garrett Celek,TE,SF,Phi,1.1,00-0028903
+308,Alfred Blue,RB,HOU,Sea,1.1,00-0031075
+309,Nick Vannett,TE,SEA,Hou,1.1,00-0032394
+310,Jakeem Grant,WR,MIA,Bal,1.1,00-0032791
+311,Chris Matthews,WR,BAL,Mia,1.1,00-0028702
+312,Ross Travis,TE,KC,Den,1,00-0032319
+313,Brandon Williams,TE,IND,Cin,0.9,00-0029793
+314,Darrell Daniels,TE,IND,Cin,0.9,00-0033258
+315,Bobby Rainey Jr.,RB,BAL,Mia,0.9,00-0029384
+316,Rod Smith,RB,DAL,Wsh,0.7,00-0031900
+317,Jamize Olawale,RB,OAK,Buf,0.7,00-0029492
+318,C.J. Ham,RB,MIN,Cle,0.7,00-0032918
+319,Michael Roberts,TE,DET,Pit,0.6,00-0033559
+320,Dwayne Allen,TE,NE,LAC,0.6,00-0029689
+321,Matthew Dayes,RB,CLE,Min,0.6,00-0033596
+322,Chris Manhertz,TE,CAR,TB,0.6,00-0031484
+323,Quan Bray,WR,IND,Cin,0.6,00-0031514
+324,Geoff Swaim,TE,DAL,Wsh,0.6,00-0032141
+325,Clive Walford,TE,OAK,Buf,0.6,00-0032256
+326,Cethan Carter,TE,CIN,Ind,0.6,00-0033338
+327,Nick Williams,WR,ATL,NYJ,0.6,00-0029848
+328,Bernard Reedy,WR,TB,Car,0.5,00-0030743
+329,Eric Tomlinson,TE,NYJ,Atl,0.5,00-0031690
+330,Jordan Leggett,TE,NYJ,Atl,0.5,00-0033953
+331,Phillip Dorsett,WR,NE,LAC,0.5,00-0032208
+332,Chad Hansen,WR,NYJ,Atl,0.5,00-0033840
+333,Blake Bell,TE,MIN,Cle,0.5,00-0032062
+334,David Morgan II,TE,MIN,Cle,0.5,00-0032430
+335,Jehu Chesson,WR,KC,Den,0.5,00-0033464
+336,Anthony Sherman,RB,KC,Den,0.5,00-0028074
+337,Ryan Switzer,WR,DAL,Wsh,0.5,00-0033562
+338,Anthony Fasano,TE,MIA,Bal,0.5,00-0024268
+339,Jarius Wright,WR,MIN,Cle,0.5,00-0029572
+340,Khari Lee,TE,BUF,Oak,0.5,00-0031922
+341,MarQueis Gray,TE,MIA,Bal,0.5,00-0029878
+342,Akeem Hunt,RB,KC,Den,0.5,00-0031743
+343,Leonte Carroo,WR,MIA,Bal,0.5,00-0033060
+344,Andy Janovich,RB,DEN,KC,0.4,00-0032956
+345,Golden Tate,WR,DET,Pit,0.4,00-0027891
+346,Terrell Watson,RB,PIT,Det,0.4,00-0031793
+347,Michael Burton,RB,CHI,NO,0.4,00-0031595
+348,Andre Roberts,WR,ATL,NYJ,0.3,00-0027691
+349,Pharoh Cooper,WR,LA,** BYE **,--,00-0033111
+350,Jacob Hollister,TE,NE,LAC,0.3,00-0033386
+351,Luke Stocker,TE,TB,Car,0.3,00-0028042
+352,Raheem Mostert,RB,SF,Phi,0.3,00-0031687
+353,James Develin,RB,NE,LAC,0.3,00-0027925
+354,Noah Brown,WR,DAL,Wsh,0.3,00-0033591
+355,Ryan Hewitt,RB,CIN,Ind,0.3,00-0030780
+356,Adam Shaheen,TE,CHI,NO,0.2,00-0033896
+357,Randall Telfer,TE,CLE,Min,0.2,00-0031533
+358,Trey Edmunds,RB,NO,Chi,0.2,00-0033838
+359,Travis Rudolph,WR,NYG,** BYE **,--,00-0033717
+360,Kerwynn Williams,RB,ARI,** BYE **,--,00-0030117
+361,Marqise Lee,WR,JAX,** BYE **,--,00-0031431
+362,Kenjon Barner,RB,PHI,SF,0.1,00-0030465
+363,Derek Watt,RB,LAC,NE,0.1,
+364,Trevor Davis,WR,GB,** BYE **,--,00-0032423
+365,Brandon Tate,WR,BUF,Oak,0.1,00-0027057
+366,Victor Bolden Jr.,WR,SF,Phi,0.1,00-0033306
+367,Jake Rudock,QB,DET,Pit,0.1,00-0032431
+368,Kellen Clemens,QB,LAC,NE,0.1,00-0024264
+369,Nick Foles,QB,PHI,SF,0.1,00-0029567
+370,Chase Daniel,QB,NO,Chi,0.1,00-0026544
+371,Jimmy Garoppolo,QB,NE,LAC,0.1,00-0031345
+372,Ryan Fitzpatrick,QB,TB,Car,0.1,00-0023682
+373,AJ McCarron,QB,CIN,Ind,0.1,00-0031288
+374,Derek Anderson,QB,CAR,TB,0.1,00-0023645
+375,Cooper Rush,QB,DAL,Wsh,0.1,00-0033662
+376,Nathan Peterman,QB,BUF,Oak,0.1,00-0033958
+377,Colt McCoy,QB,WSH,Dal,0.1,00-0027688
+378,Austin Davis,QB,SEA,Hou,0.1,00-0028957
+379,Bryce Petty,QB,NYJ,Atl,0.1,00-0031568
+380,Sammie Coates,WR,CLE,Min,0.1,00-0032166
+381,Paxton Lynch,QB,DEN,KC,0.1,00-0033108
+382,Brian Hoyer,QB,SF,Phi,0.1,00-0026625
+383,Matt Schaub,QB,ATL,NYJ,0.1,00-0022787
+384,Landry Jones,QB,PIT,Det,0.1,00-0030524
+385,Mike Glennon,QB,CHI,NO,0.1,00-0030520
+386,EJ Manuel,QB,OAK,Buf,0.1,00-0030526
+387,Tom Savage,QB,HOU,Sea,0.1,00-0031064
+388,Patrick Mahomes,QB,KC,Den,0.1,00-0033873
+389,Ryan Mallett,QB,BAL,Mia,0.1,00-0028012
+390,David Fales,QB,MIA,Bal,0.1,
+391,Cody Kessler,QB,CLE,Min,0.1,00-0033104
+392,Scott Tolzien,QB,IND,Cin,0.1,00-0028595
+393,Tavon Austin,WR,LA,** BYE **,--,00-0030525
+394,Jeff Janis,WR,GB,** BYE **,--,00-0031001
+395,Corey Grant,RB,JAX,** BYE **,--,00-0031731
+396,Keelan Cole,WR,JAX,** BYE **,--,00-0033681
+397,Sterling Shepard,WR,NYG,** BYE **,--,00-0032385
+398,Cooper Kupp,WR,LA,** BYE **,--,00-0033908
+399,Eric Weems,WR,TEN,** BYE **,--,00-0024535
+400,Randall Cobb,WR,GB,** BYE **,--,00-0028002
+401,Shane Vereen,RB,NYG,** BYE **,--,00-0027994
+402,Taiwan Jones,RB,BUF,Oak,0,00-0028063
+403,Phil Dawson,K,ARI,** BYE **,--,00-0004091
+404,Sebastian Janikowski,K,OAK,Buf,0,00-0019646
+405,Mike Vick,QB,PIT,Det,0,
+406,Steve Smith Sr.,WR,BAL,Mia,0,
+407,Shayne Graham,K,ATL,NYJ,0,
+408,Billy Cundiff,K,CLE,Min,0,
+409,Shaun Hill,QB,MIN,Cle,0,
+410,Carson Palmer,QB,ARI,** BYE **,--,00-0021429
+411,Andre Johnson,WR,TEN,** BYE **,--,
+412,Anquan Boldin,WR,BUF,Oak,0,
+413,Josh Brown,K,NYG,** BYE **,--,
+414,Tony Romo,QB,DAL,Wsh,0,
+415,Eli Manning,QB,NYG,** BYE **,--,00-0022803
+416,Larry Fitzgerald,WR,ARI,** BYE **,--,00-0022921
+417,Kellen Winslow,TE,NYJ,Atl,0,
+418,Steven Jackson,RB,NE,LAC,0,
+419,Luke McCown,QB,DAL,Wsh,0,
+420,Jerricho Cotchery,WR,CAR,TB,0,
+421,Josh Scobee,K,NO,Chi,0,
+422,Wes Welker,WR,LA,** BYE **,--,
+423,Aaron Rodgers,QB,GB,** BYE **,--,00-0023459
+424,Roddy White,WR,ATL,NYJ,0,
+425,Vincent Jackson,WR,TB,Car,0,
+426,Alex Smith,TE,WSH,Dal,0,
+427,Darren Sproles,RB,PHI,SF,0,00-0023564
+428,Dan Orlovsky,QB,LA,** BYE **,--,
+429,Matt Cassel,QB,TEN,** BYE **,--,00-0023662
+430,Joshua Cribbs,WR,IND,Cin,0,
+431,Nate Washington,WR,NE,LAC,0,
+432,Shaun Suisham,K,PIT,Det,0,
+433,Lance Moore,WR,ATL,NYJ,0,
+434,John Kuhn,RB,NO,Chi,0,00-0022999
+435,Reggie Bush,RB,BUF,Oak,0,
+436,Jay Cutler,QB,MIA,Bal,0,00-0024226
+437,DeAngelo Williams,RB,PIT,Det,0,
+438,Marcedes Lewis,TE,JAX,** BYE **,--,00-0024243
+439,Greg Jennings,WR,MIA,Bal,0,
+440,Devin Hester,WR,SEA,Hou,0,
+441,Tarvaris Jackson,QB,SEA,Hou,0,
+442,Charlie Whitehurst,QB,CLE,Min,0,
+443,Derek Hagan,WR,TEN,** BYE **,--,
+444,Owen Daniels,TE,DEN,KC,0,
+445,Jason Avant,WR,KC,Den,0,
+446,Brandon Marshall,WR,NYG,** BYE **,--,00-0024334
+447,Delanie Walker,TE,TEN,** BYE **,--,00-0024389
+448,Bruce Gradkowski,QB,PIT,Det,0,
+449,Marques Colston,WR,NO,Chi,0,
+450,Miles Austin,WR,PHI,SF,0,
+451,Fred Jackson,RB,SEA,Hou,0,
+452,Daniel Fells,TE,NYG,** BYE **,--,
+453,Calvin Johnson,WR,DET,Pit,0,
+454,Adrian Peterson,RB,ARI,** BYE **,--,00-0025394
+455,Marshawn Lynch,RB,OAK,Buf,0,00-0025399
+456,Dwayne Bowe,WR,CLE,Min,0,
+457,Greg Olsen,TE,CAR,TB,0,00-0025418
+458,Drew Stanton,QB,ARI,** BYE **,--,00-0025430
+459,Jacoby Jones,WR,PIT,Det,0,
+460,Matt Spaeth,TE,PIT,Det,0,
+461,James Jones,WR,LAC,NE,0,
+462,Scott Chandler,TE,NE,LAC,0,
+463,Nick Folk,K,TB,Car,0,00-0025565
+464,Mason Crosby,K,GB,** BYE **,--,00-0025580
+465,Clark Harris,TE,CIN,Ind,0,00-0025630
+466,Ahmad Bradshaw,RB,IND,Cin,0,
+467,Pierre Thomas,RB,WSH,Dal,0,
+468,Darren McFadden,RB,DAL,Wsh,0,00-0026144
+469,Chris Johnson,RB,ARI,** BYE **,--,
+470,Jordy Nelson,WR,GB,** BYE **,--,00-0026176
+471,Eddie Royal,WR,CHI,NO,0,
+472,Jerome Simpson,WR,SF,Phi,0,
+473,Fred Davis,TE,WSH,Dal,0,
+474,Chad Henne,QB,JAX,** BYE **,--,00-0026197
+475,Martellus Bennett,TE,GB,** BYE **,--,00-0026201
+476,Harry Douglas,WR,TEN,** BYE **,--,00-0026224
+477,Craig Stevens,TE,TEN,** BYE **,--,
+478,Andre Jerome Caldwell,WR,DET,Pit,0,
+479,Gary Barnidge,TE,CLE,Min,0,
+480,Jerome Felton,RB,BUF,Oak,0,
+481,Jacob Tamme,TE,ATL,NYJ,0,
+482,Tim Hightower,RB,SF,Phi,0,
+483,Matthew Slater,WR,NE,LAC,0,00-0026293
+484,Kellen Davis,TE,NYJ,Atl,0,
+485,Josh Johnson,QB,NYG,** BYE **,--,
+486,Matt Flynn,QB,NO,Chi,0,
+487,Stevie Johnson,WR,LAC,NE,0,
+488,Justin Forsett,RB,DEN,KC,0,
+489,Garrett Hartley,K,PIT,Det,0,
+490,Dan Carpenter,K,BUF,Oak,0,
+491,Matthew Mulligan,TE,DET,Pit,0,
+492,Marcel Reece,RB,SEA,Hou,0,
+493,Danny Woodhead,RB,BAL,Mia,0,00-0026019
+494,Josh Freeman,QB,IND,Cin,0,
+495,Mark Sanchez,QB,CHI,NO,0,00-0026898
+496,Donald Brown,RB,NE,LAC,0,
+497,Arian Foster,RB,MIA,Bal,0,
+498,Rashad Jennings,RB,NYG,** BYE **,--,
+499,David Johnson,TE,PIT,Det,0,
+500,Jorvorskie Lane,RB,TB,Car,0,
+501,Cedric Peerman,RB,CIN,Ind,0,00-0026932
+502,Marcus Thigpen,RB,BUF,Oak,0,
+503,James Casey,TE,DEN,KC,0,
+504,Chase Coffman,TE,IND,Cin,0,
+505,Bear Pascoe,TE,NE,LAC,0,
+506,Brandon Pettigrew,TE,DET,Pit,0,
+507,John Phillips,TE,NO,Chi,0,
+508,Brandon Gibson,WR,NE,LAC,0,
+509,Brian Hartline,WR,CLE,Min,0,
+510,Percy Harvin,WR,BUF,Oak,0,
+511,Louis Murphy,WR,SF,Phi,0,
+512,Hakeem Nicks,WR,NO,Chi,0,
+513,Jordan Norwood,WR,DEN,KC,0,
+514,Kevin Ogletree,WR,NYG,** BYE **,--,
+515,Julian Edelman,WR,NE,LAC,0,00-0027150
+516,Brandon Myers,TE,TB,Car,0,
+517,Ryan Succop,K,TEN,** BYE **,--,00-0026968
+518,Darrel Young,RB,CAR,TB,0,
+519,Antone Smith,RB,TB,Car,0,
+520,Sam Bradford,QB,MIN,Cle,0,00-0027854
+521,Jimmy Clausen,QB,BAL,Mia,0,
+522,Dan LeFevour,QB,TB,Car,0,
+523,C.J. Spiller,RB,KC,Den,0,00-0027861
+524,Ryan Mathews,RB,PHI,SF,0,
+525,Dexter McCluster,RB,LAC,NE,0,
+526,Ben Tate,RB,PIT,Det,0,
+527,Toby Gerhart,RB,JAX,** BYE **,--,
+528,Boobie Dixon,RB,BUF,Oak,0,
+529,James Starks,RB,GB,** BYE **,--,
+530,Arrelious Benn,WR,JAX,** BYE **,--,00-0027654
+531,Marcus Easley,WR,BUF,Oak,0,
+532,Riley Cooper,WR,PHI,SF,0,
+533,Jermaine Gresham,TE,ARI,** BYE **,--,00-0027873
+534,Dennis Pitta,TE,BAL,Mia,0,
+535,Eric Decker,WR,TEN,** BYE **,--,00-0027690
+536,Tony Moeaki,TE,CHI,NO,0,
+537,Emmanuel Sanders,WR,DEN,KC,0,00-0027685
+538,Jim Dray,TE,ARI,** BYE **,--,
+539,Garrett Graham,TE,DEN,KC,0,
+540,Clay Harbor,TE,NO,Chi,0,00-0027725
+541,Marc Mariani,WR,TEN,** BYE **,--,
+542,Anthony McCoy,TE,SEA,Hou,0,
+543,Andrew Quarless,TE,DET,Pit,0,
+544,Joe Webb,QB,BUF,Oak,0,00-0027796
+545,Kyle Williams,WR,NYJ,Atl,0,
+546,Mike Williams,WR,KC,Den,0,00-0033536
+547,Seyi Ajirotutu,WR,PHI,SF,0,
+548,Joique Bell,RB,DET,Pit,0,
+549,Richie Brockel,TE,CAR,TB,0,
+550,Victor Cruz,WR,CHI,NO,0,
+551,Jeff Cumberland,TE,LAC,NE,0,
+552,Chris Ivory,RB,JAX,** BYE **,--,00-0027531
+553,Thaddeus Lewis,QB,BAL,Mia,0,
+554,Marlon Moore,WR,CLE,Min,0,
+555,Bryan Walters,WR,JAX,** BYE **,--,
+556,Preston Parker,WR,FA,** BYE **,--,
+557,Logan Paulsen,TE,SF,Phi,0,00-0027215
+558,Danario Alexander,WR,LAC,NE,0,
+559,Tyler Clutts,RB,DAL,Wsh,0,
+560,Andrew Hawkins,WR,CLE,Min,0,
+561,Christian Ponder,QB,SF,Phi,0,
+562,Blaine Gabbert,QB,ARI,** BYE **,--,00-0027948
+563,Colin Kaepernick,QB,SF,Phi,0,
+564,DeMarco Murray,RB,TEN,** BYE **,--,00-0028009
+565,Lance Kendricks,TE,GB,** BYE **,--,00-0027985
+566,Rob Housler,TE,NE,LAC,0,
+567,Leonard Hankerson,WR,BUF,Oak,0,
+568,Greg Little,WR,BUF,Oak,0,
+569,Vincent Brown,WR,NO,Chi,0,
+570,Stevan Ridley,RB,MIN,Cle,0,
+571,Ryan Williams,RB,DAL,Wsh,0,
+572,Daniel Thomas,RB,MIA,Bal,0,
+573,Bruce Miller,TE,SF,Phi,0,
+574,Dwayne Harris,WR,NYG,** BYE **,--,00-0028114
+575,David Ausberry,TE,DET,Pit,0,
+576,Greg Salas,WR,BUF,Oak,0,
+577,T.J. Yates,QB,BUF,Oak,0,
+578,Charles Clay,TE,BUF,Oak,0,00-0028112
+579,Denarius Moore,WR,BUF,Oak,0,
+580,D.J. Williams,TE,WSH,Dal,0,
+581,Kendall Hunter,RB,NO,Chi,0,
+582,Cecil Shorts III,WR,TB,Car,0,
+583,Jordan Todman,RB,HOU,Sea,0,00-0028121
+584,Jordan Cameron,TE,MIA,Bal,0,
+585,Roy Helu Jr.,RB,OAK,Buf,0,
+586,DuJuan Harris,RB,JAX,** BYE **,--,
+587,Jerrod Johnson,QB,DAL,Wsh,0,
+588,Ricardo Lockette,WR,SEA,Hou,0,
+589,Dan Bailey,K,DAL,Wsh,0,00-0028660
+590,Matt Asiata,RB,DET,Pit,0,
+591,Joe Morgan,WR,BAL,Mia,0,
+592,Jeremy Ross,WR,ARI,** BYE **,--,
+593,Shaun Draughn,RB,NYG,** BYE **,--,
+594,Chase Reynolds,RB,LA,** BYE **,--,
+595,Will Johnson,RB,NYG,** BYE **,--,
+596,Andrew Luck,QB,IND,Cin,0,00-0029668
+597,Robert Griffin III,QB,CLE,Min,0,
+598,Ryan Tannehill,QB,MIA,Bal,0,00-0029701
+599,Brandon Weeden,QB,TEN,** BYE **,--,00-0029677
+600,Brock Osweiler,QB,DEN,KC,0,00-0029682
+601,Kellen Moore,QB,DAL,Wsh,0,00-0029234
+602,Ryan Lindley,QB,IND,Cin,0,
+603,Trent Richardson,RB,BAL,Mia,0,
+604,Isaiah Pead,RB,MIA,Bal,0,
+605,Chris Polk,RB,HOU,Sea,0,
+606,LaMike James,RB,MIA,Bal,0,
+607,Bernard Pierce,RB,DEN,KC,0,
+608,Robert Turbin,RB,IND,Cin,0,00-0029273
+609,Ronnie Hillman,RB,DAL,Wsh,0,
+610,Cyrus Gray,RB,ATL,NYJ,0,
+611,Vick Ballard,RB,NO,Chi,0,
+612,Orson Charles,TE,KC,Den,0,
+613,Ladarius Green,TE,PIT,Det,0,
+614,Justin Blackmon,WR,JAX,** BYE **,--,00-0029707
+615,Stephen Hill,WR,CAR,TB,0,
+616,Rueben Randle,WR,CHI,NO,0,
+617,Brian Quick,WR,WSH,Dal,0,00-0029640
+618,Keshawn Martin,WR,DET,Pit,0,
+619,Trevor Graham,WR,CAR,TB,0,
+620,Nick Toon,WR,LA,** BYE **,--,
+621,DeVier Posey,WR,DEN,KC,0,
+622,Greg Zuerlein,K,LA,** BYE **,--,00-0029621
+623,Rhett Ellison,TE,NYG,** BYE **,--,00-0029587
+624,LaVon Brazill,WR,IND,Cin,0,
+625,Daniel Herron,RB,BUF,Oak,0,
+626,Chris Givens,WR,PHI,SF,0,
+627,Bryce Brown,RB,SEA,Hou,0,
+628,Rishard Matthews,WR,TEN,** BYE **,--,00-0029580
+629,Daryl Richardson,RB,IND,Cin,0,
+630,Greg Scruggs,TE,NE,LAC,0,
+631,Kashif Moore,WR,KC,Den,0,
+632,Nathan Palmer,WR,OAK,Buf,0,
+633,Cory Harkey,RB,LA,** BYE **,--,
+634,Chris Owusu,WR,NYJ,Atl,0,
+635,Brian Tyms,WR,IND,Cin,0,
+636,Phillip Supernaw,TE,TEN,** BYE **,--,00-0028987
+637,Joe Banyard,RB,BUF,Oak,0,00-0029048
+638,Jeff Fuller,WR,SEA,Hou,0,
+639,Derrick Coleman,RB,ATL,NYJ,0,00-0029068
+640,Beau Brinkley,TE,TEN,** BYE **,--,00-0029134
+641,Jarrett Boykin,WR,BUF,Oak,0,
+642,Griff Whalen,WR,BAL,Mia,0,
+643,Jonas Gray,RB,JAX,** BYE **,--,
+644,Lance Dunbar,RB,LA,** BYE **,--,00-0029004
+645,Dominique Jones,TE,MIA,Bal,0,
+646,Rod Streater,WR,BUF,Oak,0,
+647,Derek Carrier,TE,LA,** BYE **,--,00-0029119
+648,Matt Simms,QB,ATL,NYJ,0,
+649,Travaris Cadet,RB,NYJ,Atl,0,00-0029205
+650,Brandon Bolden,RB,NE,LAC,0,00-0029239
+651,Sean McGrath,TE,LAC,NE,0,00-0029391
+652,LaRon Byrd,WR,CAR,TB,0,
+653,Brittan Golden,WR,ARI,** BYE **,--,00-0029336
+654,Damaris Johnson,WR,TEN,** BYE **,--,
+655,Jonathan Grimes,RB,JAX,** BYE **,--,
+656,Chase Ford,TE,BAL,Mia,0,
+657,Cooper Helfet,TE,OAK,Buf,0,
+658,Brandon Bostick,TE,NYJ,Atl,0,
+659,Alex Tanney,QB,TEN,** BYE **,--,00-0029623
+660,Josh Gordon,WR,CLE,Min,0,00-0029664
+661,Larry Donnell,TE,BAL,Mia,0,
+662,Ifeanyi Momah,TE,ARI,** BYE **,--,00-0029740
+663,Brandon Bogotay,K,TB,Car,0,
+664,Tyler Eifert,TE,CIN,Ind,0,00-0030549
+665,Stedman Bailey,WR,LA,** BYE **,--,
+666,Montee Ball,RB,FA,** BYE **,--,
+667,Knile Davis,RB,PIT,Det,0,
+668,Aaron Dobson,WR,ARI,** BYE **,--,
+669,Gavin Escobar,TE,KC,Den,0,
+670,Christine Michael,RB,IND,Cin,0,00-0030432
+671,Geno Smith,QB,NYG,** BYE **,--,00-0030565
+672,Markus Wheaton,WR,CHI,NO,0,00-0030460
+673,Robert Woods,WR,LA,** BYE **,--,00-0030431
+674,Charles D. Johnson,WR,CAR,TB,0,
+675,Ryan Nassib,QB,JAX,** BYE **,--,
+676,Andre Ellington,RB,ARI,** BYE **,--,00-0030287
+677,Sean Renfree,QB,ATL,NYJ,0,
+678,B.J. Daniels,WR,ATL,NYJ,0,
+679,Michael Williams,TE,NE,LAC,0,
+680,Tavarres King,WR,NYG,** BYE **,--,00-0030091
+681,Caleb Sturgis,K,PHI,SF,0,00-0030390
+682,Mychal Rivera,TE,JAX,** BYE **,--,00-0030514
+683,Zac Dysert,QB,ARI,** BYE **,--,00-0030394
+684,Chris Gragg,TE,NYJ,Atl,0,00-0030049
+685,Matt Barkley,QB,SF,Phi,0,
+686,Denard Robinson,RB,JAX,** BYE **,--,
+687,Dustin Hopkins,K,WSH,Dal,0,00-0030098
+688,Mike James,RB,DET,Pit,0,00-0030391
+689,Tommy Bohanon,RB,JAX,** BYE **,--,
+690,Stepfan Taylor,RB,ARI,** BYE **,--,
+691,Cobi Hamilton,WR,PIT,Det,0,
+692,Justice Cunningham,TE,LA,** BYE **,--,
+693,Zac Stacy,RB,NYJ,Atl,0,
+694,Josh Boyce,WR,CLE,Min,0,
+695,Chris Harper,WR,NYG,** BYE **,--,
+696,Joseph Randle,RB,FA,** BYE **,--,
+697,Corey Fuller,WR,NO,Chi,0,00-0030095
+698,Spencer Ware,RB,KC,Den,0,00-0030414
+699,Marquess Wilson,WR,NYJ,Atl,0,
+700,Quinton Patton,WR,NYJ,Atl,0,
+701,Kendall Gaskins,RB,SF,Phi,0,
+702,Steven Miller,RB,DET,Pit,0,
+703,Ryan Griffin,QB,TB,Car,0,00-0029857
+704,Da'Rick Rogers,WR,KC,Den,0,
+705,Jaron Brown,WR,ARI,** BYE **,--,00-0030300
+706,Chris Pantale,TE,MIA,Bal,0,
+707,Ryan Spadola,WR,DET,Pit,0,
+708,Tyler Bray,QB,KC,Den,0,00-0030151
+709,Timothy Wright,TE,DET,Pit,0,
+710,Zach Line,RB,NO,Chi,0,00-0029931
+711,Rodney Smith,WR,SEA,Hou,0,
+712,Kenbrell Thompkins,WR,NYJ,Atl,0,
+713,Zach Sudfeld,TE,NYJ,Atl,0,
+714,George Winn,RB,IND,Cin,0,00-0030247
+715,Jake Stoneburner,TE,LA,** BYE **,--,
+716,Khiry Robinson,RB,NYJ,Atl,0,
+717,Myles White,WR,NYJ,Atl,0,
+718,Marlon Brown,WR,DEN,KC,0,
+719,Matt McGloin,QB,PHI,SF,0,
+720,Blake Bortles,QB,JAX,** BYE **,--,00-0031407
+721,Sammy Watkins,WR,LA,** BYE **,--,00-0031325
+722,Teddy Bridgewater,QB,MIN,Cle,0,00-0031237
+723,Odell Beckham Jr.,WR,NYG,** BYE **,--,00-0031235
+724,Johnny Manziel,QB,CLE,Min,0,
+725,Dri Archer,RB,BUF,Oak,0,
+726,C.J. Fiedorowicz,TE,HOU,Sea,0,00-0031302
+727,Crockett Gillmore,TE,BAL,Mia,0,00-0030992
+728,Josh Huff,WR,TB,Car,0,
+729,Terrance West,RB,BAL,Mia,0,00-0031375
+730,Tre Mason,RB,LA,** BYE **,--,
+731,Richard Rodgers,TE,GB,** BYE **,--,00-0031384
+732,Jace Amaro,TE,TEN,** BYE **,--,
+733,Bishop Sankey,RB,MIN,Cle,0,00-0031413
+734,Troy Niklas,TE,ARI,** BYE **,--,00-0031044
+735,Allen Robinson,WR,JAX,** BYE **,--,00-0031428
+736,Davante Adams,WR,GB,** BYE **,--,00-0031381
+737,John Brown,WR,ARI,** BYE **,--,00-0031051
+738,Shaq Evans,WR,DAL,Wsh,0,
+739,Tajh Boyd,QB,PIT,Det,0,
+740,Zach Mettenberger,QB,PIT,Det,0,
+741,Jeremy Gallon,WR,NE,LAC,0,
+742,Tyler Gaffney,RB,JAX,** BYE **,--,00-0031190
+743,Kevin Norwood,WR,NYG,** BYE **,--,00-0031327
+744,Storm Johnson,RB,MIA,Bal,0,
+745,Lache Seastrunk,RB,NYJ,Atl,0,
+746,Andre Williams,RB,LAC,NE,0,00-0031055
+747,Keith Wenning,QB,BUF,Oak,0,
+748,Zach Hocker,K,TB,Car,0,
+749,Jalen Saunders,WR,NE,LAC,0,
+750,Ka'Deem Carey,RB,CHI,NO,0,
+751,Lorenzo Taliaferro,RB,BAL,Mia,0,
+752,Marion Grice,RB,ARI,** BYE **,--,
+753,Aaron Murray,QB,KC,Den,0,
+754,Devin Street,WR,HOU,Sea,0,
+755,Dontrelle Inman,WR,LAC,NE,0,00-0028411
+756,Corey Washington,WR,DAL,Wsh,0,
+757,Juwan Thompson,RB,DEN,KC,0,
+758,Kapri Bibbs,RB,SF,Phi,0,
+759,Branden Oliver,RB,LAC,NE,0,00-0031277
+760,Robert Herron,WR,OAK,Buf,0,
+761,Antonio Andrews,RB,TEN,** BYE **,--,
+762,Darrin Reaves,RB,KC,Den,0,
+763,Brenton Bersin,WR,CAR,TB,0,
+764,Travis Coons,K,LA,** BYE **,--,
+765,Allen Hurns,WR,JAX,** BYE **,--,00-0030821
+766,Silas Redd,RB,WSH,Dal,0,
+767,Corey Brown,WR,BUF,Oak,0,
+768,Cairo Santos,K,KC,Den,0,
+769,Kasey Redfern,K,DET,Pit,0,00-0031420
+770,Frankie Hammond,WR,NYJ,Atl,0,
+771,Trey Watts,RB,LA,** BYE **,--,
+772,Austin Johnson,RB,TB,Car,0,
+773,Brian Leonhardt,TE,MIN,Cle,0,
+774,Jay Prosch,RB,HOU,Sea,0,00-0031085
+775,James Wright,WR,CLE,Min,0,
+776,Isaiah Burse,WR,LAC,NE,0,00-0030671
+777,Jeremy Butler,WR,BUF,Oak,0,00-0030691
+778,Damian Copeland,WR,DET,Pit,0,
+779,Jonathan Krause,WR,TEN,** BYE **,--,
+780,Matt Blanchard,QB,CHI,NO,0,
+781,Dustin Vaughan,QB,BAL,Mia,0,
+782,Orleans Darkwa,RB,NYG,** BYE **,--,00-0030860
+783,Senorise Perry,RB,MIA,Bal,0,00-0031209
+784,Glenn Winston,RB,CLE,Min,0,
+785,Jordan Gay,K,TEN,** BYE **,--,
+786,Kyle Nelson,TE,SF,Phi,0,00-0028374
+787,Walter Powell,WR,BUF,Oak,0,
+788,Fitzgerald Toussaint,RB,PIT,Det,0,
+789,Marcel Jensen,TE,WSH,Dal,0,
+790,Asante Cleveland,TE,LAC,NE,0,00-0030832
+791,Rashad Ross,WR,BUF,Oak,0,
+792,Nic Jacobs,TE,JAX,** BYE **,--,
+793,Freddie Martino,WR,TB,Car,0,
+794,Blake Annen,TE,BUF,Oak,0,
+795,RaShaun Allen,TE,HOU,Sea,0,
+796,Justin Perillo,TE,CHI,NO,0,
+797,Connor Shaw,QB,CHI,NO,0,
+798,Roosevelt Nix,RB,PIT,Det,0,
+799,Kevin Smith,WR,SEA,Hou,0,
+800,Andre Debose,WR,IND,Cin,0,
+801,Jason Myers,K,JAX,** BYE **,--,00-0031492
+802,James O'Shaughnessy,TE,JAX,** BYE **,--,00-0031951
+803,David Johnson,RB,ARI,** BYE **,--,00-0032187
+804,MyCole Pruitt,TE,CHI,NO,0,
+805,DiAndre Campbell,WR,SF,Phi,0,
+806,Gerald Christian,TE,ARI,** BYE **,--,
+807,Issac Blakeney,WR,PIT,Det,0,
+808,Geremy Davis,WR,LAC,NE,0,
+809,Da'Ron Brown,WR,LAC,NE,0,
+810,Neal Sterling,TE,NYJ,Atl,0,
+811,Marcus Murphy,RB,NYJ,Atl,0,
+812,Kenny Bell,WR,BAL,Mia,0,
+813,Dres Anderson,WR,HOU,Sea,0,
+814,Jeremy Langford,RB,BAL,Mia,0,
+815,Keith Mumphery,WR,HOU,Sea,0,
+816,J.J. Nelson,WR,ARI,** BYE **,--,00-0032112
+817,Jalston Fowler,RB,TEN,** BYE **,--,00-0032130
+818,DeAndrew White,WR,HOU,Sea,0,
+819,Malcolm Johnson,RB,SEA,Hou,0,
+820,Dylan Thompson,QB,LA,** BYE **,--,
+821,Kaelin Clay,WR,BUF,Oak,0,00-0032115
+822,Sean Mannion,QB,LA,** BYE **,--,00-0032245
+823,Joey Iosefa,RB,NE,LAC,0,
+824,Dezmin Lewis,WR,BUF,Oak,0,
+825,Garrett Grayson,QB,NO,Chi,0,
+826,David Cobb,RB,CHI,NO,0,
+827,Devin Smith,WR,NYJ,Atl,0,00-0031934
+828,Evan Spencer,WR,TB,Car,0,
+829,Rashad Greene Sr.,WR,JAX,** BYE **,--,00-0032170
+830,Karlos Williams,RB,PIT,Det,0,
+831,Darren Waller,TE,BAL,Mia,0,00-0031610
+832,Marcus Mariota,QB,TEN,** BYE **,--,00-0032268
+833,Ty Montgomery,RB,GB,** BYE **,--,00-0032200
+834,Brett Hundley,QB,GB,** BYE **,--,00-0031589
+835,Kenny Hilliard,RB,WSH,Dal,0,
+836,Josh Robinson,RB,IND,Cin,0,
+837,Aaron Ripkowski,RB,GB,** BYE **,--,00-0031612
+838,Rory Anderson,TE,BUF,Oak,0,
+839,Chris Conley,WR,KC,Den,0,00-0032128
+840,Ben Koyack,TE,JAX,** BYE **,--,00-0032139
+841,Kennard Backman,TE,DET,Pit,0,
+842,Tyler Varga,RB,IND,Cin,0,
+843,Dorial Green-Beckham,WR,PHI,SF,0,
+844,T.J. Yeldon,RB,JAX,** BYE **,--,00-0032209
+845,Todd Gurley II,RB,LA,** BYE **,--,00-0032241
+846,Matt Jones,RB,IND,Cin,0,00-0031939
+847,Mike Davis,RB,SEA,Hou,0,
+848,Kevin White,WR,CHI,NO,0,00-0031545
+849,Cameron Artis-Payne,RB,CAR,TB,0,00-0031599
+850,Jaelen Strong,WR,JAX,** BYE **,--,00-0031560
+851,Vince Mayle,WR,BAL,Mia,0,00-0032188
+852,Mario Alford,WR,CLE,Min,0,
+853,DeAndre Smelter,WR,SF,Phi,0,
+854,Duron Carter,WR,IND,Cin,0,
+855,Antwan Goodley,WR,GB,** BYE **,--,
+856,Michael Dyer,RB,OAK,Buf,0,
+857,John Crockett,RB,OAK,Buf,0,
+858,Terrence Magee,RB,CLE,Min,0,
+859,Seantavius Jones,WR,KC,Den,0,
+860,Gus Johnson,RB,LAC,NE,0,
+861,Zach Zenner,RB,DET,Pit,0,00-0031665
+862,Malcolm Brown,RB,LA,** BYE **,--,00-0031806
+863,Kyle Brindza,K,NYJ,Atl,0,
+864,Terron Ward,RB,ATL,NYJ,0,00-0031682
+865,Jarryd Hayne,RB,SF,Phi,0,
+866,Josh Lambo,K,JAX,** BYE **,--,
+867,Andrew Franks,K,MIA,Bal,0,
+868,Brandon Wegher,RB,LA,** BYE **,--,
+869,Alonzo Harris,RB,GB,** BYE **,--,
+870,Cameron Meredith,WR,CHI,NO,0,00-0031912
+871,E.J. Bibbs,TE,WSH,Dal,0,
+872,Lucky Whitehead,WR,NYJ,Atl,0,
+873,Nikita Whitlock,RB,NYG,** BYE **,--,
+874,Quincy Enunwa,WR,NYJ,Atl,0,00-0031023
+875,Jerome Cunningham,TE,TEN,** BYE **,--,
+876,Matt Hazel,WR,IND,Cin,0,
+877,Chris Harper,WR,NYJ,Atl,0,
+878,Tyler Murphy,WR,MIA,Bal,0,
+879,Bradley Marquez,WR,LA,** BYE **,--,00-0031818
+880,Wes Saxton,TE,BUF,Oak,0,
+881,Will Tye,TE,NYJ,Atl,0,
+882,Donteea Dye,WR,TB,Car,0,
+883,Trey Williams,RB,PIT,Det,0,
+884,Javontee Herndon,WR,DAL,Wsh,0,
+885,Daniel Brown,TE,CHI,NO,0,00-0032098
+886,Eric Rogers,WR,SF,Phi,0,
+887,Jared Goff,QB,LA,** BYE **,--,00-0033106
+888,Corey Coleman,WR,CLE,Min,0,00-0032966
+889,Derrick Henry,RB,TEN,** BYE **,--,00-0032764
+890,Christian Hackenberg,QB,NYJ,Atl,0,00-0032953
+891,Tyler Boyd,WR,CIN,Ind,0,00-0033009
+892,Roberto Aguayo,K,CHI,NO,0,
+893,Braxton Miller,WR,HOU,Sea,0,00-0033069
+894,Connor Cook,QB,OAK,Buf,0,00-0032893
+895,Chris Moore,WR,BAL,Mia,0,00-0032398
+896,Tyler Higbee,TE,LA,** BYE **,--,00-0033110
+897,Malcolm Mitchell,WR,NE,LAC,0,00-0032400
+898,Tyler Ervin,RB,HOU,Sea,0,00-0032404
+899,Kenneth Dixon,RB,BAL,Mia,0,00-0032411
+900,Cardale Jones,QB,LAC,NE,0,00-0033098
+901,Tajae Sharpe,WR,TEN,** BYE **,--,00-0032778
+902,Paul Perkins,RB,NYG,** BYE **,--,00-0032417
+903,Jordan Payton,WR,CLE,Min,0,
+904,Jonathan Williams,RB,BUF,Oak,0,
+905,Kevin Hogan,QB,CLE,Min,0,00-0032784
+906,Temarrick Hemingway,TE,LA,** BYE **,--,00-0033112
+907,Moritz Bohringer,WR,MIN,Cle,0,
+908,Keenan Reynolds,WR,BAL,Mia,0,
+909,Jerell Adams,TE,NYG,** BYE **,--,00-0032429
+910,Nate Sudfeld,QB,WSH,Dal,0,
+911,Kolby Listenbee,WR,BUF,Oak,0,
+912,Danny Vitale,RB,CLE,Min,0,00-0032794
+913,Brandon Allen,QB,LA,** BYE **,--,00-0032434
+914,Michael Thomas,WR,LA,** BYE **,--,00-0032765
+915,Jeff Driskel,QB,CIN,Ind,0,00-0032436
+916,Kelvin Taylor,RB,ATL,NYJ,0,
+917,Aaron Burbridge,WR,SF,Phi,0,00-0032441
+918,Darius Jackson,RB,CLE,Min,0,00-0033049
+919,Rico Gathers,TE,DAL,Wsh,0,00-0033054
+920,Brandon Doughty,QB,MIA,Bal,0,
+921,Devin Lucien,WR,NE,LAC,0,
+922,Demarcus Ayers,WR,PIT,Det,0,
+923,Daniel Braverman,WR,CHI,NO,0,
+924,Thomas Duarte,TE,MIA,Bal,0,
+925,Daniel Lasco,RB,NO,Chi,0,
+926,Devin Lewis Fuller,WR,ATL,NYJ,0,
+927,Charone Peake,WR,NYJ,Atl,0,00-0032959
+928,Keith Marshall,RB,WSH,Dal,0,00-0032806
+929,Kenny Lawler,WR,SEA,Hou,0,
+930,Zac Brooks,RB,SEA,Hou,0,
+931,Beau Sandland,TE,GB,** BYE **,--,
+932,Trevone Boykin,QB,SEA,Hou,0,
+933,Ben Braunecker,TE,CHI,NO,0,
+934,Cole Wick,TE,DET,Pit,0,
+935,Taylor Heinicke,QB,MIN,Cle,0,
+936,Matt LaCosse,TE,NYG,** BYE **,--,00-0031744
+937,Erik Swoope,TE,IND,Cin,0,00-0030854
+938,Brandon Wilds,RB,CLE,Min,0,
+939,Jhurell Pressley,RB,ATL,NYJ,0,
+940,Anthony Denham,TE,PHI,SF,0,
+941,Byron Marshall,RB,PHI,SF,0,
+942,Max McCaffrey,WR,JAX,** BYE **,--,00-0032937
+943,Reggie Bell,WR,NO,Chi,0,
+944,Jake Kumerow,WR,CIN,Ind,0,
+945,George Atkinson III,RB,OAK,Buf,0,
+946,James Wilder Jr.,RB,BUF,Oak,0,
+947,D.J. Foster,RB,ARI,** BYE **,--,00-0032577
+948,Bryce Williams,TE,CAR,TB,0,
+949,Marquez North,WR,LA,** BYE **,--,
+950,Andy Jones,WR,HOU,Sea,0,
+951,Roger Lewis,WR,NYG,** BYE **,--,00-0032659
+952,Xavier Rush,WR,NO,Chi,0,
+953,Dom Williams,WR,PHI,SF,0,00-0032915
+954,Damiere Byrd,WR,CAR,TB,0,00-0031868
+955,R.J. Harris,WR,NO,Chi,0,
+956,Paul McRoberts,WR,LA,** BYE **,--,
+957,Wendall Williams,WR,HOU,Sea,0,
+958,Anthony Dable,WR,ATL,NYJ,0,
+959,Darius Jennings,WR,TEN,** BYE **,--,00-0031972
+960,Devon Cajuste,WR,SF,Phi,0,
+961,Mitch Mathews,WR,MIA,Bal,0,
+962,Stephen Morris,QB,IND,Cin,0,
+963,Dreamius Smith,RB,LAC,NE,0,
+964,Devon Johnson,RB,CAR,TB,0,
+965,Keyarris Garrett,WR,CAR,TB,0,
+966,Jalin Marshall,WR,NYJ,Atl,0,
+967,Alan Cross,TE,TB,Car,0,
+968,Braedon Bowman,TE,NO,Chi,0,
+969,Tanner McEvoy,WR,SEA,Hou,0,00-0032475
+970,Brian Parker,TE,NYJ,Atl,0,
+971,Troymaine Pope,RB,IND,Cin,0,
+972,Glenn Gronkowski,RB,NE,LAC,0,
+973,Joe Callahan,QB,GB,** BYE **,--,00-0032630
+974,Johnny Holton,WR,OAK,Buf,0,00-0032935
+975,Julian Howsare,RB,NYJ,Atl,0,
+976,Kenneth Farrow,RB,LAC,NE,0,00-0032902
+977,Nelson Spruce,WR,LA,** BYE **,--,
+978,Joshua Perkins,TE,ATL,NYJ,0,
+979,Paul Lasike,RB,CHI,NO,0,
+980,Scott Simonson,TE,CAR,TB,0,00-0031167
+981,Xavier Grimble,TE,PIT,Det,0,00-0031035
+982,Peyton Barber,RB,TB,Car,0,00-0032741
+983,Don Jackson,RB,GB,** BYE **,--,
+984,Geronimo Allison,WR,GB,** BYE **,--,00-0032626
+985,Paul Turner,WR,PHI,SF,0,
+986,George Farmer,RB,SEA,Hou,0,
+987,Mack Brown,RB,WSH,Dal,0,00-0032048
+988,D.J. Tialavea,TE,ATL,NYJ,0,
+989,Matt Lengel,TE,NE,LAC,0,
+990,Alex Ellis,TE,JAX,** BYE **,--,
+991,Aldrick Rosas,K,NYG,** BYE **,--,00-0032870
+992,Chad Williams,WR,ARI,** BYE **,--,00-0033933
+993,Donnel Pumphrey,RB,PHI,SF,0,
+994,De'Angelo Henderson,RB,DEN,KC,0,00-0033581
+995,Jonnu Smith,TE,TEN,** BYE **,--,00-0033858
+996,Elijah Hood,RB,OAK,Buf,0,
+997,Brad Kaaya,QB,DET,Pit,0,00-0033585
+998,Chad Kelly,QB,DEN,KC,0,
+999,Marquez Williams,RB,JAX,** BYE **,--,
+1000,Josh Reynolds,WR,LA,** BYE **,--,00-0033943
+1001,Josh Malone,WR,CIN,Ind,0,00-0033859
+1002,Leonard Fournette,RB,JAX,** BYE **,--,00-0033856
+1003,Malachi Dupre,WR,GB,** BYE **,--,
+1004,Taywan Taylor,WR,TEN,** BYE **,--,00-0033911
+1005,Rodney Adams,WR,MIN,Cle,0,00-0033957
+1006,Joshua Dobbs,QB,PIT,Det,0,00-0033949
+1007,Wayne Gallman,RB,NYG,** BYE **,--,00-0033950
+1008,Jake Butt,TE,DEN,KC,0,
+1009,Mason Schreck,TE,CIN,Ind,0,00-0033798
+1010,Jeremy Sprinkle,TE,WSH,Dal,0,00-0033528
+1011,Dalvin Cook,RB,MIN,Cle,0,00-0033893
+1012,David Moore,WR,SEA,Hou,0,
+1013,T.J. Logan,RB,ARI,** BYE **,--,00-0033789
+1014,Carlos Henderson,WR,DEN,KC,0,00-0033919
+1015,Robert Davis,WR,WSH,Dal,0,
+1016,Shelton Gibson,WR,PHI,SF,0,00-0033573
+1017,Dede Westbrook,WR,JAX,** BYE **,--,00-0033839
+1018,Aaron Jones,RB,GB,** BYE **,--,00-0033293
+1019,Corey Davis,WR,TEN,** BYE **,--,00-0033871
+1020,Bucky Hodges,TE,MIN,Cle,0,
+1021,Sam Rogers,RB,LA,** BYE **,--,
+1022,Isaiah Ford,WR,MIA,Bal,0,00-0033471
+1023,Devante Mays,RB,GB,** BYE **,--,00-0033304
+1024,Chris Carson,RB,SEA,Hou,0,00-0033594
+1025,Eric Saubert,TE,ATL,NYJ,0,00-0033576
+1026,Joe Williams,RB,SF,Phi,0,00-0033286
+1027,Jamaal Williams,RB,GB,** BYE **,--,00-0033948
+1028,Gerald Everett,TE,LA,** BYE **,--,00-0033895
+1029,Evan Engram,TE,NYG,** BYE **,--,00-0033881
+1030,Stacy Coley,WR,MIN,Cle,0,00-0033968
+1031,Khalfani Muhammad,RB,TEN,** BYE **,--,
+1032,Jeremy McNichols,RB,TB,Car,0,
+1033,DeAngelo Yancey,WR,GB,** BYE **,--,
+1034,Davis Webb,QB,NYG,** BYE **,--,00-0033550
+1035,Brian Hill,RB,ATL,NYJ,0,
+1036,Freddie Stevenson,RB,CHI,NO,0,
+1037,Jace Billingsley,WR,DET,Pit,0,
+1038,Ishmael Zamora,WR,OAK,Buf,0,
+1039,Austin Carr,WR,NO,Chi,0,00-0033382

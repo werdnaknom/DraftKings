@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Kansas City Chiefs,DST,13,KC,CHI,10,7,7,3,0,0,0,0,3,20.00,2011
+2,Pittsburgh Steelers,DST,13,PIT,CIN,3,3,5,1,1,0,0,1,7,19.00,2011
+3,San Francisco 49ers,DST,13,SF,LAR,9,4,6,1,1,0,0,0,0,18.00,2011
+4,Seattle Seahawks,DST,13,SEA,PHI,4,2,5,4,0,0,1,0,14,17.00,2011
+5,Baltimore Ravens,DST,13,BAL,CLE,5,3,4,1,0,0,0,1,10,15.00,2011
+6,Denver Broncos,DST,13,DEN,MIN,6,3,4,2,1,0,1,0,32,14.00,2011
+7,Miami Dolphins,DST,13,MIA,OAK,3,2,5,1,0,0,1,0,14,11.00,2011
+8,Arizona Cardinals,DST,13,ARI,DAL,8,5,5,0,0,0,0,0,13,9.00,2011
+9,New York Jets,DST,13,NYJ,WAS,5,2,4,1,2,0,0,0,19,9.00,2011
+10,Chicago Bears,DST,13,CHI,KC,8,2,5,0,1,0,0,0,10,8.00,2011
+11,Houston Texans,DST,13,HOU,ATL,2,0,10,2,0,0,0,0,10,8.00,2011
+12,New Orleans Saints,DST,13,NO,DET,4,3,5,1,0,0,0,0,17,8.00,2011
+13,Green Bay Packers,DST,13,GB,NYG,2,1,3,1,1,0,1,0,35,7.00,2011
+14,Minnesota Vikings,DST,13,MIN,DEN,4,2,3,0,2,1,0,0,35,7.00,2011
+15,Atlanta Falcons,DST,13,ATL,HOU,6,3,2,0,1,0,0,0,17,6.00,2011
+16,Dallas Cowboys,DST,13,DAL,ARI,8,5,5,0,0,0,0,0,19,6.00,2011
+17,New England Patriots,DST,13,NE,IND,4,2,4,1,1,0,0,0,24,6.00,2011
+18,Tennessee Titans,DST,13,TEN,BUF,4,1,4,0,2,0,0,0,17,6.00,2011
+19,Carolina Panthers,DST,13,CAR,TB,7,2,3,1,0,0,0,0,19,5.00,2011
+20,Los Angeles Chargers,DST,13,LAC,JAX,6,2,3,1,0,0,0,0,14,5.00,2011
+21,Los Angeles Rams,DST,13,LAR,SF,7,4,5,0,0,0,0,0,26,4.00,2011
+22,Cleveland Browns,DST,13,CLE,BAL,3,1,2,0,1,0,0,0,24,3.00,2011
+23,New York Giants,DST,13,NYG,GB,8,2,6,1,0,0,0,0,38,3.00,2011
+24,Philadelphia Eagles,DST,13,PHI,SEA,6,3,7,0,0,0,0,0,31,3.00,2011
+25,Buffalo Bills,DST,13,BUF,TEN,6,1,1,0,0,0,0,0,23,1.00,2011
+26,Detroit Lions,DST,13,DET,NO,4,2,4,0,0,0,0,0,31,1.00,2011
+27,Washington Redskins,DST,13,WAS,NYJ,2,0,1,0,1,0,0,0,34,1.00,2011
+28,Indianapolis Colts,DST,13,IND,NE,1,1,4,0,0,0,0,0,31,0.00,2011
+29,Oakland Raiders,DST,13,OAK,MIA,5,1,3,0,0,0,0,0,34,0.00,2011
+30,Cincinnati Bengals,DST,13,CIN,PIT,7,3,4,0,0,0,0,0,35,-1.00,2011
+31,Tampa Bay Buccaneers,DST,13,TB,CAR,7,2,5,0,0,0,0,0,38,-2.00,2011
+32,Jacksonville Jaguars,DST,13,JAX,LAC,2,0,4,0,0,0,0,0,38,-4.00,2011

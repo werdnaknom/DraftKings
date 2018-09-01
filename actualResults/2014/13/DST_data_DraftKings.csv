@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Rams,DST,13,LAR,OAK,7,6,7,3,2,0,1,0,0,32.00,2014
+2,Minnesota Vikings,DST,13,MIN,CAR,8,4,5,1,0,0,0,2,13,26.00,2014
+3,Jacksonville Jaguars,DST,13,JAX,NYG,6,4,4,0,3,0,2,0,24,22.00,2014
+4,Buffalo Bills,DST,13,BUF,CLE,5,2,6,2,1,0,1,0,10,18.00,2014
+5,Seattle Seahawks,DST,13,SEA,SF,7,4,5,2,1,0,0,0,3,17.00,2014
+6,Indianapolis Colts,DST,13,IND,WAS,6,6,9,0,1,0,1,0,27,14.00,2014
+7,Philadelphia Eagles,DST,13,PHI,DAL,8,4,5,2,1,0,0,0,10,14.00,2014
+8,Denver Broncos,DST,13,DEN,KC,7,6,12,1,2,0,0,0,16,13.00,2014
+9,Houston Texans,DST,13,HOU,TEN,5,3,9,3,1,0,0,0,21,12.00,2014
+10,New York Giants,DST,13,NYG,JAX,9,7,8,0,0,0,0,0,25,11.00,2014
+11,Atlanta Falcons,DST,13,ATL,ARI,0,0,8,2,1,0,0,0,18,10.00,2014
+12,Tampa Bay Buccaneers,DST,13,TB,CIN,7,2,4,3,0,0,0,0,14,9.00,2014
+13,Arizona Cardinals,DST,13,ARI,ATL,4,1,3,1,0,0,1,0,29,8.00,2014
+14,Detroit Lions,DST,13,DET,CHI,6,3,8,2,0,0,0,0,17,8.00,2014
+15,Miami Dolphins,DST,13,MIA,NYJ,9,2,5,1,0,0,0,0,13,8.00,2014
+16,Cleveland Browns,DST,13,CLE,BUF,4,1,2,2,0,0,0,0,26,8.00,2014
+17,Cincinnati Bengals,DST,13,CIN,TB,5,1,4,1,0,0,0,0,13,7.00,2014
+18,Baltimore Ravens,DST,13,BAL,LAC,4,2,5,1,1,0,0,0,34,5.00,2014
+19,New York Jets,DST,13,NYJ,MIA,4,2,6,1,0,0,0,0,16,5.00,2014
+20,San Francisco 49ers,DST,13,SF,SEA,7,4,5,0,0,0,0,0,19,5.00,2014
+21,New Orleans Saints,DST,13,NO,PIT,0,1,3,2,0,0,0,0,32,4.00,2014
+22,Tennessee Titans,DST,13,TEN,HOU,7,0,3,0,1,0,1,0,45,4.00,2014
+23,Chicago Bears,DST,13,CHI,DET,4,2,5,0,1,0,0,0,34,3.00,2014
+24,New England Patriots,DST,13,NE,GB,5,3,5,0,0,0,0,0,26,3.00,2014
+25,Washington Redskins,DST,13,WAS,IND,2,1,2,1,2,0,0,0,49,3.00,2014
+26,Carolina Panthers,DST,13,CAR,MIN,4,3,2,0,0,0,0,0,31,2.00,2014
+27,Dallas Cowboys,DST,13,DAL,PHI,6,1,1,0,1,0,0,0,33,2.00,2014
+28,Kansas City Chiefs,DST,13,KC,DEN,7,1,1,0,1,0,0,0,29,2.00,2014
+29,Green Bay Packers,DST,13,GB,NE,0,1,6,0,0,0,0,0,21,1.00,2014
+30,Los Angeles Chargers,DST,13,LAC,BAL,4,0,0,0,0,0,0,0,33,-1.00,2014
+31,Oakland Raiders,DST,13,OAK,LAR,6,1,2,0,0,0,0,0,52,-3.00,2014
+32,Pittsburgh Steelers,DST,13,PIT,NO,3,1,3,0,0,0,0,0,35,-3.00,2014

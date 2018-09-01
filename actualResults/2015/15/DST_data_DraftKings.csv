@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Kansas City Chiefs,DST,15,KC,BAL,3,2,7,2,1,0,2,0,14,21.00,2015
+2,New England Patriots,DST,15,NE,TEN,2,5,5,2,1,0,1,0,16,18.00,2015
+3,Arizona Cardinals,DST,15,ARI,PHI,1,2,9,2,2,0,1,0,17,17.00,2015
+4,Cincinnati Bengals,DST,15,CIN,SF,6,4,5,3,1,0,0,0,14,15.00,2015
+5,Green Bay Packers,DST,15,GB,OAK,5,3,6,2,0,0,1,0,20,14.00,2015
+6,New York Jets,DST,15,NYJ,DAL,5,2,6,4,0,0,0,0,16,11.00,2015
+7,Houston Texans,DST,15,HOU,IND,4,3,8,1,1,0,0,0,10,11.00,2015
+8,Minnesota Vikings,DST,15,MIN,CHI,4,5,6,1,1,0,0,0,17,10.00,2015
+9,Seattle Seahawks,DST,15,SEA,CLE,3,3,6,1,0,0,0,0,13,9.00,2015
+10,Indianapolis Colts,DST,15,IND,HOU,5,3,5,1,1,0,0,0,16,8.00,2015
+11,Oakland Raiders,DST,15,OAK,GB,6,2,3,1,1,0,0,0,30,8.00,2015
+12,Tennessee Titans,DST,15,TEN,NE,6,2,5,0,2,0,0,0,33,6.00,2015
+13,Denver Broncos,DST,15,DEN,PIT,2,3,6,2,0,0,0,0,34,6.00,2015
+14,Pittsburgh Steelers,DST,15,PIT,DEN,4,2,5,1,1,0,0,0,27,6.00,2015
+15,Los Angeles Chargers,DST,15,LAC,MIA,5,3,8,0,1,0,0,0,14,6.00,2015
+16,San Francisco 49ers,DST,15,SF,CIN,6,4,4,0,1,0,0,0,24,6.00,2015
+17,Dallas Cowboys,DST,15,DAL,NYJ,6,2,6,1,0,0,0,0,19,5.00,2015
+18,Atlanta Falcons,DST,15,ATL,JAX,3,2,2,1,0,0,0,0,17,5.00,2015
+19,Washington Redskins,DST,15,WAS,BUF,4,5,8,0,0,0,0,0,25,5.00,2015
+20,Los Angeles Rams,DST,15,LAR,TB,4,0,12,1,1,0,0,0,23,4.00,2015
+21,Miami Dolphins,DST,15,MIA,LAC,7,1,6,2,0,0,0,0,30,4.00,2015
+22,Baltimore Ravens,DST,15,BAL,KC,9,3,5,0,0,0,0,0,34,3.00,2015
+23,Jacksonville Jaguars,DST,15,JAX,ATL,8,1,4,1,0,0,0,0,23,3.00,2015
+24,New York Giants,DST,15,NYG,CAR,2,3,5,0,1,0,0,0,38,3.00,2015
+25,Carolina Panthers,DST,15,CAR,NYG,1,0,4,1,2,0,0,0,35,2.00,2015
+26,Tampa Bay Buccaneers,DST,15,TB,LAR,4,2,4,0,0,0,0,0,31,1.00,2015
+27,Cleveland Browns,DST,15,CLE,SEA,2,2,11,0,0,0,0,0,30,1.00,2015
+28,Philadelphia Eagles,DST,15,PHI,ARI,3,2,6,0,0,0,0,0,40,1.00,2015
+29,Detroit Lions,DST,15,DET,NO,2,1,3,0,0,0,0,0,27,1.00,2015
+30,New Orleans Saints,DST,15,NO,DET,4,3,3,0,1,0,0,0,35,1.00,2015
+31,Buffalo Bills,DST,15,BUF,WAS,3,1,2,0,1,0,0,0,35,-1.00,2015
+32,Chicago Bears,DST,15,CHI,MIN,6,1,4,0,0,0,0,0,38,-3.00,2015

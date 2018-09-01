@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Carolina Panthers,DST,1,CAR,JAX,8,5,7,2,1,0,1,0,9,21.00,2015
+2,Seattle Seahawks,DST,1,SEA,LAR,6,2,7,0,3,0,1,1,34,19.00,2015
+3,New York Jets,DST,1,NYJ,CLE,3,3,5,1,4,0,0,0,10,17.00,2015
+4,Baltimore Ravens,DST,1,BAL,DEN,7,4,5,1,0,0,1,0,19,16.00,2015
+5,Denver Broncos,DST,1,DEN,BAL,7,2,7,2,0,0,1,0,13,16.00,2015
+6,Miami Dolphins,DST,1,MIA,WAS,4,1,1,2,0,0,0,1,10,15.00,2015
+7,Tennessee Titans,DST,1,TEN,TB,7,4,6,2,0,0,1,0,14,15.00,2015
+8,Los Angeles Rams,DST,1,LAR,SEA,7,6,9,1,0,0,0,1,31,14.00,2015
+9,San Francisco 49ers,DST,1,SF,MIN,6,5,8,1,0,0,0,0,3,14.00,2015
+10,Detroit Lions,DST,1,DET,LAC,4,2,6,2,1,0,1,0,33,13.00,2015
+11,New York Giants,DST,1,NYG,DAL,1,0,1,2,1,0,1,0,27,12.00,2015
+12,Kansas City Chiefs,DST,1,KC,HOU,5,5,5,1,1,0,0,0,20,10.00,2015
+13,Cincinnati Bengals,DST,1,CIN,OAK,1,2,5,1,1,0,0,0,13,10.00,2015
+14,Buffalo Bills,DST,1,BUF,IND,0,2,6,2,1,0,0,0,14,9.00,2015
+15,Washington Redskins,DST,1,WAS,MIA,2,3,5,0,1,0,0,0,17,6.00,2015
+16,Minnesota Vikings,DST,1,MIN,SF,1,1,3,0,1,0,0,0,20,6.00,2015
+17,New England Patriots,DST,1,NE,PIT,6,3,5,1,0,0,0,0,21,5.00,2015
+18,Jacksonville Jaguars,DST,1,JAX,CAR,5,2,2,1,0,0,0,0,20,5.00,2015
+19,Arizona Cardinals,DST,1,ARI,NO,4,2,4,1,0,0,0,0,19,5.00,2015
+20,Los Angeles Chargers,DST,1,LAC,DET,4,1,3,2,0,0,0,0,28,5.00,2015
+21,Philadelphia Eagles,DST,1,PHI,ATL,5,1,3,2,0,0,0,0,26,5.00,2015
+22,Green Bay Packers,DST,1,GB,CHI,2,2,5,1,0,0,0,0,23,4.00,2015
+23,Dallas Cowboys,DST,1,DAL,NYG,4,1,4,0,1,0,0,0,26,4.00,2015
+24,Atlanta Falcons,DST,1,ATL,PHI,1,0,7,2,0,0,0,0,24,4.00,2015
+25,Houston Texans,DST,1,HOU,KC,7,2,3,0,0,0,0,0,27,2.00,2015
+26,Pittsburgh Steelers,DST,1,PIT,NE,3,2,3,0,0,0,0,0,28,1.00,2015
+27,Cleveland Browns,DST,1,CLE,NYJ,1,0,2,1,0,0,0,0,31,1.00,2015
+28,New Orleans Saints,DST,1,NO,ARI,4,0,1,0,1,0,0,0,31,1.00,2015
+29,Indianapolis Colts,DST,1,IND,BUF,8,0,0,0,0,0,0,0,27,0.00,2015
+30,Tampa Bay Buccaneers,DST,1,TB,TEN,3,2,2,0,1,0,0,0,42,0.00,2015
+31,Chicago Bears,DST,1,CHI,GB,2,0,0,0,0,0,0,0,31,-1.00,2015
+32,Oakland Raiders,DST,1,OAK,CIN,2,0,1,0,0,0,0,0,33,-1.00,2015

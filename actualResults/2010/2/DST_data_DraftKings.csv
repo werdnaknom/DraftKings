@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Pittsburgh Steelers,DST,2,PIT,TEN,6,4,2,3,4,0,0,1,11,28.00,2010
+2,Miami Dolphins,DST,2,MIA,MIN,5,3,5,3,1,0,1,0,10,21.00,2010
+3,Los Angeles Chargers,DST,2,LAC,JAX,5,2,4,4,2,0,0,0,13,18.00,2010
+4,Indianapolis Colts,DST,2,IND,NYG,3,4,7,1,2,0,1,0,14,17.00,2010
+5,Tampa Bay Buccaneers,DST,2,TB,CAR,9,4,5,2,1,0,0,0,7,14.00,2010
+6,Cincinnati Bengals,DST,2,CIN,BAL,3,1,8,4,0,0,0,0,10,13.00,2010
+7,Atlanta Falcons,DST,2,ATL,ARI,2,2,3,3,0,0,0,0,7,12.00,2010
+8,Green Bay Packers,DST,2,GB,BUF,6,4,10,2,0,0,0,0,7,12.00,2010
+9,Kansas City Chiefs,DST,2,KC,CLE,3,1,3,1,1,0,1,0,14,12.00,2010
+10,Denver Broncos,DST,2,DEN,SEA,2,1,3,3,1,0,0,0,14,10.00,2010
+11,Minnesota Vikings,DST,2,MIN,MIA,5,2,3,0,2,0,0,0,14,10.00,2010
+12,New Orleans Saints,DST,2,NO,SF,1,0,2,2,2,1,0,0,22,10.00,2010
+13,Cleveland Browns,DST,2,CLE,KC,2,1,4,2,0,0,0,0,16,9.00,2010
+14,New York Jets,DST,2,NYJ,NE,4,1,2,2,1,0,0,0,14,8.00,2010
+15,Chicago Bears,DST,2,CHI,DAL,4,0,5,2,1,0,0,0,20,7.00,2010
+16,Dallas Cowboys,DST,2,DAL,CHI,4,1,5,0,0,0,0,1,27,7.00,2010
+17,Los Angeles Rams,DST,2,LAR,OAK,3,2,2,2,0,0,0,0,16,7.00,2010
+18,Tennessee Titans,DST,2,TEN,PIT,11,4,7,0,1,0,0,0,19,7.00,2010
+19,Oakland Raiders,DST,2,OAK,LAR,5,3,6,1,0,0,0,0,14,6.00,2010
+20,Washington Redskins,DST,2,WAS,HOU,6,5,10,1,0,0,0,0,30,6.00,2010
+21,Philadelphia Eagles,DST,2,PHI,DET,7,2,6,2,0,0,0,0,32,5.00,2010
+22,Houston Texans,DST,2,HOU,WAS,4,3,4,0,0,0,0,0,27,5.00,2010
+23,Jacksonville Jaguars,DST,2,JAX,LAC,3,1,2,2,1,0,0,0,38,5.00,2010
+24,Baltimore Ravens,DST,2,BAL,CIN,2,1,7,0,0,0,0,0,15,2.00,2010
+25,New England Patriots,DST,2,NE,NYJ,3,3,4,0,0,0,0,0,28,2.00,2010
+26,New York Giants,DST,2,NYG,IND,4,1,3,0,1,0,0,0,38,2.00,2010
+27,San Francisco 49ers,DST,2,SF,NO,4,2,3,0,0,0,0,0,25,2.00,2010
+28,Carolina Panthers,DST,2,CAR,TB,6,0,3,0,0,0,0,0,20,1.00,2010
+29,Detroit Lions,DST,2,DET,PHI,8,5,13,0,0,0,0,0,35,1.00,2010
+30,Seattle Seahawks,DST,2,SEA,DEN,7,1,1,0,0,0,0,0,31,0.00,2010
+31,Arizona Cardinals,DST,2,ARI,ATL,2,1,1,0,1,0,0,0,41,-1.00,2010
+32,Buffalo Bills,DST,2,BUF,GB,3,0,2,0,0,0,0,0,34,-1.00,2010

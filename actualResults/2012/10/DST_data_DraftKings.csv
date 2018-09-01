@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Denver Broncos,DST,10,DEN,CAR,10,7,7,2,0,1,1,1,14,26.00,2012
+2,Dallas Cowboys,DST,10,DAL,PHI,5,2,5,1,1,0,2,1,23,24.00,2012
+3,Tennessee Titans,DST,10,TEN,MIA,4,2,2,3,1,0,1,0,3,23.00,2012
+4,Indianapolis Colts,DST,10,IND,JAX,4,4,7,2,1,0,1,0,10,20.00,2012
+5,Tampa Bay Buccaneers,DST,10,TB,LAC,8,2,5,2,0,0,1,1,24,20.00,2012
+6,Baltimore Ravens,DST,10,BAL,OAK,6,3,4,1,2,0,0,1,20,16.00,2012
+7,Cincinnati Bengals,DST,10,CIN,NYG,4,4,7,2,2,0,0,0,13,16.00,2012
+8,Seattle Seahawks,DST,10,SEA,NYJ,2,3,4,1,2,0,0,0,7,16.00,2012
+9,Houston Texans,DST,10,HOU,CHI,4,0,3,2,2,0,0,0,6,15.00,2012
+10,New York Jets,DST,10,NYJ,SEA,5,4,7,0,2,0,1,0,28,13.00,2012
+11,Chicago Bears,DST,10,CHI,HOU,8,1,3,2,0,0,0,0,13,9.00,2012
+12,New England Patriots,DST,10,NE,BUF,2,3,4,1,2,0,0,0,31,8.00,2012
+13,Pittsburgh Steelers,DST,10,PIT,KC,3,2,6,1,0,0,0,0,13,8.00,2012
+14,Jacksonville Jaguars,DST,10,JAX,IND,1,2,6,1,1,0,0,0,27,6.00,2012
+15,Minnesota Vikings,DST,10,MIN,DET,5,2,3,1,1,0,0,0,24,6.00,2012
+16,Los Angeles Rams,DST,10,LAR,SF,6,5,9,0,0,0,0,0,24,5.00,2012
+17,Carolina Panthers,DST,10,CAR,DEN,2,1,1,0,2,0,0,0,36,4.00,2012
+18,Kansas City Chiefs,DST,10,KC,PIT,4,1,3,0,1,0,0,0,16,4.00,2012
+19,San Francisco 49ers,DST,10,SF,LAR,6,2,6,0,1,0,0,0,24,4.00,2012
+20,New Orleans Saints,DST,10,NO,ATL,5,1,5,1,0,0,0,0,27,3.00,2012
+21,Philadelphia Eagles,DST,10,PHI,DAL,7,3,6,0,0,0,0,0,38,3.00,2012
+22,Atlanta Falcons,DST,10,ATL,NO,2,1,1,1,0,0,0,0,31,2.00,2012
+23,Detroit Lions,DST,10,DET,MIN,9,2,5,0,0,0,0,0,34,1.00,2012
+24,New York Giants,DST,10,NYG,CIN,4,0,1,0,1,0,0,0,31,1.00,2012
+25,Miami Dolphins,DST,10,MIA,TEN,4,1,1,0,0,0,0,0,37,0.00,2012
+26,Los Angeles Chargers,DST,10,LAC,TB,3,1,1,0,0,0,0,0,34,0.00,2012
+27,Oakland Raiders,DST,10,OAK,BAL,6,0,4,1,0,0,0,0,55,-2.00,2012
+28,Buffalo Bills,DST,10,BUF,NE,3,1,4,0,0,0,0,0,37,-3.00,2012

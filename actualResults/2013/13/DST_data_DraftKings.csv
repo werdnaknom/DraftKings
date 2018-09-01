@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Detroit Lions,DST,13,DET,GB,6,7,9,1,2,1,0,0,10,22.00,2013
+2,Miami Dolphins,DST,13,MIA,NYJ,3,4,7,2,1,0,0,0,3,17.00,2013
+3,Carolina Panthers,DST,13,CAR,TB,6,5,5,1,1,0,0,0,6,16.00,2013
+4,Seattle Seahawks,DST,13,SEA,NO,3,1,6,0,1,0,1,0,7,13.00,2013
+5,Cincinnati Bengals,DST,13,CIN,LAC,1,2,5,1,2,0,0,0,10,12.00,2013
+6,Green Bay Packers,DST,13,GB,DET,0,1,1,2,2,0,1,0,40,11.00,2013
+7,Philadelphia Eagles,DST,13,PHI,ARI,5,5,4,2,1,0,0,0,21,11.00,2013
+8,Indianapolis Colts,DST,13,IND,TEN,2,1,4,3,1,0,0,0,14,10.00,2013
+9,Jacksonville Jaguars,DST,13,JAX,CLE,4,3,6,2,1,1,0,0,28,10.00,2013
+10,Oakland Raiders,DST,13,OAK,DAL,5,2,2,0,1,0,1,0,31,9.00,2013
+11,San Francisco 49ers,DST,13,SF,LAR,5,3,7,1,0,0,0,0,13,9.00,2013
+12,New York Giants,DST,13,NYG,WAS,7,5,9,0,1,0,0,0,17,8.00,2013
+13,Buffalo Bills,DST,13,BUF,ATL,8,6,9,0,1,0,0,0,34,7.00,2013
+14,Chicago Bears,DST,13,CHI,MIN,5,5,8,1,0,0,0,0,23,7.00,2013
+15,Minnesota Vikings,DST,13,MIN,CHI,5,4,7,0,1,0,0,0,20,7.00,2013
+16,Tennessee Titans,DST,13,TEN,IND,8,5,7,1,0,0,0,0,22,7.00,2013
+17,Kansas City Chiefs,DST,13,KC,DEN,4,0,3,2,0,0,0,1,35,6.00,2013
+18,Los Angeles Rams,DST,13,LAR,SF,11,4,4,0,1,0,0,0,23,6.00,2013
+19,Arizona Cardinals,DST,13,ARI,PHI,9,5,7,0,0,0,0,0,24,5.00,2013
+20,Dallas Cowboys,DST,13,DAL,OAK,3,0,2,1,1,0,0,0,24,5.00,2013
+21,Los Angeles Chargers,DST,13,LAC,CIN,4,0,0,1,1,0,0,0,17,5.00,2013
+22,Washington Redskins,DST,13,WAS,NYG,4,3,6,1,0,0,0,0,24,5.00,2013
+23,Tampa Bay Buccaneers,DST,13,TB,CAR,1,0,0,2,0,0,0,0,27,4.00,2013
+24,Atlanta Falcons,DST,13,ATL,BUF,4,0,0,0,2,0,0,0,31,3.00,2013
+25,Cleveland Browns,DST,13,CLE,JAX,3,2,5,1,0,0,0,0,32,3.00,2013
+26,New York Jets,DST,13,NYJ,MIA,5,1,4,1,0,0,0,0,23,3.00,2013
+27,Houston Texans,DST,13,HOU,NE,2,1,5,1,0,0,0,0,34,2.00,2013
+28,New England Patriots,DST,13,NE,HOU,2,1,7,1,0,0,0,0,31,2.00,2013
+29,Pittsburgh Steelers,DST,13,PIT,BAL,2,2,4,0,0,0,0,0,22,2.00,2013
+30,Baltimore Ravens,DST,13,BAL,PIT,2,0,3,0,0,0,0,0,20,1.00,2013
+31,Denver Broncos,DST,13,DEN,KC,1,0,0,1,0,0,0,0,28,1.00,2013
+32,New Orleans Saints,DST,13,NO,SEA,6,1,4,0,0,0,0,0,34,0.00,2013

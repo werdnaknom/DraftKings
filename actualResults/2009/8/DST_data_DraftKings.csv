@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Chicago Bears,DST,8,CHI,CLE,1,1,3,2,3,0,1,0,6,26.00,2009
+2,Miami Dolphins,DST,8,MIA,NYJ,3,2,4,0,1,0,1,2,25,22.00,2009
+3,Carolina Panthers,DST,8,CAR,ARI,1,2,4,5,1,0,1,0,21,20.00,2009
+4,Atlanta Falcons,DST,8,ATL,NO,3,2,6,1,3,0,1,0,35,15.00,2009
+5,New Orleans Saints,DST,8,NO,ATL,3,3,7,3,0,0,1,0,27,15.00,2009
+6,Baltimore Ravens,DST,8,BAL,DEN,5,2,5,0,1,0,0,1,7,14.00,2009
+7,Dallas Cowboys,DST,8,DAL,SEA,4,3,6,0,2,0,0,1,17,14.00,2009
+8,Tennessee Titans,DST,8,TEN,JAX,5,4,8,2,0,0,0,0,13,14.00,2009
+9,Houston Texans,DST,8,HOU,BUF,5,2,5,2,0,0,0,0,10,10.00,2009
+10,Indianapolis Colts,DST,8,IND,SF,5,4,8,1,1,0,0,0,14,9.00,2009
+11,Philadelphia Eagles,DST,8,PHI,NYG,3,2,8,2,1,0,0,0,17,9.00,2009
+12,New York Jets,DST,8,NYJ,MIA,8,6,7,0,1,0,0,0,30,8.00,2009
+13,Los Angeles Chargers,DST,8,LAC,OAK,6,5,5,1,0,0,0,0,16,8.00,2009
+14,Los Angeles Rams,DST,8,LAR,DET,6,2,5,1,0,0,0,0,10,8.00,2009
+15,Buffalo Bills,DST,8,BUF,HOU,3,1,6,2,1,0,0,0,31,6.00,2009
+16,Cleveland Browns,DST,8,CLE,CHI,4,4,8,1,0,0,0,0,30,6.00,2009
+17,Minnesota Vikings,DST,8,MIN,GB,9,6,10,0,0,0,0,0,26,6.00,2009
+18,Detroit Lions,DST,8,DET,LAR,2,0,0,1,0,1,0,0,17,5.00,2009
+19,Oakland Raiders,DST,8,OAK,LAC,4,1,2,1,1,0,0,0,24,5.00,2009
+20,San Francisco 49ers,DST,8,SF,IND,4,3,5,0,0,0,0,0,18,4.00,2009
+21,New York Giants,DST,8,NYG,PHI,4,2,1,0,2,0,0,0,40,4.00,2009
+22,Denver Broncos,DST,8,DEN,BAL,10,2,3,0,0,0,0,0,30,1.00,2009
+23,Arizona Cardinals,DST,8,ARI,CAR,9,1,2,0,0,0,0,0,34,0.00,2009
+24,Green Bay Packers,DST,8,GB,MIN,5,0,4,0,2,0,0,0,38,0.00,2009
+25,Seattle Seahawks,DST,8,SEA,DAL,6,2,8,0,1,0,0,0,38,0.00,2009
+26,Jacksonville Jaguars,DST,8,JAX,TEN,5,0,0,0,0,0,0,0,30,-1.00,2009

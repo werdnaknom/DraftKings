@@ -1,0 +1,31 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Carolina Panthers,DST,7,CAR,LAR,9,4,3,1,2,0,1,0,15,20.00,2013
+2,Dallas Cowboys,DST,7,DAL,PHI,5,3,5,3,0,0,0,0,3,16.00,2013
+3,Los Angeles Chargers,DST,7,LAC,JAX,7,6,7,1,0,0,0,0,6,15.00,2013
+4,Buffalo Bills,DST,7,BUF,MIA,4,2,3,2,1,0,1,0,21,14.00,2013
+5,San Francisco 49ers,DST,7,SF,TEN,4,3,5,1,1,0,1,0,17,14.00,2013
+6,New England Patriots,DST,7,NE,NYJ,8,4,7,1,0,0,1,0,30,12.00,2013
+7,New York Jets,DST,7,NYJ,NE,5,4,3,1,0,0,1,0,27,12.00,2013
+8,Atlanta Falcons,DST,7,ATL,TB,4,3,5,0,1,0,1,0,23,11.00,2013
+9,Indianapolis Colts,DST,7,IND,DEN,1,4,10,1,2,1,0,0,33,11.00,2013
+10,New York Giants,DST,7,NYG,MIN,5,1,13,1,2,0,0,0,7,11.00,2013
+11,Seattle Seahawks,DST,7,SEA,ARI,9,7,13,2,0,0,0,0,22,11.00,2013
+12,Minnesota Vikings,DST,7,MIN,NYG,7,2,7,0,1,0,0,1,23,10.00,2013
+13,Green Bay Packers,DST,7,GB,CLE,4,3,8,1,0,0,0,0,13,9.00,2013
+14,Kansas City Chiefs,DST,7,KC,HOU,6,5,5,0,1,0,0,0,16,8.00,2013
+15,Houston Texans,DST,7,HOU,KC,3,2,6,1,1,0,0,0,17,7.00,2013
+16,Miami Dolphins,DST,7,MIA,BUF,9,4,6,1,0,0,0,0,23,7.00,2013
+17,Philadelphia Eagles,DST,7,PHI,DAL,3,2,3,2,0,0,0,0,17,7.00,2013
+18,Arizona Cardinals,DST,7,ARI,SEA,3,3,9,0,2,0,0,0,34,6.00,2013
+19,Baltimore Ravens,DST,7,BAL,PIT,3,3,4,0,1,0,0,0,19,6.00,2013
+20,Washington Redskins,DST,7,WAS,CHI,4,2,4,1,0,0,1,0,41,6.00,2013
+21,Chicago Bears,DST,7,CHI,WAS,8,1,3,1,0,0,0,1,45,5.00,2013
+22,Los Angeles Rams,DST,7,LAR,CAR,8,2,2,0,0,1,0,0,30,4.00,2013
+23,Pittsburgh Steelers,DST,7,PIT,BAL,3,1,2,0,0,0,0,0,16,2.00,2013
+24,Tampa Bay Buccaneers,DST,7,TB,ATL,6,0,2,0,1,0,0,0,31,2.00,2013
+25,Tennessee Titans,DST,7,TEN,SF,4,2,2,0,0,0,0,0,31,2.00,2013
+26,Cincinnati Bengals,DST,7,CIN,DET,3,0,7,0,0,0,0,0,24,2.00,2013
+27,Detroit Lions,DST,7,DET,CIN,5,1,3,0,0,0,0,0,27,1.00,2013
+28,Jacksonville Jaguars,DST,7,JAX,LAC,2,1,3,0,0,0,0,0,24,1.00,2013
+29,Cleveland Browns,DST,7,CLE,GB,2,1,5,0,0,0,0,0,31,0.00,2013
+30,Denver Broncos,DST,7,DEN,IND,8,2,8,0,1,0,0,0,39,0.00,2013

@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New England Patriots,DST,16,NE,NYJ,5,2,5,3,1,0,0,0,3,17.00,2016
+2,Philadelphia Eagles,DST,16,PHI,NYG,3,0,10,3,0,0,1,0,19,13.00,2016
+3,Washington Redskins,DST,16,WAS,CHI,3,1,2,5,0,0,0,0,21,13.00,2016
+4,Jacksonville Jaguars,DST,16,JAX,TEN,4,3,6,1,0,0,1,0,17,12.00,2016
+5,Los Angeles Chargers,DST,16,LAC,CLE,15,9,12,0,0,0,0,0,20,10.00,2016
+6,Kansas City Chiefs,DST,16,KC,DEN,4,0,5,1,2,0,0,0,10,10.00,2016
+7,Houston Texans,DST,16,HOU,CIN,8,3,3,1,0,0,0,0,10,9.00,2016
+8,Arizona Cardinals,DST,16,ARI,SEA,11,6,14,0,1,0,0,0,31,9.00,2016
+9,Green Bay Packers,DST,16,GB,MIN,5,4,8,0,2,0,0,0,25,8.00,2016
+10,San Francisco 49ers,DST,16,SF,LAR,8,4,9,2,0,0,0,0,21,8.00,2016
+11,Los Angeles Rams,DST,16,LAR,SF,6,4,7,1,1,0,0,0,22,8.00,2016
+12,Cincinnati Bengals,DST,16,CIN,HOU,6,4,10,0,0,0,0,0,12,8.00,2016
+13,Dallas Cowboys,DST,16,DAL,DET,5,4,10,1,1,0,0,0,21,8.00,2016
+14,Atlanta Falcons,DST,16,ATL,CAR,4,2,5,2,0,0,0,0,16,7.00,2016
+15,Oakland Raiders,DST,16,OAK,IND,1,0,6,2,1,0,0,0,25,6.00,2016
+16,New Orleans Saints,DST,16,NO,TB,4,2,4,2,0,0,0,0,24,6.00,2016
+17,Cleveland Browns,DST,16,CLE,LAC,4,0,5,1,0,0,0,0,17,5.00,2016
+18,Carolina Panthers,DST,16,CAR,ATL,8,4,9,0,0,0,0,0,33,5.00,2016
+19,Pittsburgh Steelers,DST,16,PIT,BAL,6,2,2,1,0,0,0,0,27,4.00,2016
+20,New York Giants,DST,16,NYG,PHI,7,0,3,1,0,0,0,0,24,3.00,2016
+21,Tennessee Titans,DST,16,TEN,JAX,6,2,2,0,1,0,0,0,38,3.00,2016
+22,Baltimore Ravens,DST,16,BAL,PIT,2,0,3,2,0,0,0,0,31,3.00,2016
+23,Seattle Seahawks,DST,16,SEA,ARI,6,1,7,0,1,0,0,0,34,2.00,2016
+24,Miami Dolphins,DST,16,MIA,BUF,13,2,6,0,0,0,0,0,31,1.00,2016
+25,Buffalo Bills,DST,16,BUF,MIA,2,0,2,1,0,0,0,0,34,1.00,2016
+26,Tampa Bay Buccaneers,DST,16,TB,NO,3,2,3,0,0,0,0,0,31,1.00,2016
+27,Denver Broncos,DST,16,DEN,KC,6,0,4,1,0,0,0,0,33,1.00,2016
+28,Minnesota Vikings,DST,16,MIN,GB,7,4,10,0,0,0,0,0,38,0.00,2016
+29,Indianapolis Colts,DST,16,IND,OAK,4,1,1,0,0,0,0,0,33,0.00,2016
+30,New York Jets,DST,16,NYJ,NE,3,1,2,0,0,0,0,0,41,-3.00,2016
+31,Detroit Lions,DST,16,DET,DAL,4,1,1,0,0,0,0,0,42,-3.00,2016
+32,Chicago Bears,DST,16,CHI,WAS,3,0,3,0,0,0,0,0,41,-4.00,2016

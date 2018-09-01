@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Seattle Seahawks,DST,15,SEA,NYG,6,4,6,5,0,0,0,0,0,24.00,2013
+2,Cleveland Browns,DST,15,CLE,CHI,8,2,8,2,1,0,2,0,38,19.00,2013
+3,Kansas City Chiefs,DST,15,KC,OAK,0,0,0,5,2,0,1,0,31,19.00,2013
+4,Indianapolis Colts,DST,15,IND,HOU,4,4,8,2,0,1,0,0,3,17.00,2013
+5,Atlanta Falcons,DST,15,ATL,WAS,1,1,3,2,5,0,0,0,26,15.00,2013
+6,San Francisco 49ers,DST,15,SF,TB,5,4,6,1,1,0,1,0,14,15.00,2013
+7,Carolina Panthers,DST,15,CAR,NYJ,6,4,8,1,0,0,1,0,20,15.00,2013
+8,Arizona Cardinals,DST,15,ARI,TEN,5,3,7,2,1,0,1,0,34,14.00,2013
+9,Los Angeles Rams,DST,15,LAR,NO,5,4,7,2,1,0,0,0,16,13.00,2013
+10,Buffalo Bills,DST,15,BUF,JAX,8,5,8,2,1,0,0,0,20,12.00,2013
+11,Chicago Bears,DST,15,CHI,CLE,2,0,4,2,0,0,1,0,31,11.00,2013
+12,Pittsburgh Steelers,DST,15,PIT,CIN,3,1,4,0,1,0,0,1,20,10.00,2013
+13,Baltimore Ravens,DST,15,BAL,DET,3,1,5,3,0,0,0,0,16,8.00,2013
+14,Jacksonville Jaguars,DST,15,JAX,BUF,4,4,5,1,1,0,0,0,27,8.00,2013
+15,Washington Redskins,DST,15,WAS,ATL,3,3,5,1,1,0,0,0,27,7.00,2013
+16,New England Patriots,DST,15,NE,MIA,5,4,5,0,1,0,0,0,24,6.00,2013
+17,New York Giants,DST,15,NYG,SEA,8,4,7,1,0,0,0,0,23,6.00,2013
+18,Minnesota Vikings,DST,15,MIN,PHI,5,4,10,1,0,0,0,0,30,5.00,2013
+19,Miami Dolphins,DST,15,MIA,NE,2,1,7,1,0,0,0,0,20,4.00,2013
+20,Los Angeles Chargers,DST,15,LAC,DEN,4,1,2,1,0,0,0,0,20,4.00,2013
+21,Green Bay Packers,DST,15,GB,DAL,3,3,4,2,0,0,0,0,36,3.00,2013
+22,Houston Texans,DST,15,HOU,IND,4,1,4,1,0,0,0,0,25,3.00,2013
+23,Cincinnati Bengals,DST,15,CIN,PIT,4,1,2,1,0,0,0,0,30,2.00,2013
+24,Denver Broncos,DST,15,DEN,LAC,4,2,2,0,0,0,0,0,27,2.00,2013
+25,Detroit Lions,DST,15,DET,BAL,5,1,6,0,0,0,0,0,18,2.00,2013
+26,New York Jets,DST,15,NYJ,CAR,6,2,2,0,0,0,0,0,30,2.00,2013
+27,Tampa Bay Buccaneers,DST,15,TB,SF,5,2,3,0,0,0,0,0,33,2.00,2013
+28,Philadelphia Eagles,DST,15,PHI,MIN,9,3,5,1,0,0,0,0,48,1.00,2013
+29,Tennessee Titans,DST,15,TEN,ARI,5,2,5,0,0,0,0,0,37,1.00,2013
+30,Dallas Cowboys,DST,15,DAL,GB,7,2,4,1,0,0,0,0,37,0.00,2013
+31,New Orleans Saints,DST,15,NO,LAR,4,0,1,0,0,0,0,0,27,0.00,2013
+32,Oakland Raiders,DST,15,OAK,KC,3,2,1,0,1,0,0,0,56,0.00,2013

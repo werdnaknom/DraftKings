@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Cleveland Browns,DST,2,CLE,TEN,5,7,13,0,5,0,0,1,14,24.00,2015
+2,Denver Broncos,DST,2,DEN,KC,4,5,7,2,3,0,1,0,24,22.00,2015
+3,Arizona Cardinals,DST,2,ARI,CHI,5,2,5,2,0,0,1,1,23,18.00,2015
+4,Dallas Cowboys,DST,2,DAL,PHI,7,1,1,2,1,0,0,1,10,17.00,2015
+5,Cincinnati Bengals,DST,2,CIN,LAC,3,4,7,1,2,0,0,0,19,14.00,2015
+6,New York Jets,DST,2,NYJ,IND,2,0,11,3,2,0,0,0,7,14.00,2015
+7,New England Patriots,DST,2,NE,BUF,6,8,8,3,0,0,0,0,32,13.00,2015
+8,Tampa Bay Buccaneers,DST,2,TB,NO,4,4,4,1,2,0,0,0,19,13.00,2015
+9,Los Angeles Chargers,DST,2,LAC,CIN,3,0,2,0,3,0,1,0,24,12.00,2015
+10,Kansas City Chiefs,DST,2,KC,DEN,3,3,7,1,0,0,1,0,31,11.00,2015
+11,Washington Redskins,DST,2,WAS,LAR,1,1,4,0,2,0,0,0,10,9.00,2015
+12,Houston Texans,DST,2,HOU,CAR,2,2,5,1,2,0,0,0,24,8.00,2015
+13,Minnesota Vikings,DST,2,MIN,DET,3,1,8,1,2,0,0,0,16,8.00,2015
+14,Pittsburgh Steelers,DST,2,PIT,SF,9,5,9,0,1,0,0,0,18,8.00,2015
+15,Philadelphia Eagles,DST,2,PHI,DAL,5,3,4,0,2,0,0,0,20,8.00,2015
+16,New Orleans Saints,DST,2,NO,TB,4,3,5,0,2,0,0,0,26,7.00,2015
+17,Green Bay Packers,DST,2,GB,SEA,7,2,2,1,1,0,0,0,17,7.00,2015
+18,Atlanta Falcons,DST,2,ATL,NYG,5,2,4,0,1,0,0,0,20,5.00,2015
+19,Carolina Panthers,DST,2,CAR,HOU,1,1,5,1,0,0,0,0,17,4.00,2015
+20,Los Angeles Rams,DST,2,LAR,WAS,7,2,1,0,1,0,0,0,24,4.00,2015
+21,Miami Dolphins,DST,2,MIA,JAX,5,0,3,0,2,0,0,0,23,4.00,2015
+22,Seattle Seahawks,DST,2,SEA,GB,2,2,5,0,1,0,0,0,27,4.00,2015
+23,Indianapolis Colts,DST,2,IND,NYJ,3,1,2,1,0,0,0,0,20,4.00,2015
+24,Detroit Lions,DST,2,DET,MIN,5,1,2,0,1,0,0,0,26,3.00,2015
+25,Jacksonville Jaguars,DST,2,JAX,MIA,2,2,8,0,0,0,0,0,20,3.00,2015
+26,Oakland Raiders,DST,2,OAK,BAL,2,0,1,1,1,0,0,0,33,3.00,2015
+27,Buffalo Bills,DST,2,BUF,NE,0,2,3,0,2,0,0,0,40,2.00,2015
+28,New York Giants,DST,2,NYG,ATL,1,2,10,0,0,0,0,0,24,2.00,2015
+29,Tennessee Titans,DST,2,TEN,CLE,4,2,4,0,0,0,0,0,28,1.00,2015
+30,Chicago Bears,DST,2,CHI,ARI,1,0,6,1,1,0,0,0,48,0.00,2015
+31,Baltimore Ravens,DST,2,BAL,OAK,0,1,6,1,0,0,0,0,37,-1.00,2015
+32,San Francisco 49ers,DST,2,SF,PIT,1,0,0,0,0,0,0,0,43,-4.00,2015

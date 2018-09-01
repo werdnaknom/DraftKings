@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,San Francisco 49ers,DST,4,SF,LAR,7,5,9,1,2,0,3,0,0,39.00,2009
+2,New Orleans Saints,DST,4,NO,NYJ,2,4,7,3,1,0,2,0,10,28.00,2009
+3,Houston Texans,DST,4,HOU,OAK,6,3,12,0,3,1,0,1,6,24.00,2009
+4,Miami Dolphins,DST,4,MIA,BUF,8,6,7,3,0,0,1,0,10,22.00,2009
+5,Chicago Bears,DST,4,CHI,DET,7,5,9,1,1,0,0,1,24,15.00,2009
+6,Minnesota Vikings,DST,4,MIN,GB,9,8,10,1,1,1,0,0,23,15.00,2009
+7,Tampa Bay Buccaneers,DST,4,TB,WAS,6,3,4,3,1,0,0,0,16,14.00,2009
+8,Cincinnati Bengals,DST,4,CIN,CLE,3,2,6,1,1,0,1,0,20,13.00,2009
+9,Denver Broncos,DST,4,DEN,DAL,8,5,8,1,1,0,0,0,10,13.00,2009
+10,Baltimore Ravens,DST,4,BAL,NE,7,3,5,0,1,0,1,0,27,11.00,2009
+11,Washington Redskins,DST,4,WAS,TB,5,3,5,1,1,0,0,0,13,11.00,2009
+12,Cleveland Browns,DST,4,CLE,CIN,3,2,9,1,1,0,0,0,23,11.00,2009
+13,Indianapolis Colts,DST,4,IND,SEA,5,5,7,0,2,0,0,0,17,10.00,2009
+14,New York Giants,DST,4,NYG,KC,10,5,10,0,1,0,0,0,16,8.00,2009
+15,Oakland Raiders,DST,4,OAK,HOU,9,4,8,1,1,0,0,0,29,8.00,2009
+16,Green Bay Packers,DST,4,GB,MIN,4,0,1,0,1,0,1,0,30,7.00,2009
+17,Jacksonville Jaguars,DST,4,JAX,TEN,1,0,3,2,1,0,0,0,17,7.00,2009
+18,New England Patriots,DST,4,NE,BAL,3,2,10,1,1,0,0,0,21,7.00,2009
+19,Los Angeles Chargers,DST,4,LAC,PIT,5,3,3,0,1,0,1,0,38,7.00,2009
+20,Dallas Cowboys,DST,4,DAL,DEN,4,3,5,0,1,0,0,0,17,6.00,2009
+21,Kansas City Chiefs,DST,4,KC,NYG,4,2,3,1,1,0,0,0,27,6.00,2009
+22,New York Jets,DST,4,NYJ,NO,3,0,1,0,1,0,0,0,24,6.00,2009
+23,Buffalo Bills,DST,4,BUF,MIA,7,6,3,0,0,0,0,0,38,5.00,2009
+24,Pittsburgh Steelers,DST,4,PIT,LAC,4,3,3,0,1,0,0,0,28,5.00,2009
+25,Los Angeles Rams,DST,4,LAR,SF,6,4,7,0,0,0,0,0,35,5.00,2009
+26,Seattle Seahawks,DST,4,SEA,IND,0,0,3,1,0,0,0,0,34,1.00,2009
+27,Tennessee Titans,DST,4,TEN,JAX,4,2,6,0,1,0,0,0,37,0.00,2009
+28,Detroit Lions,DST,4,DET,CHI,3,2,2,0,0,0,0,0,48,-2.00,2009

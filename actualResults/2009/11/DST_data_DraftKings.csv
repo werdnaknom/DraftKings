@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New England Patriots,DST,11,NE,NYJ,3,2,3,4,1,0,1,0,14,19.00,2009
+2,Los Angeles Chargers,DST,11,LAC,DEN,3,3,4,1,2,0,0,0,3,16.00,2009
+3,New Orleans Saints,DST,11,NO,TB,2,3,7,3,1,0,0,0,7,15.00,2009
+4,Kansas City Chiefs,DST,11,KC,PIT,3,2,5,2,1,0,0,1,24,14.00,2009
+5,Oakland Raiders,DST,11,OAK,CIN,11,3,3,1,3,0,0,0,17,12.00,2009
+6,New York Jets,DST,11,NYJ,NE,4,2,5,0,1,0,0,1,31,12.00,2009
+7,Dallas Cowboys,DST,11,DAL,WAS,3,1,7,1,0,0,0,0,6,10.00,2009
+8,Minnesota Vikings,DST,11,MIN,SEA,8,2,5,1,1,0,0,0,9,10.00,2009
+9,Arizona Cardinals,DST,11,ARI,LAR,4,3,4,1,0,0,0,0,13,9.00,2009
+10,Chicago Bears,DST,11,CHI,PHI,2,3,9,1,2,0,0,0,24,9.00,2009
+11,Jacksonville Jaguars,DST,11,JAX,BUF,4,2,5,2,1,0,0,0,15,9.00,2009
+12,Washington Redskins,DST,11,WAS,DAL,2,1,2,1,1,0,0,0,7,9.00,2009
+13,Baltimore Ravens,DST,11,BAL,IND,3,0,1,2,1,0,0,0,17,7.00,2009
+14,Buffalo Bills,DST,11,BUF,JAX,5,2,7,1,1,0,0,0,18,7.00,2009
+15,Cincinnati Bengals,DST,11,CIN,OAK,1,0,1,1,2,0,0,0,20,7.00,2009
+16,Miami Dolphins,DST,11,MIA,CAR,6,4,8,1,0,0,0,0,17,7.00,2009
+17,Pittsburgh Steelers,DST,11,PIT,KC,5,5,7,0,1,0,0,0,27,7.00,2009
+18,Los Angeles Rams,DST,11,LAR,ARI,4,2,8,0,2,0,0,0,21,6.00,2009
+19,Philadelphia Eagles,DST,11,PHI,CHI,7,1,2,1,0,0,0,0,20,6.00,2009
+20,Green Bay Packers,DST,11,GB,SF,4,3,10,1,0,0,0,0,24,5.00,2009
+21,Indianapolis Colts,DST,11,IND,BAL,5,0,0,1,1,0,0,0,15,5.00,2009
+22,Tennessee Titans,DST,11,TEN,HOU,5,4,9,0,0,0,0,0,17,5.00,2009
+23,Cleveland Browns,DST,11,CLE,DET,2,2,5,2,0,1,0,0,38,4.00,2009
+24,Houston Texans,DST,11,HOU,TEN,3,0,2,0,1,0,0,0,20,3.00,2009
+25,New York Giants,DST,11,NYG,ATL,5,2,8,0,1,0,0,0,31,3.00,2009
+26,Atlanta Falcons,DST,11,ATL,NYG,6,1,2,1,0,0,0,0,34,2.00,2009
+27,San Francisco 49ers,DST,11,SF,GB,5,2,4,0,0,0,0,0,30,1.00,2009
+28,Denver Broncos,DST,11,DEN,LAC,4,0,0,0,0,0,0,0,32,1.00,2009
+29,Carolina Panthers,DST,11,CAR,MIA,4,0,5,0,0,0,0,0,24,0.00,2009
+30,Seattle Seahawks,DST,11,SEA,MIN,5,2,6,0,0,0,0,0,35,-2.00,2009
+31,Detroit Lions,DST,11,DET,CLE,4,1,4,0,0,0,0,0,37,-3.00,2009
+32,Tampa Bay Buccaneers,DST,11,TB,NO,2,0,5,0,0,0,0,0,38,-4.00,2009

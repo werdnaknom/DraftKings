@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Minnesota Vikings,DST,1,MIN,TEN,6,2,4,1,2,0,2,0,16,21.00,2016
+2,San Francisco 49ers,DST,1,SF,LAR,4,2,5,2,0,0,0,0,0,16.00,2016
+3,Miami Dolphins,DST,1,MIA,SEA,3,3,9,1,1,0,0,0,12,13.00,2016
+4,Philadelphia Eagles,DST,1,PHI,CLE,5,3,5,1,0,1,0,0,10,11.00,2016
+5,Seattle Seahawks,DST,1,SEA,MIA,5,5,9,0,0,0,0,0,10,11.00,2016
+6,Buffalo Bills,DST,1,BUF,BAL,6,4,9,0,1,0,0,0,13,10.00,2016
+7,New York Jets,DST,1,NYJ,CIN,9,7,10,1,0,0,0,0,23,9.00,2016
+8,Carolina Panthers,DST,1,CAR,DEN,5,2,3,2,1,0,0,0,21,8.00,2016
+9,Houston Texans,DST,1,HOU,CHI,8,5,12,1,0,0,0,0,14,8.00,2016
+10,Denver Broncos,DST,1,DEN,CAR,2,3,8,1,0,0,0,0,20,6.00,2016
+11,Baltimore Ravens,DST,1,BAL,BUF,8,2,6,0,0,0,0,0,7,6.00,2016
+12,Arizona Cardinals,DST,1,ARI,NE,6,2,4,0,2,0,0,0,23,6.00,2016
+13,Green Bay Packers,DST,1,GB,JAX,10,3,4,1,0,0,0,0,23,5.00,2016
+14,Dallas Cowboys,DST,1,DAL,NYG,4,2,2,1,0,0,0,0,20,5.00,2016
+15,Pittsburgh Steelers,DST,1,PIT,WAS,2,0,2,2,0,0,0,0,16,5.00,2016
+16,Cincinnati Bengals,DST,1,CIN,NYJ,6,1,3,1,0,0,0,0,22,5.00,2016
+17,Chicago Bears,DST,1,CHI,HOU,3,2,8,1,0,0,0,0,23,4.00,2016
+18,Tennessee Titans,DST,1,TEN,MIN,6,0,4,0,0,0,0,0,25,4.00,2016
+19,Los Angeles Chargers,DST,1,LAC,KC,8,3,6,1,0,0,0,0,33,4.00,2016
+20,Tampa Bay Buccaneers,DST,1,TB,ATL,8,3,4,0,0,0,0,0,24,3.00,2016
+21,New England Patriots,DST,1,NE,ARI,6,3,5,0,0,0,0,0,21,3.00,2016
+22,Cleveland Browns,DST,1,CLE,PHI,3,2,9,0,0,0,0,0,29,2.00,2016
+23,Oakland Raiders,DST,1,OAK,NO,1,1,4,0,1,0,0,0,34,2.00,2016
+24,Jacksonville Jaguars,DST,1,JAX,GB,3,1,3,0,0,0,0,0,27,1.00,2016
+25,Atlanta Falcons,DST,1,ATL,TB,2,0,6,1,0,0,0,0,31,1.00,2016
+26,Kansas City Chiefs,DST,1,KC,LAC,3,1,3,0,0,0,0,0,27,1.00,2016
+27,New York Giants,DST,1,NYG,DAL,2,0,3,0,0,0,0,0,19,1.00,2016
+28,Los Angeles Rams,DST,1,LAR,SF,8,0,1,0,1,0,0,0,28,1.00,2016
+29,Detroit Lions,DST,1,DET,IND,3,2,5,0,0,1,0,0,35,0.00,2016
+30,Washington Redskins,DST,1,WAS,PIT,3,1,5,1,0,0,0,0,38,-1.00,2016
+31,Indianapolis Colts,DST,1,IND,DET,3,1,6,0,0,0,0,0,39,-3.00,2016
+32,New Orleans Saints,DST,1,NO,OAK,4,0,3,0,0,0,0,0,35,-4.00,2016

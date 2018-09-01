@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Chicago Bears,DST,10,CHI,DET,2,2,4,4,2,0,2,1,13,36.00,2011
+2,Tennessee Titans,DST,10,TEN,CAR,8,5,8,1,1,0,0,1,3,22.00,2011
+3,Dallas Cowboys,DST,10,DAL,BUF,3,1,4,3,1,0,1,0,7,19.00,2011
+4,Jacksonville Jaguars,DST,10,JAX,IND,6,5,8,2,1,0,0,0,3,18.00,2011
+5,New England Patriots,DST,10,NE,NYJ,5,5,9,2,1,0,1,0,16,18.00,2011
+6,Houston Texans,DST,10,HOU,TB,6,4,5,3,1,0,0,0,9,16.00,2011
+7,Green Bay Packers,DST,10,GB,MIN,5,3,6,1,0,0,0,1,7,15.00,2011
+8,Philadelphia Eagles,DST,10,PHI,ARI,9,4,5,2,0,0,1,0,21,14.00,2011
+9,Miami Dolphins,DST,10,MIA,WAS,6,3,6,2,0,0,0,0,9,11.00,2011
+10,Oakland Raiders,DST,10,OAK,LAC,7,6,6,1,1,0,0,0,17,11.00,2011
+11,Arizona Cardinals,DST,10,ARI,PHI,5,2,2,2,0,0,0,0,17,10.00,2011
+12,Cleveland Browns,DST,10,CLE,LAR,2,1,3,1,1,0,0,0,13,9.00,2011
+13,Denver Broncos,DST,10,DEN,KC,4,4,12,0,0,0,0,0,10,8.00,2011
+14,Seattle Seahawks,DST,10,SEA,BAL,1,1,4,1,2,0,0,0,17,8.00,2011
+15,Los Angeles Rams,DST,10,LAR,CLE,3,2,3,0,1,0,0,0,12,8.00,2011
+16,Cincinnati Bengals,DST,10,CIN,PIT,5,5,13,1,0,0,0,0,24,7.00,2011
+17,Washington Redskins,DST,10,WAS,MIA,7,2,3,1,1,0,0,0,20,7.00,2011
+18,San Francisco 49ers,DST,10,SF,NYG,3,1,3,2,0,0,0,0,20,6.00,2011
+19,Indianapolis Colts,DST,10,IND,JAX,5,2,4,1,0,0,0,0,17,5.00,2011
+20,Pittsburgh Steelers,DST,10,PIT,CIN,3,0,2,2,0,0,0,0,17,5.00,2011
+21,Los Angeles Chargers,DST,10,LAC,OAK,4,1,2,1,1,0,0,0,24,5.00,2011
+22,Detroit Lions,DST,10,DET,CHI,7,2,3,0,1,0,0,0,37,4.00,2011
+23,New York Giants,DST,10,NYG,SF,5,2,4,1,0,0,0,0,27,4.00,2011
+24,New Orleans Saints,DST,10,NO,ATL,3,1,2,1,0,0,0,0,23,3.00,2011
+25,Carolina Panthers,DST,10,CAR,TEN,2,1,3,1,0,0,0,0,30,2.00,2011
+26,Baltimore Ravens,DST,10,BAL,SEA,4,1,6,0,0,0,0,0,22,1.00,2011
+27,Kansas City Chiefs,DST,10,KC,DEN,4,0,0,0,0,0,0,0,17,1.00,2011
+28,Minnesota Vikings,DST,10,MIN,GB,6,3,3,0,1,0,0,0,45,1.00,2011
+29,New York Jets,DST,10,NYJ,NE,5,0,1,0,0,1,0,0,37,1.00,2011
+30,Atlanta Falcons,DST,10,ATL,NO,5,0,2,0,0,0,0,0,26,0.00,2011
+31,Tampa Bay Buccaneers,DST,10,TB,HOU,6,1,2,0,0,0,0,0,37,-1.00,2011
+32,Buffalo Bills,DST,10,BUF,DAL,5,0,1,0,0,0,0,0,44,-4.00,2011

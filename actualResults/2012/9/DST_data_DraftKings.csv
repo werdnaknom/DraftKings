@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Chicago Bears,DST,9,CHI,TEN,2,2,3,1,4,0,1,1,20,27.00,2012
+2,Los Angeles Chargers,DST,9,LAC,KC,4,1,0,1,3,0,2,0,13,25.00,2012
+3,New Orleans Saints,DST,9,NO,PHI,8,7,12,1,1,0,1,0,13,21.00,2012
+4,New York Giants,DST,9,NYG,PIT,6,4,4,1,1,0,1,0,24,14.00,2012
+5,Denver Broncos,DST,9,DEN,CIN,7,5,6,1,0,0,0,1,23,13.00,2012
+6,Houston Texans,DST,9,HOU,BUF,6,4,10,0,1,0,0,0,9,10.00,2012
+7,Seattle Seahawks,DST,9,SEA,MIN,4,4,7,1,1,0,0,0,20,9.00,2012
+8,Carolina Panthers,DST,9,CAR,WAS,4,4,9,0,0,0,0,0,13,8.00,2012
+9,Green Bay Packers,DST,9,GB,ARI,5,2,7,1,1,0,0,0,17,7.00,2012
+10,Tampa Bay Buccaneers,DST,9,TB,OAK,6,2,2,3,0,0,0,0,32,7.00,2012
+11,Baltimore Ravens,DST,9,BAL,CLE,1,1,6,2,0,0,0,0,15,6.00,2012
+12,Detroit Lions,DST,9,DET,JAX,1,1,2,2,0,0,0,0,14,6.00,2012
+13,Kansas City Chiefs,DST,9,KC,LAC,3,1,1,1,1,0,0,0,31,6.00,2012
+14,Philadelphia Eagles,DST,9,PHI,NO,2,2,1,0,2,0,0,0,28,6.00,2012
+15,Atlanta Falcons,DST,9,ATL,DAL,2,1,1,0,0,0,0,0,13,5.00,2012
+16,Pittsburgh Steelers,DST,9,PIT,NYG,4,2,5,1,0,0,0,0,20,5.00,2012
+17,Dallas Cowboys,DST,9,DAL,ATL,6,3,6,0,0,0,0,0,19,4.00,2012
+18,Buffalo Bills,DST,9,BUF,HOU,6,2,3,0,0,0,0,0,21,4.00,2012
+19,Cincinnati Bengals,DST,9,CIN,DEN,1,0,0,2,0,0,0,0,31,3.00,2012
+20,Indianapolis Colts,DST,9,IND,MIA,2,2,6,0,0,0,0,0,20,3.00,2012
+21,Tennessee Titans,DST,9,TEN,CHI,5,3,5,0,1,1,0,0,51,3.00,2012
+22,Miami Dolphins,DST,9,MIA,IND,4,1,6,0,0,0,0,0,23,3.00,2012
+23,Arizona Cardinals,DST,9,ARI,GB,1,1,4,1,0,0,0,0,31,2.00,2012
+24,Minnesota Vikings,DST,9,MIN,SEA,4,1,4,0,0,0,0,0,30,2.00,2012
+25,Washington Redskins,DST,9,WAS,CAR,2,0,2,0,0,0,0,0,21,2.00,2012
+26,Cleveland Browns,DST,9,CLE,BAL,2,1,1,0,0,0,0,0,25,1.00,2012
+27,Oakland Raiders,DST,9,OAK,TB,6,1,2,0,1,0,0,0,42,1.00,2012
+28,Jacksonville Jaguars,DST,9,JAX,DET,0,1,3,0,0,0,0,0,31,0.00,2012

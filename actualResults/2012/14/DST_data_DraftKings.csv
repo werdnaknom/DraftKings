@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Seattle Seahawks,DST,14,SEA,ARI,4,3,6,4,4,0,2,0,0,41.00,2012
+2,Cleveland Browns,DST,14,CLE,KC,6,5,9,1,0,0,0,1,7,17.00,2012
+3,New York Giants,DST,14,NYG,NO,2,1,1,2,2,0,0,1,27,15.00,2012
+4,Tennessee Titans,DST,14,TEN,IND,10,4,9,2,0,0,1,0,27,14.00,2012
+5,Minnesota Vikings,DST,14,MIN,CHI,3,2,4,2,0,0,1,0,14,13.00,2012
+6,Los Angeles Rams,DST,14,LAR,BUF,8,5,11,1,1,0,0,0,12,13.00,2012
+7,Green Bay Packers,DST,14,GB,DET,0,1,2,1,1,0,1,0,20,12.00,2012
+8,Indianapolis Colts,DST,14,IND,TEN,3,1,4,2,0,0,1,0,23,12.00,2012
+9,Los Angeles Chargers,DST,14,LAC,PIT,2,2,4,1,1,0,1,0,24,12.00,2012
+10,New York Jets,DST,14,NYJ,JAX,4,3,10,2,0,0,0,0,10,11.00,2012
+11,Denver Broncos,DST,14,DEN,OAK,2,1,0,1,1,0,0,0,13,9.00,2012
+12,Dallas Cowboys,DST,14,DAL,CIN,3,5,4,1,0,0,0,0,19,8.00,2012
+13,San Francisco 49ers,DST,14,SF,MIA,3,2,4,0,1,0,0,0,13,8.00,2012
+14,Tampa Bay Buccaneers,DST,14,TB,PHI,10,6,13,0,1,0,0,0,23,8.00,2012
+15,Cincinnati Bengals,DST,14,CIN,DAL,5,3,9,1,0,0,0,0,20,6.00,2012
+16,Jacksonville Jaguars,DST,14,JAX,NYJ,2,1,1,0,2,0,0,0,17,6.00,2012
+17,New Orleans Saints,DST,14,NO,NYG,2,0,2,2,0,0,1,0,52,6.00,2012
+18,Carolina Panthers,DST,14,CAR,ATL,2,2,6,1,0,0,0,0,20,5.00,2012
+19,Detroit Lions,DST,14,DET,GB,5,3,5,0,1,0,0,0,27,5.00,2012
+20,New England Patriots,DST,14,NE,HOU,8,2,7,1,0,0,0,0,14,5.00,2012
+21,Oakland Raiders,DST,14,OAK,DEN,6,3,4,1,0,0,0,0,26,5.00,2012
+22,Washington Redskins,DST,14,WAS,BAL,3,2,3,1,1,0,0,0,28,5.00,2012
+23,Baltimore Ravens,DST,14,BAL,WAS,3,3,8,0,1,0,0,0,31,4.00,2012
+24,Buffalo Bills,DST,14,BUF,LAR,3,1,4,1,0,0,0,0,15,4.00,2012
+25,Chicago Bears,DST,14,CHI,MIN,7,1,1,1,0,0,0,0,21,4.00,2012
+26,Miami Dolphins,DST,14,MIA,SF,9,4,6,0,0,0,0,0,27,4.00,2012
+27,Kansas City Chiefs,DST,14,KC,CLE,7,3,4,0,0,0,0,0,30,2.00,2012
+28,Philadelphia Eagles,DST,14,PHI,TB,6,2,5,0,0,0,0,0,21,2.00,2012
+29,Atlanta Falcons,DST,14,ATL,CAR,3,1,3,0,0,0,0,0,30,0.00,2012
+30,Pittsburgh Steelers,DST,14,PIT,LAC,2,1,4,0,0,0,0,0,34,0.00,2012
+31,Arizona Cardinals,DST,14,ARI,SEA,3,1,3,1,0,0,0,0,58,-1.00,2012
+32,Houston Texans,DST,14,HOU,NE,3,1,6,1,0,0,0,0,42,-1.00,2012

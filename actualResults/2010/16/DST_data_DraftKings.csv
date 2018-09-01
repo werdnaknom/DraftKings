@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,16,ARI,DAL,8,5,6,2,1,0,2,0,26,23.00,2010
+2,New England Patriots,DST,16,NE,BUF,2,2,3,3,4,0,0,0,3,23.00,2010
+3,Minnesota Vikings,DST,16,MIN,PHI,7,6,7,1,2,0,1,0,14,19.00,2010
+4,Pittsburgh Steelers,DST,16,PIT,CAR,5,4,5,1,1,0,0,0,3,15.00,2010
+5,Detroit Lions,DST,16,DET,MIA,5,2,2,2,1,0,1,0,27,14.00,2010
+6,Green Bay Packers,DST,16,GB,NYG,2,1,4,4,2,0,0,0,17,14.00,2010
+7,Kansas City Chiefs,DST,16,KC,TEN,6,3,3,2,0,0,1,0,14,14.00,2010
+8,Atlanta Falcons,DST,16,ATL,NO,3,1,3,2,0,0,1,0,17,12.00,2010
+9,Baltimore Ravens,DST,16,BAL,CLE,0,0,0,3,1,0,0,0,10,12.00,2010
+10,Los Angeles Rams,DST,16,LAR,SF,7,4,5,1,1,1,0,0,17,11.00,2010
+11,New Orleans Saints,DST,16,NO,ATL,5,1,2,0,2,0,0,0,14,9.00,2010
+12,Oakland Raiders,DST,16,OAK,IND,3,0,0,2,0,0,0,1,31,9.00,2010
+13,San Francisco 49ers,DST,16,SF,LAR,6,1,1,0,1,0,0,1,25,9.00,2010
+14,Washington Redskins,DST,16,WAS,JAX,4,4,6,2,0,0,0,0,17,9.00,2010
+15,Carolina Panthers,DST,16,CAR,PIT,6,3,4,0,2,0,0,0,27,7.00,2010
+16,Cincinnati Bengals,DST,16,CIN,LAC,3,1,5,1,1,0,0,0,20,6.00,2010
+17,New York Jets,DST,16,NYJ,CHI,3,2,4,1,0,0,1,0,38,6.00,2010
+18,Philadelphia Eagles,DST,16,PHI,MIN,8,2,2,0,1,0,0,0,24,5.00,2010
+19,Cleveland Browns,DST,16,CLE,BAL,1,1,2,1,0,0,0,0,20,4.00,2010
+20,Jacksonville Jaguars,DST,16,JAX,WAS,5,1,5,1,0,0,0,0,20,4.00,2010
+21,Tampa Bay Buccaneers,DST,16,TB,SEA,6,3,3,0,0,0,0,0,15,4.00,2010
+22,Tennessee Titans,DST,16,TEN,KC,7,1,4,1,1,0,0,0,34,4.00,2010
+23,Chicago Bears,DST,16,CHI,NYJ,3,0,1,1,1,0,0,0,34,3.00,2010
+24,Houston Texans,DST,16,HOU,DEN,3,1,2,1,0,0,0,0,24,3.00,2010
+25,Indianapolis Colts,DST,16,IND,OAK,5,3,6,0,0,0,0,0,26,3.00,2010
+26,Dallas Cowboys,DST,16,DAL,ARI,3,1,1,0,0,0,0,0,27,2.00,2010
+27,Denver Broncos,DST,16,DEN,HOU,5,0,1,1,0,0,0,0,23,2.00,2010
+28,Miami Dolphins,DST,16,MIA,DET,7,2,3,0,0,0,0,0,34,1.00,2010
+29,Los Angeles Chargers,DST,16,LAC,CIN,3,0,0,0,1,0,0,0,34,1.00,2010
+30,Buffalo Bills,DST,16,BUF,NE,2,1,1,0,0,0,0,0,34,0.00,2010
+31,New York Giants,DST,16,NYG,GB,7,2,3,0,1,0,0,0,45,0.00,2010
+32,Seattle Seahawks,DST,16,SEA,TB,5,2,4,0,0,0,0,0,38,0.00,2010

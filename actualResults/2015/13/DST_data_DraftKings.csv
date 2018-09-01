@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Philadelphia Eagles,DST,13,PHI,NE,8,4,12,2,0,0,1,2,28,27.00,2015
+2,Denver Broncos,DST,13,DEN,LAC,5,4,12,1,2,0,1,0,3,23.00,2015
+3,Kansas City Chiefs,DST,13,KC,OAK,7,4,5,3,2,0,1,0,20,21.00,2015
+4,Pittsburgh Steelers,DST,13,PIT,IND,4,5,8,2,1,0,0,1,10,21.00,2015
+5,Miami Dolphins,DST,13,MIA,BAL,3,3,11,2,0,0,1,0,13,17.00,2015
+6,Cincinnati Bengals,DST,13,CIN,CLE,7,3,10,1,1,0,0,0,3,16.00,2015
+7,New York Giants,DST,13,NYG,NYJ,3,3,9,0,1,0,0,1,23,11.00,2015
+8,New Orleans Saints,DST,13,NO,CAR,4,1,3,1,2,0,1,0,41,11.00,2015
+9,San Francisco 49ers,DST,13,SF,CHI,2,1,1,1,0,0,1,0,20,10.00,2015
+10,Seattle Seahawks,DST,13,SEA,MIN,9,4,7,1,0,0,0,0,7,10.00,2015
+11,Arizona Cardinals,DST,13,ARI,LAR,2,0,8,1,0,0,0,0,3,9.00,2015
+12,Washington Redskins,DST,13,WAS,DAL,5,1,1,0,3,0,0,0,19,8.00,2015
+13,Baltimore Ravens,DST,13,BAL,MIA,2,1,5,0,1,0,0,0,15,7.00,2015
+14,Oakland Raiders,DST,13,OAK,KC,4,4,7,0,2,0,0,0,34,7.00,2015
+15,Los Angeles Chargers,DST,13,LAC,DEN,4,1,5,1,0,0,0,0,17,7.00,2015
+16,Chicago Bears,DST,13,CHI,SF,4,4,7,0,0,0,0,0,26,7.00,2015
+17,Minnesota Vikings,DST,13,MIN,SEA,4,2,4,0,1,0,0,1,38,6.00,2015
+18,New York Jets,DST,13,NYJ,NYG,4,3,7,1,0,0,0,0,20,6.00,2015
+19,Tampa Bay Buccaneers,DST,13,TB,ATL,6,3,6,1,0,0,0,0,19,6.00,2015
+20,Tennessee Titans,DST,13,TEN,JAX,1,2,3,0,1,0,1,0,39,6.00,2015
+21,Dallas Cowboys,DST,13,DAL,WAS,8,3,6,0,1,0,0,0,16,6.00,2015
+22,Green Bay Packers,DST,13,GB,DET,8,3,6,0,1,0,0,0,23,5.00,2015
+23,Detroit Lions,DST,13,DET,GB,11,3,13,1,0,0,0,0,27,5.00,2015
+24,Atlanta Falcons,DST,13,ATL,TB,3,1,5,1,1,0,0,0,23,5.00,2015
+25,Carolina Panthers,DST,13,CAR,NO,4,2,7,1,1,0,0,0,38,5.00,2015
+26,Buffalo Bills,DST,13,BUF,HOU,1,2,7,1,0,0,0,0,21,4.00,2015
+27,Jacksonville Jaguars,DST,13,JAX,TEN,8,4,4,1,1,0,0,0,42,4.00,2015
+28,New England Patriots,DST,13,NE,PHI,3,1,3,0,2,0,0,0,35,4.00,2015
+29,Los Angeles Rams,DST,13,LAR,ARI,7,2,10,0,0,0,0,0,27,2.00,2015
+30,Indianapolis Colts,DST,13,IND,PIT,3,0,1,0,3,0,0,0,45,2.00,2015
+31,Houston Texans,DST,13,HOU,BUF,3,1,3,0,0,0,0,0,30,0.00,2015
+32,Cleveland Browns,DST,13,CLE,CIN,3,1,1,0,0,0,0,0,37,-3.00,2015

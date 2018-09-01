@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Seattle Seahawks,DST,15,SEA,CHI,6,4,5,4,1,0,2,0,14,30.00,2011
+2,Atlanta Falcons,DST,15,ATL,JAX,5,5,6,1,3,0,1,0,14,20.00,2011
+3,Philadelphia Eagles,DST,15,PHI,NYJ,7,4,4,2,2,0,1,0,19,19.00,2011
+4,San Francisco 49ers,DST,15,SF,PIT,6,3,8,3,1,0,0,0,3,18.00,2011
+5,Indianapolis Colts,DST,15,IND,TEN,6,1,3,2,1,0,1,0,13,17.00,2011
+6,Washington Redskins,DST,15,WAS,NYG,6,3,4,3,0,0,0,0,10,13.00,2011
+7,Carolina Panthers,DST,15,CAR,HOU,5,2,2,2,1,0,0,0,13,12.00,2011
+8,Los Angeles Chargers,DST,15,LAC,BAL,7,7,7,2,0,0,0,0,14,12.00,2011
+9,New England Patriots,DST,15,NE,DEN,4,4,5,0,3,0,0,0,23,10.00,2011
+10,Chicago Bears,DST,15,CHI,SEA,5,1,2,0,1,0,1,0,38,9.00,2011
+11,Dallas Cowboys,DST,15,DAL,TB,4,3,5,0,1,0,0,0,15,9.00,2011
+12,Miami Dolphins,DST,15,MIA,BUF,4,3,8,3,0,0,0,0,23,9.00,2011
+13,Oakland Raiders,DST,15,OAK,DET,3,2,4,0,1,0,1,0,28,9.00,2011
+14,Tampa Bay Buccaneers,DST,15,TB,DAL,5,2,4,0,1,0,1,0,31,9.00,2011
+15,Buffalo Bills,DST,15,BUF,MIA,3,2,2,0,3,0,0,0,30,7.00,2011
+16,Cincinnati Bengals,DST,15,CIN,LAR,7,3,9,0,0,0,0,0,13,7.00,2011
+17,Cleveland Browns,DST,15,CLE,ARI,8,4,7,1,0,0,0,0,20,7.00,2011
+18,New Orleans Saints,DST,15,NO,MIN,7,4,5,1,0,0,0,0,20,7.00,2011
+19,New York Jets,DST,15,NYJ,PHI,6,3,2,1,3,0,0,0,45,7.00,2011
+20,Detroit Lions,DST,15,DET,OAK,3,3,3,0,1,0,0,0,27,7.00,2011
+21,Arizona Cardinals,DST,15,ARI,CLE,4,2,1,0,1,0,0,0,17,5.00,2011
+22,Kansas City Chiefs,DST,15,KC,GB,3,4,5,0,0,0,0,0,14,5.00,2011
+23,New York Giants,DST,15,NYG,WAS,4,1,8,2,0,0,0,0,23,5.00,2011
+24,Jacksonville Jaguars,DST,15,JAX,ATL,7,1,4,0,0,0,0,1,41,5.00,2011
+25,Los Angeles Rams,DST,15,LAR,CIN,5,1,1,1,0,0,0,0,20,4.00,2011
+26,Tennessee Titans,DST,15,TEN,IND,3,0,1,0,1,0,0,0,27,2.00,2011
+27,Green Bay Packers,DST,15,GB,KC,3,0,1,0,0,0,0,0,19,1.00,2011
+28,Houston Texans,DST,15,HOU,CAR,4,2,3,0,0,0,0,0,28,1.00,2011
+29,Pittsburgh Steelers,DST,15,PIT,SF,3,0,1,0,0,0,0,0,20,1.00,2011
+30,Minnesota Vikings,DST,15,MIN,NO,1,0,2,0,2,0,0,0,42,0.00,2011
+31,Baltimore Ravens,DST,15,BAL,LAC,1,0,1,0,0,0,0,0,34,-1.00,2011
+32,Denver Broncos,DST,15,DEN,NE,5,2,3,0,0,0,0,0,41,-2.00,2011

@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Rams,DST,7,LAR,CLE,6,4,7,0,4,0,1,0,6,25.00,2015
+2,Jacksonville Jaguars,DST,7,JAX,BUF,8,4,6,2,2,0,2,0,31,24.00,2015
+3,New York Giants,DST,7,NYG,DAL,0,1,6,3,1,0,1,1,20,22.00,2015
+4,Seattle Seahawks,DST,7,SEA,SF,6,6,9,0,0,0,0,0,3,13.00,2015
+5,San Francisco 49ers,DST,7,SF,SEA,6,5,8,2,1,0,0,0,20,12.00,2015
+6,New Orleans Saints,DST,7,NO,IND,3,4,10,2,2,0,0,0,21,12.00,2015
+7,Kansas City Chiefs,DST,7,KC,PIT,1,2,2,2,1,0,0,0,13,12.00,2015
+8,Miami Dolphins,DST,7,MIA,HOU,7,4,6,1,0,0,1,0,26,12.00,2015
+9,Buffalo Bills,DST,7,BUF,JAX,2,2,4,1,0,0,1,0,34,10.00,2015
+10,Atlanta Falcons,DST,7,ATL,TEN,1,1,7,2,0,0,0,0,7,9.00,2015
+11,Minnesota Vikings,DST,7,MIN,DET,7,7,13,0,0,0,0,0,19,8.00,2015
+12,Indianapolis Colts,DST,7,IND,NO,7,2,8,1,2,0,0,0,27,8.00,2015
+13,Tennessee Titans,DST,7,TEN,ATL,1,0,2,2,0,0,0,0,10,8.00,2015
+14,Tampa Bay Buccaneers,DST,7,TB,WAS,3,1,7,0,1,0,1,0,31,8.00,2015
+15,Carolina Panthers,DST,7,CAR,PHI,7,5,9,1,0,0,0,0,16,8.00,2015
+16,Arizona Cardinals,DST,7,ARI,BAL,8,3,5,1,1,0,0,0,18,8.00,2015
+17,Detroit Lions,DST,7,DET,MIN,12,4,11,0,1,1,0,0,28,7.00,2015
+18,Philadelphia Eagles,DST,7,PHI,CAR,3,1,2,3,0,0,0,0,27,7.00,2015
+19,Cleveland Browns,DST,7,CLE,LAR,4,2,4,0,1,0,0,0,24,5.00,2015
+20,Houston Texans,DST,7,HOU,MIA,8,4,6,0,2,0,0,0,44,4.00,2015
+21,New England Patriots,DST,7,NE,NYJ,1,2,3,0,1,0,0,0,23,4.00,2015
+22,Oakland Raiders,DST,7,OAK,LAC,3,1,4,2,0,0,0,0,29,4.00,2015
+23,Washington Redskins,DST,7,WAS,TB,3,1,6,0,1,0,0,0,30,3.00,2015
+24,Pittsburgh Steelers,DST,7,PIT,KC,2,2,8,0,0,0,0,0,23,2.00,2015
+25,New York Jets,DST,7,NYJ,NE,3,3,5,0,0,0,0,0,30,2.00,2015
+26,Dallas Cowboys,DST,7,DAL,NYG,2,2,3,0,0,0,0,0,27,2.00,2015
+27,Baltimore Ravens,DST,7,BAL,ARI,5,2,4,0,0,0,0,0,26,2.00,2015
+28,Los Angeles Chargers,DST,7,LAC,OAK,2,1,1,0,0,0,0,0,37,-3.00,2015

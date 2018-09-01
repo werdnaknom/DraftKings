@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,15,ARI,DET,7,2,8,3,1,0,2,0,10,26.00,2012
+2,Cincinnati Bengals,DST,15,CIN,PHI,6,1,2,1,4,0,1,0,13,23.00,2012
+3,New Orleans Saints,DST,15,NO,TB,3,2,10,4,1,0,0,0,0,22.00,2012
+4,Tennessee Titans,DST,15,TEN,NYJ,6,4,6,4,1,0,0,0,10,18.00,2012
+5,Atlanta Falcons,DST,15,ATL,NYG,2,1,2,2,1,0,0,0,0,17.00,2012
+6,Oakland Raiders,DST,15,OAK,KC,6,4,8,1,0,0,0,0,0,16.00,2012
+7,Seattle Seahawks,DST,15,SEA,BUF,3,3,4,2,1,0,1,0,17,16.00,2012
+8,Houston Texans,DST,15,HOU,IND,9,5,10,0,1,0,0,1,17,16.00,2012
+9,Carolina Panthers,DST,15,CAR,LAC,5,6,3,0,2,0,0,0,7,14.00,2012
+10,Denver Broncos,DST,15,DEN,BAL,5,3,9,1,1,0,1,0,17,14.00,2012
+11,Minnesota Vikings,DST,15,MIN,LAR,5,4,8,1,1,0,1,0,22,14.00,2012
+12,Green Bay Packers,DST,15,GB,CHI,6,4,4,1,0,0,0,0,13,10.00,2012
+13,San Francisco 49ers,DST,15,SF,NE,5,3,7,2,2,0,0,0,34,10.00,2012
+14,Miami Dolphins,DST,15,MIA,JAX,3,2,5,0,0,0,0,0,3,9.00,2012
+15,Philadelphia Eagles,DST,15,PHI,CIN,6,6,6,0,2,0,0,0,34,9.00,2012
+16,Dallas Cowboys,DST,15,DAL,PIT,3,4,8,1,1,0,0,0,24,8.00,2012
+17,Chicago Bears,DST,15,CHI,GB,4,3,4,0,2,0,0,0,21,7.00,2012
+18,New York Jets,DST,15,NYJ,TEN,7,4,3,0,0,0,0,0,14,7.00,2012
+19,Washington Redskins,DST,15,WAS,CLE,4,2,2,2,0,0,0,0,21,6.00,2012
+20,Detroit Lions,DST,15,DET,ARI,7,1,5,1,0,0,0,0,38,3.00,2012
+21,Jacksonville Jaguars,DST,15,JAX,MIA,2,1,0,0,1,0,0,0,24,3.00,2012
+22,Kansas City Chiefs,DST,15,KC,OAK,4,0,0,0,1,0,0,0,15,3.00,2012
+23,Pittsburgh Steelers,DST,15,PIT,DAL,3,1,2,0,1,0,0,0,27,3.00,2012
+24,Los Angeles Chargers,DST,15,LAC,CAR,5,2,4,0,1,0,0,0,31,3.00,2012
+25,Indianapolis Colts,DST,15,IND,HOU,4,3,3,0,0,0,0,0,29,2.00,2012
+26,Baltimore Ravens,DST,15,BAL,DEN,6,2,5,0,0,0,0,0,34,1.00,2012
+27,New England Patriots,DST,15,NE,SF,5,1,1,1,1,0,0,0,41,1.00,2012
+28,Los Angeles Rams,DST,15,LAR,MIN,10,2,2,0,0,0,0,0,36,1.00,2012
+29,Cleveland Browns,DST,15,CLE,WAS,3,2,3,1,0,0,0,0,38,0.00,2012
+30,New York Giants,DST,15,NYG,ATL,5,1,3,0,0,0,0,0,34,0.00,2012
+31,Buffalo Bills,DST,15,BUF,SEA,3,2,3,0,0,0,0,0,50,0.00,2012
+32,Tampa Bay Buccaneers,DST,15,TB,NO,5,1,5,0,0,0,0,0,41,-3.00,2012

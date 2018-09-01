@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Arizona Cardinals,DST,2,ARI,TB,5,3,8,4,1,0,1,0,7,23.00,2016
+2,Denver Broncos,DST,2,DEN,IND,2,5,12,1,1,0,2,0,20,22.00,2016
+3,Houston Texans,DST,2,HOU,KC,4,4,10,0,4,0,0,0,12,16.00,2016
+4,Carolina Panthers,DST,2,CAR,SF,5,2,5,2,1,0,1,0,27,14.00,2016
+5,New York Giants,DST,2,NYG,NO,5,2,6,0,0,0,0,1,13,14.00,2016
+6,Los Angeles Rams,DST,2,LAR,SEA,7,2,9,0,2,0,0,0,3,13.00,2016
+7,Minnesota Vikings,DST,2,MIN,GB,7,5,8,1,2,0,0,0,14,12.00,2016
+8,Baltimore Ravens,DST,2,BAL,CLE,8,3,8,2,0,0,0,0,20,12.00,2016
+9,Tennessee Titans,DST,2,TEN,DET,5,4,6,1,0,0,0,0,15,10.00,2016
+10,Philadelphia Eagles,DST,2,PHI,CHI,3,3,6,1,2,0,0,0,14,10.00,2016
+11,New Orleans Saints,DST,2,NO,NYG,6,2,2,0,3,0,0,0,16,9.00,2016
+12,Los Angeles Chargers,DST,2,LAC,JAX,7,2,3,2,1,0,0,0,14,9.00,2016
+13,Detroit Lions,DST,2,DET,TEN,5,3,5,1,0,1,0,0,16,8.00,2016
+14,New England Patriots,DST,2,NE,MIA,1,0,7,2,2,0,0,0,24,8.00,2016
+15,Kansas City Chiefs,DST,2,KC,HOU,4,2,5,2,0,0,0,0,19,7.00,2016
+16,Seattle Seahawks,DST,2,SEA,LAR,9,3,5,0,0,0,0,0,9,7.00,2016
+17,Green Bay Packers,DST,2,GB,MIN,9,4,12,0,1,0,0,0,17,7.00,2016
+18,Chicago Bears,DST,2,CHI,PHI,7,2,2,0,0,0,0,1,29,7.00,2016
+19,San Francisco 49ers,DST,2,SF,CAR,3,1,3,1,3,0,0,0,46,7.00,2016
+20,Pittsburgh Steelers,DST,2,PIT,CIN,1,1,2,0,2,0,0,0,16,6.00,2016
+21,Washington Redskins,DST,2,WAS,DAL,7,4,8,0,1,0,0,0,27,6.00,2016
+22,Buffalo Bills,DST,2,BUF,NYJ,3,1,2,0,1,0,1,0,37,5.00,2016
+23,Cincinnati Bengals,DST,2,CIN,PIT,4,1,5,2,0,0,0,0,24,5.00,2016
+24,Cleveland Browns,DST,2,CLE,BAL,2,0,7,2,0,0,0,0,25,4.00,2016
+25,Dallas Cowboys,DST,2,DAL,WAS,3,2,9,1,0,0,0,0,23,4.00,2016
+26,Miami Dolphins,DST,2,MIA,NE,5,2,7,0,1,0,0,0,31,3.00,2016
+27,Indianapolis Colts,DST,2,IND,DEN,4,1,5,1,0,0,0,0,34,3.00,2016
+28,New York Jets,DST,2,NYJ,BUF,4,0,1,1,0,0,0,0,31,2.00,2016
+29,Jacksonville Jaguars,DST,2,JAX,LAC,7,3,2,0,1,0,0,0,38,1.00,2016
+30,Tampa Bay Buccaneers,DST,2,TB,ARI,3,1,4,0,0,0,0,0,40,0.00,2016
+31,Atlanta Falcons,DST,2,ATL,OAK,0,1,2,0,0,0,0,0,28,0.00,2016
+32,Oakland Raiders,DST,2,OAK,ATL,3,1,5,1,0,0,0,0,35,-1.00,2016

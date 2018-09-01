@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Dallas Cowboys,DST,3,DAL,CAR,4,3,3,2,1,0,1,0,7,19.00,2009
+2,Baltimore Ravens,DST,3,BAL,CLE,8,2,2,4,0,0,0,0,3,17.00,2009
+3,Denver Broncos,DST,3,DEN,OAK,6,3,3,2,1,0,0,0,3,16.00,2009
+4,Indianapolis Colts,DST,3,IND,ARI,7,4,12,2,1,0,0,0,10,14.00,2009
+5,Los Angeles Chargers,DST,3,LAC,MIA,3,1,2,1,0,0,1,0,13,13.00,2009
+6,New Orleans Saints,DST,3,NO,BUF,8,4,13,1,1,0,0,0,7,12.00,2009
+7,New York Giants,DST,3,NYG,TB,2,0,10,1,0,0,0,0,0,12.00,2009
+8,San Francisco 49ers,DST,3,SF,MIN,5,2,7,1,0,0,0,1,27,12.00,2009
+9,New York Jets,DST,3,NYJ,TEN,8,2,5,2,2,0,0,0,17,11.00,2009
+10,Cincinnati Bengals,DST,3,CIN,PIT,1,1,4,1,0,0,1,0,20,10.00,2009
+11,Green Bay Packers,DST,3,GB,LAR,4,1,7,1,2,0,0,0,17,10.00,2009
+12,Minnesota Vikings,DST,3,MIN,SF,5,1,5,1,0,0,0,1,24,9.00,2009
+13,Chicago Bears,DST,3,CHI,SEA,6,3,6,1,1,0,0,0,19,8.00,2009
+14,Tennessee Titans,DST,3,TEN,NYJ,7,3,2,1,1,0,0,0,24,7.00,2009
+15,Jacksonville Jaguars,DST,3,JAX,HOU,3,2,8,1,1,0,0,0,24,6.00,2009
+16,New England Patriots,DST,3,NE,ATL,2,0,3,0,1,0,0,0,10,6.00,2009
+17,Philadelphia Eagles,DST,3,PHI,KC,5,3,5,0,1,0,0,0,14,6.00,2009
+18,Seattle Seahawks,DST,3,SEA,CHI,7,2,6,1,1,0,0,0,25,6.00,2009
+19,Detroit Lions,DST,3,DET,WAS,3,2,2,1,0,0,0,0,14,5.00,2009
+20,Miami Dolphins,DST,3,MIA,LAC,4,2,2,0,1,0,0,0,23,5.00,2009
+21,Buffalo Bills,DST,3,BUF,NO,3,2,3,0,1,0,0,0,27,4.00,2009
+22,Carolina Panthers,DST,3,CAR,DAL,2,2,3,0,0,0,0,0,21,3.00,2009
+23,Pittsburgh Steelers,DST,3,PIT,CIN,3,2,2,0,0,0,0,0,23,3.00,2009
+24,Washington Redskins,DST,3,WAS,DET,6,2,4,0,0,0,0,0,19,3.00,2009
+25,Cleveland Browns,DST,3,CLE,BAL,4,1,2,0,1,0,0,0,34,2.00,2009
+26,Oakland Raiders,DST,3,OAK,DEN,1,0,0,0,1,0,0,0,23,2.00,2009
+27,Arizona Cardinals,DST,3,ARI,IND,5,0,2,1,0,0,0,0,31,1.00,2009
+28,Houston Texans,DST,3,HOU,JAX,3,0,6,0,1,0,0,0,31,1.00,2009
+29,Kansas City Chiefs,DST,3,KC,PHI,3,0,1,0,1,0,0,0,34,1.00,2009
+30,Atlanta Falcons,DST,3,ATL,NE,2,0,2,0,0,0,0,0,26,0.00,2009
+31,Tampa Bay Buccaneers,DST,3,TB,NYG,3,0,2,0,0,0,0,0,24,0.00,2009
+32,Los Angeles Rams,DST,3,LAR,GB,4,2,3,0,0,0,0,0,36,-2.00,2009

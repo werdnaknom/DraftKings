@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Houston Texans,DST,13,HOU,TEN,7,6,8,3,3,0,0,0,10,22.00,2012
+2,Los Angeles Rams,DST,13,LAR,SF,6,3,5,0,1,1,1,0,13,17.00,2012
+3,Arizona Cardinals,DST,13,ARI,NYJ,3,3,5,3,1,0,0,0,7,15.00,2012
+4,Atlanta Falcons,DST,13,ATL,NO,4,1,6,5,0,0,0,0,13,15.00,2012
+5,Los Angeles Chargers,DST,13,LAC,CIN,3,1,3,2,1,0,1,0,20,14.00,2012
+6,Cincinnati Bengals,DST,13,CIN,LAC,4,4,3,1,1,0,0,0,13,12.00,2012
+7,New York Jets,DST,13,NYJ,ARI,4,2,4,1,0,0,0,0,6,11.00,2012
+8,Denver Broncos,DST,13,DEN,TB,1,1,3,1,0,0,1,0,23,9.00,2012
+9,Baltimore Ravens,DST,13,BAL,PIT,8,2,6,2,1,0,0,0,23,8.00,2012
+10,Buffalo Bills,DST,13,BUF,JAX,5,3,6,1,1,0,0,0,18,8.00,2012
+11,Dallas Cowboys,DST,13,DAL,PHI,5,1,3,0,1,0,1,0,33,8.00,2012
+12,Pittsburgh Steelers,DST,13,PIT,BAL,4,3,3,1,1,0,0,0,20,8.00,2012
+13,Oakland Raiders,DST,13,OAK,CLE,3,1,10,2,0,0,0,0,20,8.00,2012
+14,Philadelphia Eagles,DST,13,PHI,DAL,7,2,6,0,0,0,0,1,38,7.00,2012
+15,Miami Dolphins,DST,13,MIA,NE,5,4,8,1,0,0,0,0,23,6.00,2012
+16,New England Patriots,DST,13,NE,MIA,7,3,3,0,1,0,0,0,16,6.00,2012
+17,San Francisco 49ers,DST,13,SF,LAR,5,2,3,0,0,0,0,0,16,6.00,2012
+18,Green Bay Packers,DST,13,GB,MIN,2,0,1,2,0,0,0,0,14,5.00,2012
+19,Chicago Bears,DST,13,CHI,SEA,4,2,2,0,1,0,0,0,23,4.00,2012
+20,Cleveland Browns,DST,13,CLE,OAK,3,1,1,1,0,0,0,0,17,4.00,2012
+21,Detroit Lions,DST,13,DET,IND,7,2,13,3,0,0,0,0,35,4.00,2012
+22,Minnesota Vikings,DST,13,MIN,GB,5,2,3,1,0,0,0,0,23,4.00,2012
+23,Jacksonville Jaguars,DST,13,JAX,BUF,5,0,2,1,1,0,0,0,34,3.00,2012
+24,New Orleans Saints,DST,13,NO,ATL,3,1,6,0,1,0,0,0,23,3.00,2012
+25,New York Giants,DST,13,NYG,WAS,1,0,2,0,1,0,0,0,17,3.00,2012
+26,Kansas City Chiefs,DST,13,KC,CAR,4,2,5,0,0,0,0,0,21,2.00,2012
+27,Tampa Bay Buccaneers,DST,13,TB,DEN,7,0,0,1,0,0,0,0,31,2.00,2012
+28,Washington Redskins,DST,13,WAS,NYG,1,1,2,0,0,0,0,0,16,2.00,2012
+29,Carolina Panthers,DST,13,CAR,KC,5,1,3,0,0,0,0,0,27,1.00,2012
+30,Indianapolis Colts,DST,13,IND,DET,5,0,4,1,0,0,0,0,33,1.00,2012
+31,Seattle Seahawks,DST,13,SEA,CHI,2,0,3,0,0,0,0,0,17,1.00,2012
+32,Tennessee Titans,DST,13,TEN,HOU,2,0,1,0,0,0,0,0,24,0.00,2012

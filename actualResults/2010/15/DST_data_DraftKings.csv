@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Chicago Bears,DST,15,CHI,MIN,7,4,3,3,2,0,0,1,14,21.00,2010
+2,Atlanta Falcons,DST,15,ATL,SEA,2,2,4,2,1,0,1,0,18,15.00,2010
+3,New England Patriots,DST,15,NE,GB,6,5,8,1,1,0,1,0,27,15.00,2010
+4,New York Jets,DST,15,NYJ,PIT,5,3,1,0,0,1,0,1,17,12.00,2010
+5,Los Angeles Chargers,DST,15,LAC,SF,7,6,7,1,0,0,0,0,7,12.00,2010
+6,Carolina Panthers,DST,15,CAR,ARI,5,3,4,1,1,0,0,0,12,11.00,2010
+7,Indianapolis Colts,DST,15,IND,JAX,4,1,8,1,1,0,0,1,24,11.00,2010
+8,Kansas City Chiefs,DST,15,KC,LAR,4,3,6,2,0,0,0,0,13,11.00,2010
+9,Philadelphia Eagles,DST,15,PHI,NYG,7,2,3,1,1,0,0,1,31,11.00,2010
+10,Dallas Cowboys,DST,15,DAL,WAS,5,5,7,2,1,0,0,0,30,10.00,2010
+11,Buffalo Bills,DST,15,BUF,MIA,4,3,6,1,1,0,0,0,14,8.00,2010
+12,Tennessee Titans,DST,15,TEN,HOU,8,4,8,1,0,0,0,0,17,7.00,2010
+13,Jacksonville Jaguars,DST,15,JAX,IND,5,1,2,0,0,0,0,1,34,6.00,2010
+14,Oakland Raiders,DST,15,OAK,DEN,11,2,3,0,1,1,0,0,23,6.00,2010
+15,Arizona Cardinals,DST,15,ARI,CAR,11,2,2,0,1,0,0,0,19,5.00,2010
+16,Baltimore Ravens,DST,15,BAL,NO,6,3,2,1,0,0,0,0,24,5.00,2010
+17,Cincinnati Bengals,DST,15,CIN,CLE,4,4,6,0,0,0,0,0,17,5.00,2010
+18,Miami Dolphins,DST,15,MIA,BUF,6,2,3,1,0,0,0,0,17,5.00,2010
+19,New York Giants,DST,15,NYG,PHI,4,3,11,1,2,0,0,0,38,5.00,2010
+20,Los Angeles Rams,DST,15,LAR,KC,7,3,5,1,0,0,0,0,27,5.00,2010
+21,Detroit Lions,DST,15,DET,TB,4,3,6,0,0,0,0,0,20,4.00,2010
+22,Houston Texans,DST,15,HOU,TEN,5,3,5,1,0,0,0,0,31,4.00,2010
+23,Green Bay Packers,DST,15,GB,NE,4,3,3,0,0,0,0,0,31,3.00,2010
+24,Denver Broncos,DST,15,DEN,OAK,1,0,1,2,1,0,0,0,39,2.00,2010
+25,New Orleans Saints,DST,15,NO,BAL,7,3,5,0,0,0,0,0,30,2.00,2010
+26,Pittsburgh Steelers,DST,15,PIT,NYJ,1,1,2,0,0,0,0,0,22,2.00,2010
+27,Seattle Seahawks,DST,15,SEA,ATL,3,1,5,1,0,0,0,0,34,2.00,2010
+28,Cleveland Browns,DST,15,CLE,CIN,1,0,1,0,0,0,0,0,19,1.00,2010
+29,Washington Redskins,DST,15,WAS,DAL,4,2,4,0,0,0,0,0,33,1.00,2010
+30,San Francisco 49ers,DST,15,SF,LAC,4,1,3,0,0,0,0,0,34,0.00,2010
+31,Tampa Bay Buccaneers,DST,15,TB,DET,5,0,2,0,0,0,0,0,23,0.00,2010
+32,Minnesota Vikings,DST,15,MIN,CHI,7,1,3,1,0,0,0,0,40,-1.00,2010

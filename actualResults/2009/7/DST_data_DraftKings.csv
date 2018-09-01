@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Los Angeles Chargers,DST,7,LAC,KC,6,5,5,3,0,0,0,1,7,23.00,2009
+2,New York Jets,DST,7,NYJ,OAK,4,3,2,2,2,0,0,0,0,21.00,2009
+3,Philadelphia Eagles,DST,7,PHI,WAS,7,6,9,1,3,0,1,0,17,21.00,2009
+4,Pittsburgh Steelers,DST,7,PIT,MIN,6,4,7,1,1,0,2,0,17,21.00,2009
+5,Indianapolis Colts,DST,7,IND,LAR,5,3,6,2,0,0,1,0,6,20.00,2009
+6,New England Patriots,DST,7,NE,TB,6,3,6,3,0,0,1,0,7,19.00,2009
+7,New Orleans Saints,DST,7,NO,MIA,8,2,4,2,1,0,2,0,34,19.00,2009
+8,Dallas Cowboys,DST,7,DAL,ATL,2,4,3,2,1,0,0,1,21,16.00,2009
+9,Buffalo Bills,DST,7,BUF,CAR,4,2,2,3,1,0,0,0,9,14.00,2009
+10,Cincinnati Bengals,DST,7,CIN,CHI,4,1,5,3,1,0,0,0,10,13.00,2009
+11,Green Bay Packers,DST,7,GB,CLE,5,2,5,1,1,0,0,0,3,13.00,2009
+12,Minnesota Vikings,DST,7,MIN,PIT,6,4,5,0,1,0,0,1,27,13.00,2009
+13,Arizona Cardinals,DST,7,ARI,NYG,7,3,5,3,1,0,0,0,17,12.00,2009
+14,Miami Dolphins,DST,7,MIA,NO,5,5,7,3,1,0,0,0,46,12.00,2009
+15,Houston Texans,DST,7,HOU,SF,4,2,6,1,1,0,0,0,21,6.00,2009
+16,New York Giants,DST,7,NYG,ARI,7,2,7,1,1,0,0,0,24,6.00,2009
+17,Carolina Panthers,DST,7,CAR,BUF,6,2,8,0,0,1,0,0,20,5.00,2009
+18,San Francisco 49ers,DST,7,SF,HOU,7,2,7,0,1,0,0,0,24,4.00,2009
+19,Tampa Bay Buccaneers,DST,7,TB,NE,3,1,3,2,0,0,0,0,35,4.00,2009
+20,Washington Redskins,DST,7,WAS,PHI,7,3,5,0,0,0,0,0,27,3.00,2009
+21,Atlanta Falcons,DST,7,ATL,DAL,4,2,4,0,1,0,0,0,37,0.00,2009
+22,Cleveland Browns,DST,7,CLE,GB,1,0,1,0,0,0,0,0,31,-1.00,2009
+23,Oakland Raiders,DST,7,OAK,NYJ,0,1,1,0,0,0,0,0,38,-3.00,2009
+24,Chicago Bears,DST,7,CHI,CIN,2,0,2,0,0,0,0,0,45,-4.00,2009
+25,Kansas City Chiefs,DST,7,KC,LAC,5,0,2,0,0,0,0,0,37,-4.00,2009
+26,Los Angeles Rams,DST,7,LAR,IND,2,0,1,0,0,0,0,0,42,-4.00,2009

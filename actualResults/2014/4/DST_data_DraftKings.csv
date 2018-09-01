@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Philadelphia Eagles,DST,4,PHI,SF,6,4,7,1,0,0,1,2,26,26.00,2014
+2,Miami Dolphins,DST,4,MIA,OAK,3,2,5,3,1,0,1,0,14,17.00,2014
+3,Kansas City Chiefs,DST,4,KC,NE,2,3,2,2,1,0,1,0,14,16.00,2014
+4,New York Giants,DST,4,NYG,WAS,1,2,4,4,2,0,0,0,14,15.00,2014
+5,Houston Texans,DST,4,HOU,BUF,4,2,16,2,0,0,1,0,17,13.00,2014
+6,Indianapolis Colts,DST,4,IND,TEN,2,3,5,2,1,0,0,0,17,10.00,2014
+7,Los Angeles Chargers,DST,4,LAC,JAX,7,3,5,2,1,0,0,0,14,10.00,2014
+8,San Francisco 49ers,DST,4,SF,PHI,3,1,5,2,2,0,0,0,21,10.00,2014
+9,Buffalo Bills,DST,4,BUF,HOU,6,2,9,2,1,0,0,0,23,9.00,2014
+10,Dallas Cowboys,DST,4,DAL,NO,2,2,5,1,2,0,0,0,17,9.00,2014
+11,Baltimore Ravens,DST,4,BAL,CAR,3,2,7,0,1,0,0,0,10,8.00,2014
+12,Detroit Lions,DST,4,DET,NYJ,4,2,4,1,1,0,0,0,17,7.00,2014
+13,Tampa Bay Buccaneers,DST,4,TB,PIT,8,5,5,0,1,0,0,0,24,7.00,2014
+14,Green Bay Packers,DST,4,GB,CHI,2,1,3,2,0,0,0,0,17,6.00,2014
+15,Oakland Raiders,DST,4,OAK,MIA,3,0,6,1,2,0,0,0,38,5.00,2014
+16,Minnesota Vikings,DST,4,MIN,ATL,2,1,5,2,0,0,0,0,28,4.00,2014
+17,New York Jets,DST,4,NYJ,DET,5,4,7,0,0,0,0,0,24,4.00,2014
+18,Pittsburgh Steelers,DST,4,PIT,TB,4,1,4,1,0,0,0,0,27,3.00,2014
+19,Jacksonville Jaguars,DST,4,JAX,LAC,5,2,5,0,0,0,0,0,33,1.00,2014
+20,Washington Redskins,DST,4,WAS,NYG,3,1,1,1,0,0,0,0,45,-1.00,2014
+21,Chicago Bears,DST,4,CHI,GB,1,1,0,0,0,0,0,0,38,-1.00,2014
+22,New England Patriots,DST,4,NE,KC,1,2,3,0,0,0,0,0,41,-2.00,2014
+23,Tennessee Titans,DST,4,TEN,IND,3,0,3,1,0,0,0,0,41,-2.00,2014
+24,New Orleans Saints,DST,4,NO,DAL,7,1,3,0,0,0,0,0,38,-3.00,2014
+25,Atlanta Falcons,DST,4,ATL,MIN,2,0,1,0,0,0,0,0,41,-4.00,2014
+26,Carolina Panthers,DST,4,CAR,BAL,3,0,2,0,0,0,0,0,38,-4.00,2014

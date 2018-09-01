@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Jacksonville Jaguars,DST,14,JAX,TB,3,3,1,3,4,0,2,0,14,30.00,2011
+2,Detroit Lions,DST,14,DET,MIN,5,4,3,3,3,0,2,0,28,27.00,2011
+3,Philadelphia Eagles,DST,14,PHI,MIA,11,9,9,1,2,1,0,0,10,21.00,2011
+4,Los Angeles Chargers,DST,14,LAC,BUF,3,1,2,3,0,0,1,0,10,20.00,2011
+5,Green Bay Packers,DST,14,GB,OAK,1,1,2,4,1,0,1,0,16,18.00,2011
+6,Seattle Seahawks,DST,14,SEA,LAR,7,3,8,1,0,0,0,1,13,17.00,2011
+7,Chicago Bears,DST,14,CHI,DEN,6,5,4,1,1,0,0,0,13,15.00,2011
+8,Cincinnati Bengals,DST,14,CIN,HOU,7,5,10,1,3,0,0,0,20,14.00,2011
+9,Pittsburgh Steelers,DST,14,PIT,CLE,3,3,7,2,0,0,0,0,3,14.00,2011
+10,New York Jets,DST,14,NYJ,KC,6,5,6,1,0,1,0,0,10,13.00,2011
+11,New England Patriots,DST,14,NE,WAS,4,2,7,1,1,0,1,0,27,12.00,2011
+12,Buffalo Bills,DST,14,BUF,LAC,2,2,2,0,1,0,1,0,37,11.00,2011
+13,Baltimore Ravens,DST,14,BAL,IND,8,4,5,1,0,0,0,0,10,10.00,2011
+14,Denver Broncos,DST,14,DEN,CHI,10,4,7,0,1,0,0,0,10,10.00,2011
+15,Miami Dolphins,DST,14,MIA,PHI,10,4,6,1,1,0,0,0,26,10.00,2011
+16,Cleveland Browns,DST,14,CLE,PIT,4,2,3,1,2,0,0,0,14,9.00,2011
+17,San Francisco 49ers,DST,14,SF,ARI,4,2,4,2,1,0,0,0,21,8.00,2011
+18,New York Giants,DST,14,NYG,DAL,3,3,4,0,1,1,0,0,34,8.00,2011
+19,Arizona Cardinals,DST,14,ARI,SF,8,5,9,0,0,0,0,0,19,6.00,2011
+20,Atlanta Falcons,DST,14,ATL,CAR,5,2,3,2,0,0,0,0,23,6.00,2011
+21,Houston Texans,DST,14,HOU,CIN,4,1,3,0,2,0,0,0,19,6.00,2011
+22,Indianapolis Colts,DST,14,IND,BAL,5,2,5,1,1,0,0,0,24,6.00,2011
+23,Oakland Raiders,DST,14,OAK,GB,6,4,7,1,0,1,0,0,46,6.00,2011
+24,Minnesota Vikings,DST,14,MIN,DET,5,5,8,0,0,0,0,0,34,5.00,2011
+25,Carolina Panthers,DST,14,CAR,ATL,6,3,4,0,0,1,0,0,31,4.00,2011
+26,Tampa Bay Buccaneers,DST,14,TB,JAX,7,1,1,2,0,0,0,0,41,4.00,2011
+27,New Orleans Saints,DST,14,NO,TEN,4,2,5,0,0,0,0,0,17,3.00,2011
+28,Los Angeles Rams,DST,14,LAR,SEA,4,2,5,0,1,0,0,0,30,3.00,2011
+29,Tennessee Titans,DST,14,TEN,NO,5,2,3,0,0,0,0,0,22,2.00,2011
+30,Washington Redskins,DST,14,WAS,NE,0,1,6,1,0,0,0,0,34,2.00,2011
+31,Kansas City Chiefs,DST,14,KC,NYJ,5,3,2,0,1,0,0,0,37,1.00,2011
+32,Dallas Cowboys,DST,14,DAL,NYG,2,0,2,1,0,0,0,0,37,-2.00,2011

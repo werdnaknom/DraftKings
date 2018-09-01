@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Tampa Bay Buccaneers,DST,8,TB,ARI,4,1,2,4,0,0,2,0,35,20.00,2010
+2,Green Bay Packers,DST,8,GB,NYJ,2,2,3,2,1,0,0,0,0,18.00,2010
+3,Detroit Lions,DST,8,DET,WAS,11,7,12,1,1,0,1,0,25,17.00,2010
+4,Oakland Raiders,DST,8,OAK,SEA,12,8,7,1,0,0,0,0,3,17.00,2010
+5,Los Angeles Rams,DST,8,LAR,CAR,6,3,7,3,1,0,0,0,10,15.00,2010
+6,Indianapolis Colts,DST,8,IND,HOU,3,3,5,1,1,0,1,0,17,14.00,2010
+7,Arizona Cardinals,DST,8,ARI,TB,4,2,3,0,2,0,1,0,38,14.00,2010
+8,Jacksonville Jaguars,DST,8,JAX,DAL,6,2,4,4,0,0,0,0,17,11.00,2010
+9,New Orleans Saints,DST,8,NO,PIT,4,3,7,1,1,0,0,0,10,11.00,2010
+10,Washington Redskins,DST,8,WAS,DET,5,1,4,1,1,0,0,1,37,10.00,2010
+11,Kansas City Chiefs,DST,8,KC,BUF,4,3,7,1,0,0,0,0,10,9.00,2010
+12,San Francisco 49ers,DST,8,SF,DEN,4,4,5,1,1,0,0,0,16,9.00,2010
+13,Buffalo Bills,DST,8,BUF,KC,3,3,6,0,0,0,0,0,13,7.00,2010
+14,Pittsburgh Steelers,DST,8,PIT,NO,6,2,7,1,1,0,0,0,20,7.00,2010
+15,New York Jets,DST,8,NYJ,GB,4,2,5,0,0,0,0,0,9,6.00,2010
+16,Tennessee Titans,DST,8,TEN,LAC,6,1,2,1,0,1,0,0,33,6.00,2010
+17,Cincinnati Bengals,DST,8,CIN,MIA,1,0,1,1,1,0,0,0,22,4.00,2010
+18,New England Patriots,DST,8,NE,MIN,5,1,6,1,0,0,0,0,18,4.00,2010
+19,Carolina Panthers,DST,8,CAR,LAR,7,2,4,0,0,0,0,0,20,3.00,2010
+20,Miami Dolphins,DST,8,MIA,CIN,1,0,3,1,0,0,0,0,14,3.00,2010
+21,Dallas Cowboys,DST,8,DAL,JAX,3,3,8,0,1,0,0,0,35,1.00,2010
+22,Houston Texans,DST,8,HOU,IND,6,1,3,0,0,0,0,0,30,1.00,2010
+23,Seattle Seahawks,DST,8,SEA,OAK,5,2,2,0,0,0,0,0,33,1.00,2010
+24,Denver Broncos,DST,8,DEN,SF,2,0,4,0,0,0,0,0,24,0.00,2010
+25,Los Angeles Chargers,DST,8,LAC,TEN,3,0,1,0,0,0,0,0,25,0.00,2010
+26,Minnesota Vikings,DST,8,MIN,NE,3,0,3,0,0,0,0,0,28,-1.00,2010

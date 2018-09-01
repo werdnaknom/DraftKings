@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Kansas City Chiefs,DST,17,KC,DEN,4,2,3,3,0,0,2,0,24,20.00,2009
+2,New York Jets,DST,17,NYJ,CIN,6,3,4,1,2,0,0,0,0,19.00,2009
+3,Green Bay Packers,DST,17,GB,ARI,3,0,6,3,0,1,1,0,7,18.00,2009
+4,Dallas Cowboys,DST,17,DAL,PHI,5,4,5,0,1,0,0,0,0,16.00,2009
+5,San Francisco 49ers,DST,17,SF,LAR,11,8,13,0,0,0,0,0,6,15.00,2009
+6,Houston Texans,DST,17,HOU,NE,5,2,6,1,1,0,1,0,27,12.00,2009
+7,Baltimore Ravens,DST,17,BAL,OAK,3,3,7,1,1,0,0,0,13,11.00,2009
+8,Buffalo Bills,DST,17,BUF,IND,7,1,3,2,1,0,0,0,7,11.00,2009
+9,Minnesota Vikings,DST,17,MIN,NYG,4,3,2,1,1,0,0,0,7,11.00,2009
+10,Carolina Panthers,DST,17,CAR,NO,4,0,3,1,2,0,0,0,10,10.00,2009
+11,Tampa Bay Buccaneers,DST,17,TB,ATL,2,1,4,2,1,0,0,0,20,10.00,2009
+12,Atlanta Falcons,DST,17,ATL,TB,5,1,5,2,0,0,0,0,10,9.00,2009
+13,Pittsburgh Steelers,DST,17,PIT,MIA,7,3,5,3,0,0,0,0,24,9.00,2009
+14,Tennessee Titans,DST,17,TEN,SEA,6,3,7,1,0,0,0,0,13,9.00,2009
+15,New England Patriots,DST,17,NE,HOU,3,1,4,1,0,0,1,0,34,8.00,2009
+16,Chicago Bears,DST,17,CHI,DET,4,2,4,1,1,0,0,0,23,6.00,2009
+17,Cleveland Browns,DST,17,CLE,JAX,2,3,10,1,0,0,0,0,17,6.00,2009
+18,Miami Dolphins,DST,17,MIA,PIT,3,3,5,1,1,0,0,0,30,6.00,2009
+19,Seattle Seahawks,DST,17,SEA,TEN,5,0,1,1,1,0,0,0,17,5.00,2009
+20,Oakland Raiders,DST,17,OAK,BAL,4,4,6,0,0,0,0,0,21,4.00,2009
+21,Philadelphia Eagles,DST,17,PHI,DAL,5,2,3,1,0,0,0,0,24,4.00,2009
+22,Arizona Cardinals,DST,17,ARI,GB,0,1,2,1,0,0,0,0,33,3.00,2009
+23,Denver Broncos,DST,17,DEN,KC,5,0,0,2,0,0,0,0,44,3.00,2009
+24,Washington Redskins,DST,17,WAS,LAC,4,1,1,1,0,0,0,0,23,3.00,2009
+25,Jacksonville Jaguars,DST,17,JAX,CLE,6,0,0,1,0,0,0,0,23,2.00,2009
+26,New Orleans Saints,DST,17,NO,CAR,5,2,3,0,0,0,0,0,23,2.00,2009
+27,Los Angeles Chargers,DST,17,LAC,WAS,6,1,3,0,0,0,0,0,20,2.00,2009
+28,Los Angeles Rams,DST,17,LAR,SF,6,3,6,0,0,0,0,0,28,2.00,2009
+29,Indianapolis Colts,DST,17,IND,BUF,2,0,1,0,0,0,0,0,30,-1.00,2009
+30,Detroit Lions,DST,17,DET,CHI,5,2,6,0,0,0,0,0,37,-2.00,2009
+31,Cincinnati Bengals,DST,17,CIN,NYJ,3,0,0,0,0,0,0,0,37,-4.00,2009
+32,New York Giants,DST,17,NYG,MIN,4,0,3,0,0,0,0,0,44,-4.00,2009

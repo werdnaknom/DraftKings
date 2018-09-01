@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Baltimore Ravens,DST,3,BAL,LAR,6,5,11,1,1,0,1,0,7,19.00,2011
+2,Indianapolis Colts,DST,3,IND,PIT,4,3,5,1,2,0,1,0,23,16.00,2011
+3,San Francisco 49ers,DST,3,SF,CIN,1,1,2,2,1,0,0,0,8,14.00,2011
+4,Tampa Bay Buccaneers,DST,3,TB,ATL,7,4,4,1,2,0,0,0,13,14.00,2011
+5,Buffalo Bills,DST,3,BUF,NE,1,0,4,4,0,0,1,0,31,13.00,2011
+6,Cincinnati Bengals,DST,3,CIN,SF,8,5,8,0,1,1,0,0,13,13.00,2011
+7,Seattle Seahawks,DST,3,SEA,ARI,5,3,2,2,0,0,0,0,10,11.00,2011
+8,Arizona Cardinals,DST,3,ARI,SEA,7,4,12,1,0,0,0,0,13,10.00,2011
+9,Carolina Panthers,DST,3,CAR,JAX,9,2,2,1,0,1,0,0,10,10.00,2011
+10,Cleveland Browns,DST,3,CLE,MIA,6,5,8,1,1,0,0,0,16,10.00,2011
+11,Pittsburgh Steelers,DST,3,PIT,IND,3,1,6,0,1,0,1,0,20,10.00,2011
+12,Dallas Cowboys,DST,3,DAL,WAS,6,3,4,1,1,0,0,0,16,10.00,2011
+13,New York Giants,DST,3,NYG,PHI,8,2,2,3,0,0,0,0,16,9.00,2011
+14,Green Bay Packers,DST,3,GB,CHI,10,3,4,2,0,0,0,0,17,8.00,2011
+15,Oakland Raiders,DST,3,OAK,NYJ,4,4,6,1,1,0,0,0,24,8.00,2011
+16,Denver Broncos,DST,3,DEN,TEN,7,2,2,0,2,0,0,0,17,7.00,2011
+17,Kansas City Chiefs,DST,3,KC,LAC,3,2,2,2,0,0,0,0,20,7.00,2011
+18,Chicago Bears,DST,3,CHI,GB,7,2,2,1,1,0,0,0,27,6.00,2011
+19,Tennessee Titans,DST,3,TEN,DEN,4,1,3,2,0,0,0,0,14,6.00,2011
+20,Washington Redskins,DST,3,WAS,DAL,3,1,4,1,1,0,0,0,18,6.00,2011
+21,Atlanta Falcons,DST,3,ATL,TB,6,0,2,2,0,0,0,0,16,5.00,2011
+22,Minnesota Vikings,DST,3,MIN,DET,8,5,7,0,0,0,0,0,26,5.00,2011
+23,Detroit Lions,DST,3,DET,MIN,3,4,6,0,0,0,0,0,23,4.00,2011
+24,Los Angeles Chargers,DST,3,LAC,KC,3,1,1,1,0,0,0,0,17,4.00,2011
+25,Miami Dolphins,DST,3,MIA,CLE,2,0,4,1,0,0,0,0,17,3.00,2011
+26,New England Patriots,DST,3,NE,BUF,2,0,2,2,0,0,0,0,34,3.00,2011
+27,New Orleans Saints,DST,3,NO,HOU,3,2,4,1,0,0,0,0,33,3.00,2011
+28,Los Angeles Rams,DST,3,LAR,BAL,3,2,7,0,1,0,0,0,37,3.00,2011
+29,Houston Texans,DST,3,HOU,NO,5,2,5,2,0,0,0,0,40,2.00,2011
+30,Philadelphia Eagles,DST,3,PHI,NYG,4,3,3,0,0,0,0,0,29,2.00,2011
+31,Jacksonville Jaguars,DST,3,JAX,CAR,3,0,1,0,0,0,0,0,16,1.00,2011
+32,New York Jets,DST,3,NYJ,OAK,5,1,1,0,0,0,0,0,34,0.00,2011

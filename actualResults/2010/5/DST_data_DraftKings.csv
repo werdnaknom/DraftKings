@@ -1,0 +1,29 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Oakland Raiders,DST,5,OAK,LAC,3,3,6,0,3,1,1,1,27,27.00,2010
+2,Detroit Lions,DST,5,DET,LAR,4,1,1,2,1,0,1,1,6,26.00,2010
+3,Arizona Cardinals,DST,5,ARI,NO,5,1,5,3,1,0,2,0,20,22.00,2010
+4,Atlanta Falcons,DST,5,ATL,CLE,6,3,5,2,1,0,1,0,10,19.00,2010
+5,Chicago Bears,DST,5,CHI,CAR,7,5,6,3,0,0,0,0,6,18.00,2010
+6,Philadelphia Eagles,DST,5,PHI,SF,5,2,5,2,3,0,1,0,24,18.00,2010
+7,New York Jets,DST,5,NYJ,MIN,2,4,8,1,2,0,1,0,20,17.00,2010
+8,Tampa Bay Buccaneers,DST,5,TB,CIN,2,0,4,3,1,0,1,0,21,14.00,2010
+9,Tennessee Titans,DST,5,TEN,DAL,6,6,11,3,0,0,0,0,27,12.00,2010
+10,Washington Redskins,DST,5,WAS,GB,5,4,9,1,1,0,0,0,13,12.00,2010
+11,Carolina Panthers,DST,5,CAR,CHI,5,3,6,4,0,0,0,0,23,11.00,2010
+12,New York Giants,DST,5,NYG,HOU,5,3,7,1,1,0,0,0,10,11.00,2010
+13,Cincinnati Bengals,DST,5,CIN,TB,3,3,9,1,2,0,0,0,24,10.00,2010
+14,Green Bay Packers,DST,5,GB,WAS,7,5,10,1,0,0,0,0,16,8.00,2010
+15,Indianapolis Colts,DST,5,IND,KC,5,1,2,0,1,0,0,0,9,7.00,2010
+16,New Orleans Saints,DST,5,NO,ARI,3,4,5,1,0,0,0,0,30,7.00,2010
+17,Cleveland Browns,DST,5,CLE,ATL,2,2,7,0,1,0,0,0,20,7.00,2010
+18,San Francisco 49ers,DST,5,SF,PHI,4,4,5,0,1,0,0,0,27,6.00,2010
+19,Baltimore Ravens,DST,5,BAL,DEN,5,1,3,0,1,0,0,0,17,4.00,2010
+20,Buffalo Bills,DST,5,BUF,JAX,5,2,2,1,2,0,0,0,36,4.00,2010
+21,Kansas City Chiefs,DST,5,KC,IND,4,1,2,1,0,0,0,0,19,4.00,2010
+22,Houston Texans,DST,5,HOU,NYG,5,0,4,2,0,0,0,0,34,3.00,2010
+23,Jacksonville Jaguars,DST,5,JAX,BUF,7,3,6,0,0,0,0,0,26,3.00,2010
+24,Los Angeles Chargers,DST,5,LAC,OAK,2,3,4,0,0,0,0,0,35,3.00,2010
+25,Dallas Cowboys,DST,5,DAL,TEN,4,3,4,0,0,0,0,0,34,2.00,2010
+26,Minnesota Vikings,DST,5,MIN,NYJ,4,2,3,0,0,0,0,0,29,2.00,2010
+27,Denver Broncos,DST,5,DEN,BAL,2,1,3,0,0,0,0,0,31,0.00,2010
+28,Los Angeles Rams,DST,5,LAR,DET,4,1,2,0,0,0,0,0,44,-3.00,2010

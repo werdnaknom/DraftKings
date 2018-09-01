@@ -1,0 +1,27 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,Miami Dolphins,DST,9,MIA,LAC,6,4,5,3,1,0,0,0,0,22.00,2014
+2,Houston Texans,DST,9,HOU,PHI,3,4,11,3,1,0,1,0,31,17.00,2014
+3,Los Angeles Rams,DST,9,LAR,SF,6,8,7,0,2,0,0,0,10,16.00,2014
+4,Seattle Seahawks,DST,9,SEA,OAK,6,1,3,2,1,0,1,0,24,13.00,2014
+5,New Orleans Saints,DST,9,NO,CAR,4,4,4,1,1,0,0,0,10,12.00,2014
+6,New England Patriots,DST,9,NE,DEN,2,1,1,2,0,0,0,1,21,11.00,2014
+7,Arizona Cardinals,DST,9,ARI,DAL,3,1,4,2,0,0,0,0,17,11.00,2014
+8,Dallas Cowboys,DST,9,DAL,ARI,3,2,9,1,0,0,1,0,28,9.00,2014
+9,San Francisco 49ers,DST,9,SF,LAR,6,1,4,2,0,0,0,0,13,9.00,2014
+10,Cleveland Browns,DST,9,CLE,TB,2,2,2,2,0,0,0,0,17,9.00,2014
+11,Oakland Raiders,DST,9,OAK,SEA,4,1,6,0,0,0,0,1,30,9.00,2014
+12,Pittsburgh Steelers,DST,9,PIT,BAL,6,4,10,1,1,0,0,0,23,8.00,2014
+13,Cincinnati Bengals,DST,9,CIN,JAX,5,2,6,1,0,1,0,0,23,8.00,2014
+14,Baltimore Ravens,DST,9,BAL,PIT,4,3,8,0,1,0,0,1,43,7.00,2014
+15,Carolina Panthers,DST,9,CAR,NO,3,4,5,1,1,0,0,0,28,7.00,2014
+16,Kansas City Chiefs,DST,9,KC,NYJ,5,3,5,0,0,0,0,0,10,7.00,2014
+17,Minnesota Vikings,DST,9,MIN,WAS,7,5,9,1,0,0,0,0,26,7.00,2014
+18,Philadelphia Eagles,DST,9,PHI,HOU,7,4,9,1,0,0,0,0,21,7.00,2014
+19,Tampa Bay Buccaneers,DST,9,TB,CLE,10,3,7,2,0,0,0,0,22,7.00,2014
+20,Indianapolis Colts,DST,9,IND,NYG,5,3,2,0,1,0,0,0,24,5.00,2014
+21,Jacksonville Jaguars,DST,9,JAX,CIN,4,2,4,2,0,0,0,0,33,5.00,2014
+22,New York Jets,DST,9,NYJ,KC,3,1,3,0,0,0,0,0,24,1.00,2014
+23,Washington Redskins,DST,9,WAS,MIN,4,2,5,0,0,0,0,0,29,1.00,2014
+24,Denver Broncos,DST,9,DEN,NE,4,1,8,1,0,0,0,0,43,-1.00,2014
+25,New York Giants,DST,9,NYG,IND,2,1,11,0,0,0,0,0,40,-3.00,2014
+26,Los Angeles Chargers,DST,9,LAC,MIA,8,0,1,0,0,0,0,0,37,-4.00,2014

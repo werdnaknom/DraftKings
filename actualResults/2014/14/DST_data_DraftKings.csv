@@ -1,0 +1,33 @@
+Rank,Player,Position,Week,Team,Opponent,TFL,Sacks,QBHits,Interceptions,FumRec,Safeties,DefTD,ReturnTD,PtsAllowed,Points,Year
+1,New York Giants,DST,14,NYG,TEN,10,8,8,2,1,0,1,0,7,27.00,2014
+2,Los Angeles Rams,DST,14,LAR,WAS,8,7,9,2,0,0,0,1,0,27.00,2014
+3,Cleveland Browns,DST,14,CLE,IND,4,3,13,2,2,0,2,0,25,23.00,2014
+4,Detroit Lions,DST,14,DET,TB,10,6,14,2,1,0,0,0,17,13.00,2014
+5,Minnesota Vikings,DST,14,MIN,NYJ,2,3,3,1,1,0,1,0,24,13.00,2014
+6,Oakland Raiders,DST,14,OAK,SF,8,5,5,2,0,0,0,0,13,13.00,2014
+7,New England Patriots,DST,14,NE,LAC,8,4,7,1,0,0,0,0,14,12.00,2014
+8,Denver Broncos,DST,14,DEN,BUF,7,4,6,2,1,0,0,0,17,11.00,2014
+9,Los Angeles Chargers,DST,14,LAC,NE,9,1,5,1,1,0,1,0,23,11.00,2014
+10,Arizona Cardinals,DST,14,ARI,KC,7,5,8,1,1,0,0,0,14,10.00,2014
+11,Baltimore Ravens,DST,14,BAL,MIA,7,6,9,0,0,0,0,0,13,10.00,2014
+12,Carolina Panthers,DST,14,CAR,NO,4,2,6,1,1,0,0,0,10,10.00,2014
+13,Houston Texans,DST,14,HOU,JAX,6,4,9,1,0,0,0,0,13,10.00,2014
+14,Indianapolis Colts,DST,14,IND,CLE,2,1,5,2,0,0,0,0,24,9.00,2014
+15,New York Jets,DST,14,NYJ,MIN,4,3,6,1,1,1,0,0,30,9.00,2014
+16,Seattle Seahawks,DST,14,SEA,PHI,5,3,3,1,1,0,0,0,14,8.00,2014
+17,Pittsburgh Steelers,DST,14,PIT,CIN,2,3,3,0,2,0,0,0,21,7.00,2014
+18,Tennessee Titans,DST,14,TEN,NYG,2,0,5,1,0,0,1,0,36,7.00,2014
+19,Buffalo Bills,DST,14,BUF,DEN,2,0,0,2,1,0,0,0,24,6.00,2014
+20,Philadelphia Eagles,DST,14,PHI,SEA,7,2,2,0,2,0,0,0,24,6.00,2014
+21,Tampa Bay Buccaneers,DST,14,TB,DET,6,4,6,0,1,0,0,0,34,5.00,2014
+22,Dallas Cowboys,DST,14,DAL,CHI,2,0,3,1,1,0,0,0,28,5.00,2014
+23,Washington Redskins,DST,14,WAS,LAR,9,4,6,0,0,0,0,0,24,4.00,2014
+24,Kansas City Chiefs,DST,14,KC,ARI,4,2,6,0,0,0,0,0,17,3.00,2014
+25,Miami Dolphins,DST,14,MIA,BAL,3,1,1,1,0,0,0,0,28,2.00,2014
+26,Jacksonville Jaguars,DST,14,JAX,HOU,6,1,4,0,0,0,0,0,27,1.00,2014
+27,San Francisco 49ers,DST,14,SF,OAK,6,1,2,0,0,0,0,0,24,1.00,2014
+28,Green Bay Packers,DST,14,GB,ATL,5,1,4,1,0,0,0,0,37,1.00,2014
+29,Atlanta Falcons,DST,14,ATL,GB,5,1,3,0,0,0,0,0,43,-1.00,2014
+30,Chicago Bears,DST,14,CHI,DAL,3,1,2,0,0,0,0,0,41,-3.00,2014
+31,Cincinnati Bengals,DST,14,CIN,PIT,1,0,1,0,0,0,0,0,42,-4.00,2014
+32,New Orleans Saints,DST,14,NO,CAR,3,0,0,0,0,0,0,0,41,-4.00,2014
